@@ -109,13 +109,37 @@ node scripts/validate.mjs --json     # 输出 JSON，供 CI 使用
 
 ## 新增一个分站
 
-1. **内容**：建 `content/<siteId>/` 与 `content/en/<siteId>/`，按本站实体类型建子目录；
-2. **登记**：在 `schema/sites.json` 加一条 `siteId` → `types` / `typeDirs`；
-3. **取值表**：新建 `schema/sites/<siteId>.json`（`idPattern` + 本站枚举）。**缺这一步校验会直接失败**；
-4. **标签与译法**：新标签先入 `schema/tags.json`，新枚举的中文取值补 `schema/terms.en.json`（专名则入底座 `glossary.csv`）；
-5. **规则**：新建 `scripts/sites/<siteId>.mjs` 声明本站附加规则；没有也照样用通用六项跑；
-6. **站点库**：建 `site-<简写>`，`package.json` 的 `validate` 指向 `node ../lishui/scripts/validate.mjs --site <siteId>`；
-7. **门户**：在 `site-portal/sites.json` 的 `sites` 数组加一条，`status` 由 `building` 改 `live`；
-8. **域名**：配 CNAME 与 HTTPS。
+新增分站已从「照着旧站复制二十多个文件、再逐处改站名」变成「跑一条命令，再填本站特有的分类体系」。
 
-第 7 步一改，各分站顶部导航会自动带上新站——站群清单是唯一数据源，分站不硬编码兄弟站点。
+### 一条命令生成骨架
+
+```bash
+node lishui-kit/scripts/scaffold-site.mjs \
+  --id lishui-shan-shui \
+  --name 溧水山水 \
+  --name-en "Lishui Nature" \
+  --host shanshui.lishui.org \
+  --sections places:place,articles:article
+```
+
+`--sections` 是本站板块清单，形如 `<目录名>:<实体类型>`，目录名即 URL 段也是内容子树名；默认 `articles:article`。`--repo` 覆盖站点库名（默认由域名首段推出），`--dry-run` 只列将生成的文件而不写盘。**已存在的站点一律不覆盖**——站点库目录非空、取值表已存在、或已在 `schema/sites.json` 登记，任一条命中即报错退出。
+
+生成的四处：
+
+| 落点 | 内容 |
+| --- | --- |
+| `site-<简写>/` | 站点库骨架：页面薄包装（中英各一套）、五个视图包装、`config.mjs`／`content.mjs`／`model.mjs`／`context.mjs`、界面串、`package.json`、`astro.config.mjs`、约 20 行的 `deploy.yml`、`CNAME`／`robots.txt` |
+| `schema/sites/<siteId>.json` | 本站取值表骨架：`idPattern` + 待填枚举 |
+| `schema/sites.json` | 登记本站（`types` / `typeDirs`） |
+| `content/<siteId>/`、`content/en/<siteId>/` | 本站内容子树，每个板块一个带 `.gitkeep` 的目录 |
+
+### 生成后
+
+1. **站点库**：`cd site-<简写> && npm install`，把 `package-lock.json` 提交进库（CI 用 `npm ci`，缺锁文件直接失败）；`npm run check` 应全绿。生成时填的都是占位文字，按站点库 `README.md` 的「生成后待办」逐条替换。
+2. **取值表**：填 `schema/sites/<siteId>.json` 的本站枚举。填了中文取值就要补英文译法——专名进底座 `glossary.csv`，枚举进本库 `schema/terms.en.json`，否则校验报错（英文页会漏出中文）。
+3. **标签**：新标签入 `schema/tags.json`。
+4. **本站规则**（可选）：新建 `scripts/sites/<siteId>.mjs` 声明本站附加规则；不写也照样用通用六项跑。反过来，写了规则模块却没在 `schema/sites.json` 登记，校验会直接报错。
+5. **门户**：在 `site-portal/sites.json` 的 `sites` 数组加一条，`status` 由 `building` 改 `live`。
+6. **域名**：配 CNAME 与 HTTPS。
+
+第 5 步一改，两件事自动发生，都不必再改代码：各分站顶部导航带上新站（站群清单是唯一数据源，分站不硬编码兄弟站点）；底座 `verify-sites` 回归把新站纳入覆盖（它从门户清单动态取 `status: live` 的站点）。
