@@ -1,0 +1,53 @@
+name: 内容校验
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      # 校验引擎在共享底座 lishui-kit，以 file:../lishui-kit 引入，
+      # 所以两个库都要检出，且保持同级目录关系。
+      - name: 检出内容库
+        uses: actions/checkout@v4
+        with:
+          path: lishui
+
+      - name: 检出共享底座
+        uses: actions/checkout@v4
+        with:
+          repository: lishuiorg/lishui-kit
+          path: lishui-kit
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 安装依赖
+        working-directory: lishui
+        run: npm install
+
+      # 一次跑完全部已登记站点，每站只套本站规则（schema/sites.json 为准）。
+      - name: 通用六项 + 各站附加校验
+        working-directory: lishui
+        run: node scripts/validate.mjs
+
+      - name: 硬门禁复核
+        working-directory: lishui
+        run: |
+          node scripts/validate.mjs --json > problems.json
+          node -e "
+            const p = require('./problems.json');
+            const errs = p.filter(x => x.level === 'error');
+            if (errs.length) {
+              console.error('存在阻断项', errs.length, '个');
+              for (const e of errs.slice(0, 20)) console.error('  [' + e.siteId + '] ' + e.file + '  ' + e.msg);
+              process.exit(1);
+            }
+            console.log('无阻断项；警告', p.filter(x => x.level === 'warn').length, '项');
+          "

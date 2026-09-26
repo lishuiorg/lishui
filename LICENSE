@@ -1,0 +1,25 @@
+# 许可
+
+## 成果层
+
+`content/` 下的条目文字（中文稿与英文稿）采用 **Creative Commons Attribution 4.0 International（CC BY 4.0）** 授权。
+
+你可以自由地共享（以任何媒介或格式复制、发行本作品）和演绎（修改、转换或以本作品为基础进行创作），包括用于商业目的，条件是**署名**：注明来源为「溧水一方（lishui.org）」及条目所属分站（如 lishi.lishui.org、wenhua.lishui.org、jiezhen.lishui.org），附上许可协议链接，并说明是否作了修改。协议全文见 <https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans>。
+
+## 来源层
+
+`sources/` 下各来源卡著录的外部资料**不在上述授权范围内**，其授权状态以每张卡片的 `rights` 字段为准：
+
+| `rights` | 含义 |
+| --- | --- |
+| `public-domain` | 公有领域，可引用原文片段 |
+| `gov-open` | 政府公开信息，转载需注明出处、不得改动原意 |
+| `excerpt-only` | 受版权保护，本库只存必要摘录，只引用事实与必要短句 |
+| `link-only` | 仅登记链接与关键表述，不存正文 |
+| `permission-required` | 授权未定，不得进入 `published` 条目 |
+
+引用本库成果层内容时，请一并保留条目正文中标注的来源信息。
+
+## 站点代码
+
+各站点库（`site-lishi`、`site-wenhua`、`site-jiezhen` 等）的代码另行授权，见各库的 LICENSE。
