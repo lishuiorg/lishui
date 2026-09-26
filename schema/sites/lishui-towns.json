@@ -1,0 +1,20 @@
+{
+  "$comment": "溧水街镇分站的专属取值表与 ID 规则。站群共用的八项取值（dynasty／precision／depth／status／confidence／rights／archive／sourceType）与 sourceIdPattern 在 lishui-kit/schema/enums.common.json，本文件只列本站特有的。",
+  "idPattern": "^ls:(place|article):[a-z0-9]+(-[a-z0-9]+)*$",
+  "placeType": [
+    "行政区划",
+    "村落"
+  ],
+  "genre": [
+    "地名",
+    "姓氏",
+    "沿革",
+    "综述"
+  ],
+  "unitType": [
+    "街道",
+    "镇",
+    "村",
+    "社区"
+  ]
+}

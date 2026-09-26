@@ -1,0 +1,52 @@
+{
+  "$comment": "溧水文化分站的专属取值表与 ID 规则。站群共用的八项取值（dynasty／precision／depth／status／confidence／rights／archive／sourceType）与 sourceIdPattern 在 lishui-kit/schema/enums.common.json，本文件只列本站特有的。",
+  "idPattern": "^ls:(item|place|article):[a-z0-9]+(-[a-z0-9]+)*$",
+  "placeType": [
+    "古迹",
+    "遗址",
+    "墓葬",
+    "石刻",
+    "桥梁",
+    "寺庙",
+    "书院",
+    "学宫",
+    "村落",
+    "祠堂",
+    "戏台",
+    "山体",
+    "水系",
+    "纪念地"
+  ],
+  "genre": [
+    "方言",
+    "诗词",
+    "文教",
+    "综述",
+    "考据"
+  ],
+  "protectionLevel": [
+    "全国重点文物保护单位",
+    "江苏省文物保护单位",
+    "南京市文物保护单位",
+    "溧水区文物保护单位",
+    "未定级不可移动文物"
+  ],
+  "itemType": [
+    "民间文学",
+    "传统音乐",
+    "传统舞蹈",
+    "传统戏剧",
+    "曲艺",
+    "传统体育游艺与杂技",
+    "传统美术",
+    "传统技艺",
+    "传统医药",
+    "民俗"
+  ],
+  "level": [
+    "国家级",
+    "省级",
+    "市级",
+    "区级"
+  ]
+}
