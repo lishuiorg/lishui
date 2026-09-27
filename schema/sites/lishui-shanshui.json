@@ -1,0 +1,37 @@
+{
+  "$comment": "溧水山水分站的专属取值表与 ID 规则。站群共用的八项取值（dynasty／precision／depth／status／confidence／rights／archive／sourceType）与 sourceIdPattern 在 lishui-kit/schema/enums.common.json，本文件只列本站特有的。取值表里的中文取值必须能在 lishui-kit/glossary.csv 或本库 schema/terms.en.json 查到英文译法，否则校验报错（英文页会漏出中文）。featureType／basin／reservoirClass／routeMode 是本站新增的枚举，引擎不查译法，由 scripts/sites/lishui-shanshui.mjs 补一道门禁。本站不用 item 实体，故不设 itemType／level；不设文保级别，称号一律记在 designation 字段。",
+  "idPattern": "^ls:(place|article):[a-z0-9]+(-[a-z0-9]+)*$",
+  "placeType": [
+    "自然地理实体"
+  ],
+  "genre": [
+    "综述",
+    "游线",
+    "节事",
+    "生态"
+  ],
+  "featureType": [
+    "山丘",
+    "河流",
+    "湖库",
+    "圩区堤闸"
+  ],
+  "basin": [
+    "秦淮河",
+    "石臼湖",
+    "太湖湖西",
+    "分水岭",
+    "待考"
+  ],
+  "reservoirClass": [
+    "中型",
+    "小（一）型",
+    "小（二）型"
+  ],
+  "routeMode": [
+    "自驾",
+    "骑行",
+    "徒步",
+    "水上游览"
+  ]
+}

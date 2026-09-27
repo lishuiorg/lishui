@@ -16,7 +16,8 @@
     "学宫": "Confucian school",
     "祠堂": "Ancestral hall",
     "戏台": "Theatre stage",
-    "行政区划": "Administrative division"
+    "行政区划": "Administrative division",
+    "自然地理实体": "Natural geographical feature"
   },
   "protectionLevel": {
     "南京市文物保护单位": "Cultural Relic Site Protected at the Municipal Level of Nanjing",
@@ -32,7 +33,42 @@
     "诗词": "Poetry",
     "文教": "Education and culture",
     "地名": "Place names",
-    "姓氏": "Surnames"
+    "姓氏": "Surnames",
+    "游线": "Tour route",
+    "节事": "Festival",
+    "生态": "Ecology and conservation"
+  },
+  "featureType": {
+    "山丘": "Mountain or hill",
+    "河流": "River",
+    "湖库": "Lake or reservoir",
+    "圩区堤闸": "Polder, dike or sluice"
+  },
+  "basin": {
+    "太湖湖西": "Western Taihu",
+    "分水岭": "Watershed divide",
+    "待考": "Undetermined"
+  },
+  "reservoirClass": {
+    "中型": "Medium",
+    "小（一）型": "Small, class I",
+    "小（二）型": "Small, class II"
+  },
+  "routeMode": {
+    "自驾": "Self-driving",
+    "骑行": "Cycling",
+    "徒步": "Walking",
+    "水上游览": "Boat tour"
+  },
+  "designation": {
+    "国家森林公园": "National Forest Park",
+    "省级湿地公园": "Provincial Wetland Park",
+    "省级重要湿地": "Provincially Important Wetland",
+    "省级生态旅游示范区": "Provincial Ecotourism Demonstration Area",
+    "省级文物保护单位": "Provincial-level Cultural Relic Protection Unit",
+    "省级风景名胜区": "Provincial Scenic Area",
+    "市级风景名胜区": "Municipal Scenic Area",
+    "大运河国家文化公园": "Grand Canal National Cultural Park"
   },
   "itemType": {
     "民间文学": "Folk literature",
@@ -140,6 +176,19 @@
     "驿道": "Post roads",
     "美丽乡村": "Beautiful countryside",
     "地名普查": "Place-name survey",
+    "湖泊": "Lakes",
+    "水库": "Reservoirs",
+    "湿地": "Wetlands",
+    "森林": "Forests",
+    "候鸟": "Migratory birds",
+    "观鸟": "Birdwatching",
+    "露营": "Camping",
+    "保护地": "Protected areas",
+    "饮用水源": "Drinking water sources",
+    "退圩还湖": "Polder-to-lake restoration",
+    "梅花": "Plum blossom",
+    "草莓": "Strawberry",
+    "马拉松": "Marathon",
     "中国传统村落": "Chinese traditional villages"
   },
   "eraRoot": {

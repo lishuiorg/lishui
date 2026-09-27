@@ -34,5 +34,17 @@
       "villages": "place",
       "articles": "article"
     }
+  },
+  "lishui-shanshui": {
+    "types": [
+      "place",
+      "article"
+    ],
+    "typeDirs": {
+      "mountains": "place",
+      "waters": "place",
+      "routes": "article",
+      "articles": "article"
+    }
   }
 }
