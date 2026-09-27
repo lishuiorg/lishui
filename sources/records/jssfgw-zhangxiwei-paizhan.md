@@ -2,7 +2,7 @@
 id: src:jssfgw-zhangxiwei-paizhan
 type: gov
 title: 江苏省发展改革委 江苏省水利厅关于南京市溧水区三丫圩、章西圩、凌庄圩排涝站工程初步设计的批复（苏发改农经发〔2019〕667号）
-titleEn: Jiangsu Provincial Development and Reform Commission and Jiangsu Provincial Department of Water Resources — Approval of the Preliminary Design for the Sanya Wei, Zhangxi Wei and Lingzhuang Wei Drainage Pumping Station Project, Lishui District, Nanjing (Su Fa Gai Nong Jing Fa [2019] No. 667)
+titleEn: Jiangsu Provincial Development and Reform Commission and Jiangsu Provincial Department of Water Resources — Approval of the Preliminary Design for the Sanya Polder, Zhangxi Polder and Lingzhuang Polder Drainage Pumping Station Project, Lishui District, Nanjing (Su Fa Gai Nong Jing Fa [2019] No. 667)
 rights: gov-open
 archive: link
 publisher: 江苏省发展和改革委员会、江苏省水利厅
