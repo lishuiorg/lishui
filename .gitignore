@@ -1,2 +1,8 @@
 node_modules/
 .DS_Store
+
+# 来源台账：由 scripts/ledger.mjs 从 sources/ 与 content/ 现场生成，随内容变动重跑即可，不进版本库。
+# 与 dist/、.astro/ 同理——派生产物不入库，脚本入库。
+sources/ledger.csv
+sources/ledger.json
+sources/ledger.html

@@ -31,6 +31,27 @@ locator_hint: 页面段落与「名称/面积/政府驻地」表    # 该来源�
 note: 说明                             # 授权判断依据、存疑之处、归档状态
 ```
 
+## 来源台账
+
+台账由 `scripts/ledger.mjs` 现场生成，把本目录每张卡片与 `content/` 下四个分站的实际引用交叉起来，回答四个问题：有哪些来源、每份是什么性质与授权、被哪些条目用着、哪些建了还没用上。
+
+```powershell
+npm run ledger --prefix lishui          # 生成三份到 sources/
+node scripts/ledger.mjs --csv           # 只出 CSV
+node scripts/ledger.mjs --quiet         # 不打印统计摘要
+LISHUI_LEDGER_DIR=<目录> node scripts/ledger.mjs   # 输出到别处
+```
+
+产出三份，均为派生产物、不进版本库（`.gitignore` 已排除，理由同 `dist/`）：
+
+| 文件 | 用途 |
+| --- | --- |
+| `ledger.csv` | 一行一张卡片，UTF-8 带 BOM，Excel 与 pandas 直开 |
+| `ledger.json` | 同数据加汇总块，供脚本与页面消费 |
+| `ledger.html` | 可读视图：KPI、分层结构、机构层级、四站依赖、被引排行、未被引用清单、无链接清单、全量清单（可搜索与多维筛选，跟随系统深浅色） |
+
+站点清单取自 `schema/sites.json`，新增分站后重跑即自动纳入。统计口径以**成果层的 `ref` 出现次数**为准；中英两稿引用同一张卡，故每站数字是条目数而非条目数×2。
+
 ## 硬规则
 
 1. **`rights` 必须填，且必须是取值表里的取值之一。** 站群共用的八项取值在 `lishui-kit/schema/enums.common.json`，分站特有的在 `schema/sites/<siteId>.json`。判不准就填 `permission-required`，宁可不引。
