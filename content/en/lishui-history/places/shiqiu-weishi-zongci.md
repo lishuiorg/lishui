@@ -9,7 +9,7 @@ summary: Wei Ancestral Hall, Shiqiu, stands in Weijiacun, Shiqiu Subdistrict, an
 place_type: 古迹
 era: 清代
 protection_level: 南京市文物保护单位
-protection_batch: Batch number unverified (to be confirmed against the municipal government's gazette)
+protection_batch: Third batch (Ning Zheng Fa [2006] No. 131, 10 June 2006)
 address: Weijiacun, Shiqiu Subdistrict, Lishui District, Nanjing
 tags: [文物古迹, 清代, 宗祠, 市级文保]
 status: published
@@ -21,14 +21,18 @@ sources:
     locator: 名录行「石湫魏氏宗祠，清，石湫街道魏家村」
   - ref: src:jiangsu-shengbao-minglu
     locator: 名录行「魏家村土墩墓群，西周—春秋，溧水区，晶桥镇魏家村」
+  - ref: src:nanjing-wwbh-3pi
+    locator: 附件「古建筑」类第 34 项「石湫魏氏宗祠」；宁政发〔2006〕131号
 related:
   - ls:place:jingqiao-liushi-zongci
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
-## The listing
+## The listing and its gazette batch
 
-The Nanjing municipal list of protected sites records Wei Ancestral Hall, Shiqiu, as Qing, in Weijiacun, Shiqiu Subdistrict, Lishui District. The municipal list gives only the level, period and location; it gives neither the size of the hall nor the year it was built. The gazette notice for the municipal batch has not been traced.
+The Nanjing municipal list of protected sites records Wei Ancestral Hall, Shiqiu, as Qing, in Weijiacun, Shiqiu Subdistrict, Lishui District. The municipal list gives only the level, period and location; it gives neither the size of the hall nor the year it was built.
+
+The batch is now confirmed against the municipal gazette notice. Ning Zheng Fa [2006] No. 131 of 10 June 2006 published the third batch of 159 municipal protected sites. Wei Ancestral Hall, Shiqiu appears as item 34 in the "ancient buildings" section, with the period given as Qing and the address recorded as "Shiqiu Town, Lishui County". The notice predates the 2018 redesignation of Shiqiu Town as Shiqiu Subdistrict; the original wording is quoted.
 
 ## Two villages of the same name
 
@@ -36,4 +40,4 @@ There are two villages called Weijiacun in the district, in different towns: one
 
 ## To be added
 
-The width and depth of the hall, the dates of its construction and rebuilding, its hall name, the surviving buildings and the layout of its courtyard, the arrival and growth of the Wei lineage in the Shiqiu area, and the gazette notice for the municipal listing. Nothing absent from the lists is supplied here.
+The width and depth of the hall, the dates of its construction and rebuilding, its hall name, the surviving buildings and the layout of its courtyard, and the arrival and growth of the Wei lineage in the Shiqiu area all remain to be added. Nothing absent from the lists and the notice is supplied here: the notice settles the level and the batch, not the architectural data.

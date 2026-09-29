@@ -22,6 +22,8 @@ sources:
     locator: 著录页的「纂修者」「卷数」「版本」栏
   - ref: src:jssdfz-jzzlycb
     locator: 栏目条目，溧水相关行
+  - ref: src:nanjing-shijianzhuzhi-2002
+    locator: Rows for the five Lishui editions in the Nanjing Press sample-copy submission list; Jiangsu Provincial Library, 2 November 2015
   - ref: src:wanli-lishuixianzhi
   - ref: src:shunzhi-lishuixianzhi
   - ref: src:kangxi-lishuixianzhi
@@ -48,6 +50,14 @@ A report by Jiangsu News states that only five editions of the Lishui county gaz
 | Guangxu | 22 juan with 1 prefatory juan | revised by Fu Guangguang, compiled by Ding Weicheng | woodblock edition of the Guangxu period; 16 headings and close on a hundred sections |
 
 Beyond these five, the two earlier compilations — the first, of 1509, by Chen Xian and Fan Qi, and the second, of 1525, by Wang Congshan, Fang Yan and Huang Zhida — have no surviving copies. They are known only from what the Wanli edition records and from the judgements of later writers.
+
+## Modern facsimile editions: all five exist
+
+Facsimile editions of all five gazetteers have been published. This is the firmest piece of version information this library holds, and it comes from the Nanjing Press sample-copy submission list on the Jiangsu Provincial Library's website: one volume each of the Shunzhi, Qianlong, Kangxi and Wanli editions and of the Guangxu edition (part two), with a second volume of the Qianlong, all published by Nanjing Press as part of the *Jinling Quanshu* series (planned at 500 volumes), produced under the co-sponsorship of the Nanjing municipal Party committee's publicity department and Nanjing Publishing and Media Group.
+
+This closes a gap that catalogue descriptions alone could not: the existence of the facsimiles was previously uncertain. Two things must still be kept apart. The existence of a facsimile does not mean this library has read its pages. The text of the old gazetteers is in the public domain and may be quoted at length; but the modern editorial pages, the punctuation and the publication data belong to a modern work and are recorded only as such, never quoted as the ancient original. The quality of the reproduction and any missing leaves have not been collated here, so wherever the text above draws on the gazetteers it still rests chiefly on the Kangxi edition, which has been read.
+
+The *Jinling Quanshu* also collects Nanjing documents from the Republican period, and this library's gap on Lishui's administrative divisions in that period may be fillable from it. Whether the Lishui portion of the series contains a Republican-period county gazetteer has not been established here, and remains an open gap.
 
 ## The Wanli edition: the earliest, and the one with two dates
 
@@ -89,4 +99,6 @@ Second, the disagreement between 1655 and 1658 for the Shunzhi edition and betwe
 
 Third, the extent and compilers of the five editions come mainly from catalogue entries and have not been checked one by one against the original prefatory juan; where that is so, the entries state "according to the catalogue".
 
-Fourth, the full tables of contents of the five editions, the filiation between them, and the date at which the 1509 and 1525 compilations were lost, all await the original or a facsimile.
+Fourth, the full tables of contents of the five editions, the filiation between them, and the date at which the 1509 and 1525 compilations were lost, all await the original or a facsimile. The existence of modern facsimiles has now been established (see the section above), but the prefatory juan has not been checked page by page against them.
+
+Fifth, a search across the library's six old-gazetteer full-text cards returns no Republican-period administrative content, which is consistent with the closing dates of Qing gazetteers. This means that the administrative history of Lishui in the Republican period has neither an old gazetteer behind it nor any online full text, and is a real gap here; the silence of the gazetteers must not be used to infer that nothing changed in that period.

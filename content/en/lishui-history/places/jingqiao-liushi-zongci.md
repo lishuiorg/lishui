@@ -9,7 +9,7 @@ summary: Liu Ancestral Hall, Jingqiao, stands in Shishanxia Village, Jingqiao To
 place_type: 古迹
 era: 明代
 protection_level: 南京市文物保护单位
-protection_batch: Batch number unverified (to be confirmed against the municipal government's gazette)
+protection_batch: Third batch (Ning Zheng Fa [2006] No. 131, 10 June 2006)
 address: Shishanxia Village, Jingqiao Town, Lishui District, Nanjing
 tags: [文物古迹, 明代, 宗祠, 市级文保]
 status: published
@@ -21,14 +21,18 @@ sources:
     locator: 名录行「晶桥刘氏宗祠，明，晶桥镇石山下村」
   - ref: src:njls-quji-3pi
     locator: 名单行「赵氏宗祠，清，洪蓝镇郭塘头村」等；引时标「溧政发〔2017〕197 号」
+  - ref: src:nanjing-wwbh-3pi
+    locator: 附件「古建筑」类第 37 项「晶桥刘氏宗祠」；宁政发〔2006〕131号
 related:
   - ls:place:honglan-ruishi-zongci
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
-## The listing
+## The listing and its gazette batch
 
-The Nanjing municipal list of protected sites records Liu Ancestral Hall, Jingqiao, as Ming, in Shishanxia Village, Jingqiao Town, Lishui District. The municipal list gives only the level, period and location; it gives neither the width and depth of the hall nor the year it was built. The gazette notice for the municipal batch has not been traced.
+The Nanjing municipal list of protected sites records Liu Ancestral Hall, Jingqiao, as Ming, in Shishanxia Village, Jingqiao Town, Lishui District. The municipal list gives only the level, period and location; it gives neither the width and depth of the hall nor the year it was built.
+
+The batch is now confirmed against the municipal gazette notice. Ning Zheng Fa [2006] No. 131 of 10 June 2006 published the third batch of 159 municipal protected sites. Liu Ancestral Hall, Jingqiao appears as item 37 in the "ancient buildings" section, with the period given as Ming and the address recorded as "Jingqiao Town, Lishui County". The notice lists the five Lishui halls in consecutive order: items 33 to 37 are the Rui hall at Honglan, the Wei hall at Shiqiu, the Yang and Zhu halls at Hefeng, and the Liu hall at Jingqiao.
 
 ## The only Ming hall among the nine
 
@@ -38,4 +42,4 @@ An earlier recorded period does not mean that the surviving building is a Ming o
 
 ## To be added
 
-The width and depth of the hall, the dates of its construction and rebuilding, its hall name, the surviving buildings and the layout of its courtyard, the arrival and growth of the Liu lineage in Shishanxia, and the gazette notice for the municipal listing. Nothing absent from the lists is supplied here.
+The width and depth of the hall, the dates of its construction and rebuilding, its hall name, the surviving buildings and the layout of its courtyard, and the arrival and growth of the Liu lineage in Shishanxia all remain to be added. Nothing absent from the lists and the notice is supplied here: the notice settles the level and the batch, not the architectural data.

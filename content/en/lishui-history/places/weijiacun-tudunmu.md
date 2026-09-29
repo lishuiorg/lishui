@@ -23,14 +23,24 @@ sources:
     locator: 附件名单 Ⅱ—1「魏家村土墩墓群，西周—春秋，溧水县」
   - ref: src:chinanews-tudunmu
     locator: 文章正文；引用时标「中新网，2014-06-21」
+  - ref: src:dongwu-xiashou-mogui-1985
+    locator: 《考古》1985年第8期，690—693页，刘兴；据书目著录
 related:
   - ls:article:tudunmu-fajue
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## Listing and batch
 
-The Jiangsu provincial list of protected sites records the Weijiacun Mound Tombs as Western Zhou to Spring and Autumn, in Weijiacun, Jingqiao Town, Lishui District. In the notice of the Jiangsu Provincial People's Government on the seventh batch of provincial protected sites (Su Zheng Fa [2011] No. 181, 19 December 2011) the group is numbered II—1, with the same period. The seventh batch comprised 188 sites and 5 extensions, of which this is the only one in Lishui.
+The Jiangsu provincial list of protected sites records the Weijiacun Mound Tombs as Western Zhou to Spring and Autumn, in Weijiacun, Jingqiao Town, Lishui District. In the notice of the Jiangsu Provincial People's Government on the seventh batch of provincial protected sites (Su Zheng Fa [2011] No. 181, 19 December 2011) the group is numbered II—1, with the same period, and the address column reads "Weijiacun, Lishui County". The seventh batch comprised 188 sites and 5 extensions, of which this is the only one in Lishui.
+
+The span "Western Zhou to Spring and Autumn" in the notice is a dating range, a conclusion rather than a pair of exact endpoints; this entry does not convert it into specific years.
+
+## Related academic literature
+
+Liu Xing's "Excavation Brief on Western Zhou Tombs at Lishui and Danyang, Jiangsu", published in Kaogu, 1985, No. 8, pp. 690—693, is one of the academic references this library has traced that bear directly on Western Zhou tombs in Lishui (recorded from bibliographic description; the original issue has not been obtained).
+
+No data are drawn from that paper here. The tomb count, the assemblage and the tomb forms reported in the brief may be cited only from the original, which this library does not hold. Note also that it is a document distinct from "Western Zhou Tombs Found in Lishui, Jiangsu" (Kaogu, 1976, No. 4) and from the vessels from the Guangchang Mound in Lishui held by the Zhenjiang Museum (Wenwu, 1985, No. 12); these are different publications and cannot stand in for one another.
 
 ## The rescue excavation of 2005
 
@@ -40,4 +50,4 @@ That report covers the rescue excavation of mound tombs along a motorway as a wh
 
 ## To be added
 
-The number of mounds and the area they cover, the form and chronological sequence of individual mounds, an excavation report, and the protected area and construction control zone. The sources consulted give none of these.
+The number of mounds and the area they cover, the form and chronological sequence of individual mounds, whether the 2005 rescue excavation covered this group, the full excavation report, and the protected area and construction control zone. The sources consulted give none of these.
