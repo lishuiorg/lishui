@@ -15,7 +15,7 @@ verified: false
 confidence: medium
 depth: standard
 sources:
-  - ref: src:njls-shengji-cunluo
+  - ref: src:njls-shuangcun-2025
     locator: Report text, Lishui District Media Centre, 2025-07-14
 related:
   - ls:article:cunshiguan-chuantong-cunluo

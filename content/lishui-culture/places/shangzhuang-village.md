@@ -15,7 +15,7 @@ verified: false
 confidence: medium
 depth: standard
 sources:
-  - ref: src:njls-shengji-cunluo
+  - ref: src:njls-shuangcun-2025
     locator: 报道正文，南京市溧水区融媒体中心，2025-07-14
 related:
   - ls:article:cunshiguan-chuantong-cunluo

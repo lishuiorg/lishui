@@ -24,6 +24,8 @@ sources:
     locator: 栏目条目，溧水相关行
   - ref: src:nanjing-shijianzhuzhi-2002
     locator: Rows for the five Lishui editions in the Nanjing Press sample-copy submission list; Jiangsu Provincial Library, 2 November 2015
+  - ref: src:guotu-tushuguan-lishui-zhi
+    locator: Local gazetteer database results for "Lishui xianzhi", with record numbers; National Library of China, Chinese Ancient Books Resource Database
   - ref: src:wanli-lishuixianzhi
   - ref: src:shunzhi-lishuixianzhi
   - ref: src:kangxi-lishuixianzhi
@@ -58,6 +60,23 @@ Facsimile editions of all five gazetteers have been published. This is the firme
 This closes a gap that catalogue descriptions alone could not: the existence of the facsimiles was previously uncertain. Two things must still be kept apart. The existence of a facsimile does not mean this library has read its pages. The text of the old gazetteers is in the public domain and may be quoted at length; but the modern editorial pages, the punctuation and the publication data belong to a modern work and are recorded only as such, never quoted as the ancient original. The quality of the reproduction and any missing leaves have not been collated here, so wherever the text above draws on the gazetteers it still rests chiefly on the Kangxi edition, which has been read.
 
 The *Jinling Quanshu* also collects Nanjing documents from the Republican period, and this library's gap on Lishui's administrative divisions in that period may be fillable from it. Whether the Lishui portion of the series contains a Republican-period county gazetteer has not been established here, and remains an open gap.
+
+## Readable full text: the copies in the National Library
+
+More direct than the facsimiles are the digitised copies in the National Library of China. The local gazetteer database of its Chinese Ancient Books Resource Database holds six Lishui gazetteers, and states that "readers may consult the full-text images without registering or logging in":
+
+| Edition | Compiler | Date | Record no. | Volumes and readability |
+| --- | --- | --- | --- | --- |
+| Guangxu | revised by Fu Guangguang and Shi Chungao | 15th year of Guangxu [1889] | 312001076254 | 12 volumes, with text and image side by side for each |
+| Shunzhi | (Qing) Min Pailu, reviser | Shunzhi [1644—1661] | 411999003312 | 4 volumes |
+| Kangxi | compiler not recorded | 15th year of Kangxi [1676] | 412000013729 | 3 volumes, preserving 8 juan |
+| Qianlong | (Qing) Ling Shiyu, reviser | Qianlong [1736—1795] | 411999003313 | 10 volumes |
+| Wanli | (Ming) Wu Shiquan, Huang Rujin and others | Wanli [1573—1620] | — | record visible |
+| Lishui County Government Gazetteer | — | 1948 | — | record visible |
+
+This changes the conditions under which this library works with the old gazetteers. Until now the only text available here came from the Kangxi edition, which has been read, and the preface of the Guangxu edition; quotations from the body of the other editions were restricted by the rule that their text may not be quoted. Checking the images volume by volume is now possible, instead of relaying what a catalogue says. Two boundaries must hold. First, this library has **not** yet read these images volume by volume: any precise citation by juan and page must still be checked against the original image before the page number is recorded, and no claim may be made about what a given juan and page contains on the strength of the catalogue record alone. Second, the database's own records disagree in places — the Kangxi edition is recorded there as the fifteenth year of Kangxi [1676], whereas this library notes above that some catalogues give the sixteenth year and lists the former as a disagreement between catalogues. The National Library record is a second independent source for that disagreement, but it does not settle which is right.
+
+The last row, the Lishui County Government Gazetteer of 1948, deserves separate notice: it is an official publication of Republican-period Lishui and bears directly on this library's gap in the Republican period. For now only the existence of the record has been verified, not its contents, and this entry does not use it to state any Republican fact.
 
 ## The Wanli edition: the earliest, and the one with two dates
 

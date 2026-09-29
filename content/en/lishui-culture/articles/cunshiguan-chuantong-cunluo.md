@@ -18,7 +18,7 @@ sources:
     locator: 答复正文（溧水区农业农村局，2024-11-07）
   - ref: src:njls-cunluo-104
     locator: 答复正文（溧水区城乡建设局）
-  - ref: src:njls-shengji-cunluo
+  - ref: src:njls-shuangcun-2025
     locator: 报道正文
   - ref: src:njls-zx-101
     locator: 答复正文（溧水区文化和旅游局，2023-11-28）
