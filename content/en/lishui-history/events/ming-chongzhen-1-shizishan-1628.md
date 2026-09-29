@@ -20,9 +20,11 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·明崇祯元年
+  - ref: src:hanghongqiu-sanhu-weiqu
+    locator: 第三节「圩区开发始末」与结语
 related:
   - ls:event:ming-wanli-16-fengxianwei-1588
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## The record
@@ -43,6 +45,12 @@ The gazetteer records only that the magistrate Zeng Jiuyi petitioned; it does no
 
 The gazetteer says nothing of the upkeep of the bank after it was built, of its effect, or of any later extension. This entry does not add anything the gazetteer does not contain.
 
+## Polder bank and polder field
+
+A polder bank is the outer embankment of a polder field, enclosing low-lying land and controlling the storage and release of water. Polders have been the main use of low-lying land in Jiangnan since the Tang and Song, and in the Ming the lake-side counties moved from building separate polders to joining them into larger units (after Hang Hongqiu, *The Historical Development of the Three-Lakes Polder District*). The western part of Lishui, on the shore of Shijiu Lake, belongs to just such a lake-side polder district, where building banks was ordinary water-conservancy work. That paper, however, treats the broad development of the three lakes and does not touch this particular work of 1628 below Shizi Mountain; it is cited here only to say what a polder bank is, and the line, the labour and the funding of this work remain unsupplied.
+
 ## Uncertainties
 
-First, the word rendered "petitioned" may mean a memorial to the throne or a report to a superior; the gazetteer does not explain which, and this entry does not decide. Second, the three thousand zhang is a figure in the old measure, and the gazetteer gives no equivalent distance, so this entry makes no conversion. Third, the line of the bank and how it was divided are not recorded.
+First, the word rendered "petitioned" may mean a memorial to the throne or a report to a superior; the gazetteer does not explain which, and this entry does not decide. Second, the three thousand zhang is a figure in the old measure, and the gazetteer gives no equivalent distance, so this entry makes no conversion. Third, the line of the bank and how it was divided are not recorded. The position of Shizi Mountain within the county is not given by the source consulted here, and a search of the gazetteers' chapters on mountains and of modern material on the district's mountains has not fixed it, so this entry does not decide whether it is the same mountain as the Shizi Mountain on the shore of Shijiu Lake today.
+
+A search of the relevant juan of the Veritable Records, of Jiangsu water-conservancy history and of published work on polder districts yielded no independent record of the polder bank built below Shizi Mountain in Lishui in 1628.

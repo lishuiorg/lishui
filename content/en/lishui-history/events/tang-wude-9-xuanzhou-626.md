@@ -20,11 +20,15 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·九年丙戌
+  - ref: src:jiutangshu-dili
+    locator: 卷四十·地理志三·宣州条、宣州溧水条
+  - ref: src:chgis-fudan-lishui
+    locator: 溧水县条（626 年属宣州）
 related:
   - ls:event:tang-wude-3-yangzhou-620
   - ls:event:sui-daye-4-danyangjun-608
   - ls:article:jianxian-yange
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## Background
@@ -41,6 +45,16 @@ The gazetteer records:
 
 The entry follows the third year of Wude without repeating the era name, so "the ninth year" is the ninth year of Wude, 626 CE. The gazetteer notes that Xuanzhou is the present Ningguo Prefecture.
 
+## The standard history
+
+The *Jiu Tangshu*, juan 40, "Treatise on Geography, Part 3," entry on Xuanzhou, confirms this entry and refutes the *Junji*:
+
+> 宣州……（武德）九年，移揚州於江都，以溧陽、溧水、丹陽來屬。
+>
+> *Translated:* Xuanzhou ... in the ninth year of Wude (626) Yangzhou was moved to Jiangdu, and Liyang, Lishui and Danyang were made over to it.
+
+The same juan, under Lishui, also reads "land of Han Liyang; a county under the Sui; in the third year of Wude, under Yangzhou; in the ninth year, under Xuanzhou." In 626, then, Yangzhou moved its seat to Jiangdu and Lishui, together with Liyang and Danyang, passed to Xuanzhou — the standard history agreeing with the gazetteer, and showing that the *Junji* omitted Lishui when it named only Danyang and Liyang.
+
 ## What happened
 
 The seat of Yangzhou was moved to Jiangdu, and Lishui County passed to Xuanzhou.
@@ -51,4 +65,6 @@ Lishui came under Xuanzhou. In 742 CE, the first year of the Tianbao era, Xuanzh
 
 ## Uncertainties
 
-The sources disagree on the allegiance. The gazetteer notes that the Junji names only Danyang and Liyang as under Xuanzhou, which differs from its own account; this entry follows the gazetteer in transferring Lishui to Xuanzhou and records the other reading alongside. The entry does not give the counties under Xuanzhou after the transfer. The confidence level is set to `medium`.
+First, the sources disagree on the allegiance. The gazetteer notes that the *Junji* names only Danyang and Liyang as under Xuanzhou; the *Jiu Tangshu*, "Treatise on Geography," entry on Xuanzhou — "in the ninth year of Wude, Yangzhou was moved to Jiangdu, and Liyang, Lishui and Danyang were made over to it" — shows the gazetteer to be right and the *Junji* to be wrong (it omits Lishui).
+
+Second, the entry does not give the counties under Xuanzhou after the transfer, and the standard history gives no month for it; this entry adds none. The confidence level is set to `medium`.

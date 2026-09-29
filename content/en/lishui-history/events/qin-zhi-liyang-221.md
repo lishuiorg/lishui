@@ -19,11 +19,17 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·秦始皇二十六年庚辰
+  - ref: src:hanshu-dili
+    locator: 卷二十八上·地理志上·丹扬郡
+  - ref: src:chgis-fudan-lishui
+    locator: 鄣郡条（前 210—前 122 年）、溧水县条
+  - ref: src:njls-lsyg
+    locator: 历史沿革·先秦至汉一段
 related:
   - ls:event:wu-shao-gucheng-506
   - ls:event:sui-zhixian-591
   - ls:article:jianxian-yange
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## Background
@@ -40,9 +46,23 @@ The gazetteer records:
 
 The twenty-sixth year of the First Emperor is 221 BCE. The entry is recorded together with the renaming of Jinling as Moling; the seat of Liyang County is not given here, and appears only in the opening discussion, which says the Qin county kept the old site of Laizhu Yi.
 
+## Liyang in the standard history
+
+The earliest Liyang County in the standard histories appears in the *Hanshu*, juan 28A, "Treatise on Geography, Part 1," under Danyang Commandery:
+
+> 丹揚郡，故鄣郡。屬江都。武帝元封二年更名丹揚。屬揚州……縣十七：宛陵……溧陽，歙，都尉治。宣城。
+>
+> *Translated:* Danyang Commandery, formerly Zhang Commandery, attached to Jiangdu; in the second year of Yuanfeng of Emperor Wu the name was changed to Danyang, and it belonged to Yangzhou ... seventeen counties: Wanling ... Liyang, She, where the commandant had his seat, Xuancheng.
+
+The *Hou Hanshu*, "Treatise on the Commanderies and Kingdoms," likewise lists Liyang under Danyang Commandery. Liyang is thus a Han county under Danyang Commandery, whose predecessor was Zhang Commandery. The *Hanshu* records only that it was a Han county, however, and **gives no year for a Qin establishment**. The Qin establishment comes from the gazetteer and later administrative histories: the Lishui District People's Government's "Historical Evolution" page states that in the twenty-sixth year of the King of Qin (221 BCE) the area of Lishui "belonged to Liyang County of Kuaiji Commandery", and the parallel accounts for Liyang City and Gaochun District agree.
+
+## Which commandery under Qin
+
+The gazetteer places Liyang County "under Zhang Commandery", whereas the government histories of Lishui District, Liyang City and Gaochun District all place the Qin county "under Kuaiji Commandery". Fudan's CHGIS, following Tan Qixiang's "A Study of the Boundaries of the Qin Commanderies", dates the establishment of Zhang Commandery to the thirty-seventh year of the First Emperor of Qin (210 BCE), when it was split off from Kuaiji Commandery. If that holds, there was no Zhang Commandery in 221 BCE and the area belonged to Kuaiji Commandery. The two readings — "under Zhang" in the gazetteer and "under Kuaiji" in the government histories — are set side by side.
+
 ## What happened
 
-In that year Qin renamed Jinling as Moling and established Liyang County, assigning it to Zhang Commandery. This was the first county-level unit in what is now the Lishui area.
+In that year Qin renamed Jinling as Moling and established Liyang County, which the gazetteer records as belonging to Zhang Commandery (the government histories have Kuaiji, as above). This was the first county-level unit in what is now the Lishui area.
 
 ## Consequences
 
@@ -54,4 +74,8 @@ This entry is far earlier than the establishment of Lishui County in 591 CE, the
 
 ## Uncertainties
 
-The gazetteer gives only the single sentence that Liyang County was established under Zhang Commandery, without its seat or extent. The opening discussion says that the Qin county at Gucheng kept the old site of Laizhu Yi, but that is the compiler's inference and the text itself concludes that such matters "cannot be known"; this entry does not use it to fix the county seat. The confidence level is set to `medium`.
+First, the gazetteer gives only the single sentence that Liyang County was established under Zhang Commandery, without its seat or extent. The opening discussion says that the Qin county at Gucheng kept the old site of Laizhu Yi, but that is the compiler's inference and the text itself concludes that such matters "cannot be known"; this entry does not use it to fix the county seat.
+
+Second, no standard history states the founding year explicitly. A search of the *Shiji* and the *Hanshu* in this library found only the *Hanshu*'s record of Liyang as a Han county under Danyang (formerly Zhang) Commandery; the Qin founding year comes from the gazetteer and the government histories, and this entry repeats it without asserting it as a standard-history fact.
+
+Third, the commandery under Qin is disputed: the gazetteer gives Zhang, the government histories of Lishui, Liyang and Gaochun give Kuaiji, and CHGIS dates Zhang Commandery to 210 BCE. The two readings are set side by side. On these grounds the confidence level is set to `medium`.

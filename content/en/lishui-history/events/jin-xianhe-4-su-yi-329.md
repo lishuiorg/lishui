@@ -19,10 +19,12 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·成帝咸和四年己丑
+  - ref: src:jinshu-chengdi-ji
+    locator: 卷七·成帝纪·咸和四年
 related:
   - ls:event:sui-fei-danyangjun-589
   - ls:article:kangxi-lishuixianzhi-yiji-zhaiyi
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## Background
@@ -39,6 +41,16 @@ The gazetteer records:
 
 The fourth year of the Xianhe era is 329 CE. The fighting took place at Liyang, the county to which the present Lishui area then belonged.
 
+## The standard history
+
+The *Jinshu*, juan 7, "Annals of Emperor Cheng," records the affair for the fourth year of Xianhe, in more detail than the gazetteer:
+
+> 甲午，蘇逸以萬餘人自延陵湖將入吳興。乙未，將軍王允之及逸戰於溧陽，獲之。
+>
+> *Translated:* On the *jiawu* day Su Yi, with more than ten thousand men, was about to enter Wuxing from Yanling Lake. On the *yiwei* day the general Wang Yunzhi fought Su Yi at Liyang and took him.
+
+Two points may be added to the gazetteer's account: first, Su Yi led "more than ten thousand men from Yanling Lake, about to enter Wuxing", which gives his strength and his line of march; second, Su Yi was a younger brother of Su Jun and the leader who took command of Su Jun's followers after his death during the Su Jun rebellion of 329, as the context of the annals shows.
+
 ## What happened
 
 The general Wang Yunzhi engaged Su Yi at Liyang and took him.
@@ -53,4 +65,8 @@ This entry predates the establishment of Lishui County in 591 CE, the eleventh y
 
 ## Uncertainties
 
-The gazetteer's record is extremely brief: it gives neither the course of the campaign, nor the forces engaged, nor who Su Yi was, and this entry adds none of these. The term rendered here as remission of tax is glossed from the gazetteer's own usage, with the original wording quoted. The gazetteer also records that in the following year there was no grain and a great famine, and that in the first year of the Xiankang era envoys were sent to relieve the hungry; the sources do not link these to the fighting, and this entry draws no inference. The confidence level is set to `medium`.
+First, the gazetteer's record is extremely brief: it gives neither the course of the campaign nor who Su Yi was. The *Jinshu*, juan 7, adds that Su Yi led more than ten thousand men from Yanling Lake and that he was a younger brother of Su Jun, but it too gives no detail of the fighting, and this entry adds none.
+
+Second, the term rendered as remission of tax is glossed from the gazetteer's own usage, with the original wording quoted; a search of the *Jinshu*, "Annals of Emperor Cheng," and of the *Zizhi Tongjian*, juan 94, in this library found no such sentence, so its source remains to be identified.
+
+Third, the gazetteer also records that in the following year there was no grain and a great famine, and that in the first year of the Xiankang era envoys were sent to relieve the hungry; the sources do not link these to the fighting, and this entry draws no inference. On these grounds the confidence level is set to `medium`.

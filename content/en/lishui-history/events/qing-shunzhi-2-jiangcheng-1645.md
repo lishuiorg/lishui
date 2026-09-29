@@ -20,14 +20,20 @@ depth: full
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·清顺治二年乙酉
+  - ref: src:guoxue123-nanming-shi
+    locator: 第五章第五节「弘光帝出逃和清军占领南京」、第七节「潞王朱常淓监国和降清」
+  - ref: src:shicihui-shizu-shilu-19
+    locator: 卷之十九 顺治二年秋七月诸条
 related:
   - ls:event:qing-shunzhi-11-chongjian-xiantang-1654
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## Background
 
 In 1645, the second year of the Shunzhi era, Qing troops crossed the Yangtze and moved south.
+
+According to Gu Cheng's *A History of the Southern Ming*, on the ninth day of the fifth month Duoduo ordered Li Shuaitai, a Manchu officer, to cross the river west of Guazhou with Ming generals who had come over to the Qing, defeated the Ming river fleet at Jinshan and took Zhenjiang; on the tenth the Hongguang Emperor and Ma Shiying left Nanjing before dawn; on the fifteenth Zhao Zhilong, the noble in command of the Nanjing garrison, and more than thirty other officials opened the gates to welcome the Qing, and on the seventeenth Duoduo entered Nanjing. After fleeing Nanjing, the Hongguang party "was scattered at Lishui", and Ma Shiying escorted the Empress Dowager Zou to Zhejiang. Lishui, that is, lay on the line of this flight.
 
 ## The surrender
 
@@ -49,6 +55,10 @@ That December bandits climbed the city wall by night, burned the county hall and
 
 After the change of dynasty Lishui had no garrison troops, and its taxes were remitted. The burning of the county hall and treasury had long consequences: the magistrate thereafter held court among the rubble, sheltered by reed matting, until the magistrate Min Pailu rebuilt the county hall in 1654, the eleventh year of the Shunzhi era (see the entry for that year).
 
+The order to the people to shave their heads, recorded by the gazetteer, was one of the institutional acts by which the Qing consolidated Jiangnan. According to juan 19 of the Veritable Records of the Shunzhi Reign, after Jiangnan was subdued the court changed Nanjing into Jiangnan Province and Yingtian Prefecture into Jiangning Prefecture, sent the Grand Secretary Hong Chengchou to pacify Jiangnan, and confirmed in substantive office 373 Jiangnan appointments made by Prince Yu, Duoduo; the head-shaving order was reissued and enforced that same year. This entry uses the Veritable Records only for that background; the head-shaving in Lishui itself rests on the gazetteer.
+
 ## Uncertainties
 
 First, records from the change of dynasty are thin: the gazetteer gives neither the exact date on which Qing troops entered the city nor their numbers, and the course of events is not described, which is why this entry is set at `medium` confidence. Second, the "bandits" are not identified; the gazetteer says nothing of their origins or numbers. Third, the "Grand Secretary Hong of the Inner Secretariat" is given by surname only, and the man remains unidentified. Fourth, the gazetteer sets the fall of snow beside the military events, which belongs to its idiom of natural anomalies; this entry repeats it without merging it into the military narrative.
+
+Fifth, the surrender of "the intact city" is the wording of the Kangxi gazetteer's annals. A search of Gu Cheng's *A History of the Southern Ming* and of the Veritable Records yielded no direct corroboration of Lishui's own surrender, so this entry repeats the gazetteer without turning "the intact city surrendered" into settled fact. The detailed dates of the Qing crossing and of the fall of Nanjing are taken from *A History of the Southern Ming* and are set beside the gazetteer as a separate source.

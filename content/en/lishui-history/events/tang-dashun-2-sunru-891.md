@@ -20,10 +20,16 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·二年辛亥
+  - ref: src:zizhitongjian-dashun-er
+    locator: 卷二百五十八·唐纪七十四·大顺二年
+  - ref: src:xintangshu-yangxingmi
+    locator: 卷一百八十八·杨行密传·大顺二年
+  - ref: src:chgis-fudan-lishui
+    locator: 升州条（887—919 年）、溧水县条
 related:
   - ls:event:tang-wude-9-xuanzhou-626
   - ls:article:kangxi-lishuixianzhi-yiji-zhaiyi
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## Background
@@ -40,6 +46,16 @@ The gazetteer records:
 
 The entry is dated to the second year of the Dashun era, a *xinhai* year, which is 891 CE. One side encamped at Lishui. In the preceding entry the gazetteer records that in the first year of Dashun (890 CE) Shengzhou was restored and Lishui placed under it.
 
+## The standard histories and the variant names
+
+The *Zizhi Tongjian*, juan 258, "Tang Annals 74," records the affair for the second year of Dashun in more detail than the gazetteer:
+
+> 儒前軍至溧水，〔胡三省注：溧水，漢溧陽縣，隋分置溧水縣，時屬升州。《九域志》：在州東八十五里。〕行密使都指揮使李神福拒之。神福陽退以示怯，儒軍不設備，神福夜帥精兵襲之，俘斬千人。
+>
+> *Translated:* Sun Ru's forward troops reached Lishui (Hu Sanxing's note: Lishui was Liyang County under the Han, and Lishui County was separated off under the Sui; it then belonged to Shengzhou. The *Jiuyu zhi*: eighty-five *li* east of the prefecture). Yang Xingmi sent his commander-in-chief Li Shenfu to oppose them. Li Shenfu feigned a retreat to show weakness; Sun Ru's troops took no precautions, and Li Shenfu led picked troops by night against them, taking and killing a thousand.
+
+The *Xin Tangshu*, juan 188, "Biography of Yang Xingmi," likewise records: "In the second year of Dashun, Sun Ru encamped at Lishui and built walls along the hills. Xingmi sent Li Shenfu to encamp at Guangde. ... Li Shenfu therefore gave ground. Sun Ru's men took him for a coward and their guards relaxed, and Shenfu drove them off in a night attack." Both standard histories make Sun Ru the attacker and Li Shenfu the defender, whereas the gazetteer has "Sun Ru" and "Li Fu", with different characters. The standard histories add the thousand taken and killed, and the walls built along the hills.
+
 ## What happened
 
 Sun Ru's troops encamped at Lishui; Yang Xingmi sent his general Li Fu to oppose them, and Li Fu attacked the camp by night.
@@ -50,4 +66,8 @@ The night attack succeeded and Sun Ru's troops were defeated. The gazetteer reco
 
 ## Uncertainties
 
-The record is brief: it gives neither the size of Sun Ru's forces, nor the exact place of the encampment, nor the course of the fighting, and this entry adds none of these. Where Sun Ru's troops went after the night raid is likewise unrecorded. The confidence level is set to `medium`.
+First, the names vary. The gazetteer has "Sun Ru" and "Li Fu"; the standard histories — the *Zizhi Tongjian*, juan 258, and the *Xin Tangshu*, juan 188 — both have Sun Ru and Li Shenfu, with different characters. The two are set side by side without preference.
+
+Second, the gazetteer's record is brief: it gives neither the size of the forces, nor the exact place of the encampment, nor the course of the fighting; the standard histories add the thousand taken and killed and the walls built along the hills, which this entry adopts with its sources noted. Where the troops went after the night raid is likewise unrecorded.
+
+Third, Hu Sanxing's note — "Lishui was Liyang County under the Han, and Lishui County was separated off under the Sui; it then belonged to Shengzhou" — is a comment in this library linking the history of Lishui to the late-Tang administrative structure, and may be read alongside. On these grounds the confidence level is set to `medium`.

@@ -20,9 +20,11 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·清顺治十二年乙未
+  - ref: src:quanrenrong-qingchu-huizhou-li
+    locator: 第一节「清初里的增减」与结论段
 related:
   - ls:event:qing-shunzhi-15-gaizhe-caoliang-1658
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## The record
@@ -35,6 +37,10 @@ updated: 2026-09-25
 
 1655, the twelfth year of the Shunzhi era, was a year of registration review. Such a review meant re-checking households and wards and apportioning corvée duties accordingly. The gazetteer does not record the year of the previous review or the state of the old registers.
 
+## Review and wards
+
+The review was a periodic re-check of households and wards under the ward system, on which the apportionment of corvée rested. Under the early Qing the reviews continued to run, and wards were often merged or added — for instance, Xiuning County added five wards in the eighth year of Shunzhi (after Quan Renrong, *Ward Organisation and the Addition of Tu in Early Qing Huizhou*). That paper argues that such shifts in the number of wards reflect the instability of the ward system and at the same time show that it still served a real function in the early Qing. The Lishui review of 1655, and the gazetteer's account of examining the wards in detail, apportioning corvée and making the burden equal, fit that institutional background. The paper, however, treats the wards of Huizhou and elsewhere; it is used here only to say what a review was, and not to infer the number of wards or households in Lishui.
+
 ## The compilation
 
 The review was conducted by the magistrate Min Pailu. The gazetteer records what he did: he administered the law with strict impartiality and had the City God of the county brought into the county hall to preside over the affair with him; he examined the wards in detail, apportioned the corvée duties, took from the many to add to the few, and made the burden equal. The result was compiled into a book called the Record of Equalised Corvée, cut in woodblocks and circulated through the county.
@@ -46,3 +52,5 @@ The gazetteer says that powerful households could not evade corvée, that cunnin
 ## Uncertainties
 
 First, the provisions of the Record of Equalised Corvée and the detail of its apportionment have not been seen; this entry rests only on what the gazetteer records. Second, the bringing of the City God into the county hall to preside is a device of the old gazetteer's narrative, reflecting how the review was conducted ceremonially at the time; this entry repeats it without comment. Third, the number of households and the area of land examined in the review are not recorded.
+
+Whether the Record of Equalised Corvée survives has not been traced: a search of public and private catalogues, of local literature and of scholarly work found no record of it. Nor has this site found evidence of how the name "equalised wards and levelled corvée" was used in contemporary writings, so it cannot say whether the book was a register drawn up for the one county as occasion arose, or an instance of a form of register then in common use.

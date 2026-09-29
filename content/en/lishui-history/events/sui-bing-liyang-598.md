@@ -20,11 +20,15 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·十八年戊午
+  - ref: src:suishu-dili
+    locator: 卷三十一·地理志下·丹阳郡·溧水目
+  - ref: src:chgis-fudan-lishui
+    locator: 溧水县条（引《元和郡县图志》《隋书》两说）
 related:
   - ls:event:sui-zhixian-591
   - ls:event:tang-wude-3-yangzhou-620
   - ls:article:jianxian-yange
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## Background
@@ -41,6 +45,16 @@ The gazetteer records:
 
 The entry follows the eleventh year of the Kaihuang era without repeating the era name, so "the eighteenth year" is the eighteenth year of Kaihuang, 598 CE. The gazetteer does not record where the county seat stood after the merger.
 
+## The standard history's variant
+
+The *Suishu*, juan 31, "Treatise on Geography, Part 3," entry on Danyang Commandery, under Lishui, reads differently from the gazetteer's wording here:
+
+> 溧水（舊曰溧陽。開皇九年廢丹陽郡入，十八年改焉。有赭山、廬山、楚山。）
+>
+> *Translated:* Lishui (formerly called Liyang. In the ninth year of Kaihuang Danyang Commandery was abolished and it was merged in; in the eighteenth year it was renamed. It has Zheshan, Lushan and Chushan.)
+
+The treatise treats Lishui as Liyang renamed in the eighteenth year of Kaihuang, rather than as a county carved out in 591 and then absorbing Liyang. This, however, differs from the *Yuanhe Junxian Tuzhi*, juan 28 — "in the eleventh year of Kaihuang, Yuwen Shu separated off the west of Liyang and the east of Danyang to establish Lishui County" — and Fudan's CHGIS notes that the two accounts "differ and are suspect", adopting the 591 foundation. The two are set side by side.
+
 ## What happened
 
 Liyang County was merged into Lishui County and ceased to exist.
@@ -51,4 +65,8 @@ The territory of Lishui County was enlarged and for a time covered the former Li
 
 ## Uncertainties
 
-The entry consists of six characters only. It gives no reason for the merger, no county seat and no boundary, and this entry adds none. No source consulted states the boundary between Lishui and the former Liyang after the merger. The confidence level is set to `medium`.
+First, the entry consists of six characters only. It gives no reason for the merger, no county seat and no boundary, and this entry adds none. No source consulted states the boundary between Lishui and the former Liyang after the merger.
+
+Second, the establishment itself is disputed: the *Suishu*, "Treatise on Geography," treats Lishui as Liyang renamed in 598, while the *Yuanhe Junxian Tuzhi* and the gazetteer have Lishui carved out in 591 and Liyang merged into it in 598. The two are set side by side without preference.
+
+Third, a search of the *Suishu* in this library found no explicit statement that Lishui County was established in the eleventh year of Kaihuang. On these grounds the confidence level is set to `medium`.

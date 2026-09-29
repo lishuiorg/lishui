@@ -20,11 +20,17 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·唐高祖武德三年庚辰
+  - ref: src:jiutangshu-dili
+    locator: 卷四十·地理志三·润州上元条、扬州条、宣州溧水条
+  - ref: src:chgis-fudan-lishui
+    locator: 扬州条（620—623 年）、溧阳县条
+  - ref: src:njls-lsyg
+    locator: 历史沿革·隋唐一段
 related:
   - ls:event:sui-bing-liyang-598
   - ls:event:tang-wude-9-xuanzhou-626
   - ls:article:jianxian-yange
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## Background
@@ -41,6 +47,17 @@ The gazetteer records:
 
 The third year of Wude is 620 CE.
 
+## The standard history
+
+The *Jiu Tangshu*, juan 40, "Treatise on Geography, Part 3," records the Tang administrative affiliations of Lishui and corroborates this entry:
+
+> 上元（武德）三年，於（江寧）縣置揚州，仍置東南道行臺，改江寧為歸化。
+> 溧水……武德三年，屬揚州。九年，屬宣州。
+>
+> *Translated:* In the third year of Wude, Yangzhou was established at Jiangning, together with a Southeastern Circuit branch administration, and Jiangning was renamed Guihua. ... Lishui ... in the third year of Wude belonged to Yangzhou; in the ninth year, to Xuanzhou.
+
+The same juan, under Yangzhou, also has "in the third year of Wude, Du Fuwei submitted, and Yangzhou was established at Jiangning County of Runzhou". The treatise seats Yangzhou at Jiangning (Guihua), slightly different from the gazetteer's "Lishui and Jiangning were made into Yangzhou". Fudan's CHGIS, on the *Jiu Tangshu* and the *Jingding Jiankang Zhi*, dates Yangzhou to 620, seated at Guihua County and governing the four counties of Guihua (Jiangning), Lishui, Liyang and Anye, until it was renamed Jiangzhou in 624.
+
 ## What happened
 
 Lishui and Jiangning were made into Yangzhou, with Lishui County kept and remaining under it at the superior rank, and the eastern part of Lishui was separated off as Liyang, restoring that county. In the same year Li Zitong attacked Jingkou and the Danyang commanderies, all of which surrendered; Du Fuwei sent Fu Gongshi against him, and Fu Gongshi took Danyang and advanced to encamp at Lishui.
@@ -55,4 +72,6 @@ First, the gazetteer prefaces the identification of Ducheng Mountain with "said 
 
 Second, "its rank was set as superior" is the gazetteer's note on the Tang county grade; the source does not explain the system, and this entry only repeats it.
 
-Third, the entry does not give the seat of the new Yangzhou, nor the boundary of the eastern part of Lishui separated off as Liyang. The confidence level is set to `medium`.
+Third, the seat and the counties of the new Yangzhou are disputed: the gazetteer has "Lishui and Jiangning were made into Yangzhou", the *Jiu Tangshu* seats it at Jiangning (Guihua), and CHGIS has it governing the four counties of Guihua, Lishui, Liyang and Anye. The three readings are set side by side without preference.
+
+Fourth, a search of the *Jiu Tangshu*, "Treatise on Geography," found no explicit statement of "Lishui and Jiangning were made into Yangzhou" or of "eastern Lishui was separated off as Liyang" — the treatise records only that Lishui "in the third year of Wude belonged to Yangzhou"; the restoration of Liyang in 620 rests on CHGIS and the Liyang City government's history. The confidence level is set to `medium`.

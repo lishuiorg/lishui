@@ -33,7 +33,7 @@ const SOURCES = join(REPO, 'sources');
 const LAYERS = ['records', 'excerpts', 'fulltext'];
 
 /* 取值表的中文名，用于台账可读列。取值与 lishui-kit/schema/enums.common.json 同步。 */
-const TYPE_CN = { gov: '政府文件', media: '媒体报道', 'heritage-list': '名录公布', academic: '学术文献', gazetteer: '旧志', archive: '档案' };
+const TYPE_CN = { gov: '政府文件', media: '媒体报道', 'heritage-list': '名录公布', academic: '学术文献', gazetteer: '旧志', epigraphy: '金石碑刻', archive: '档案', fieldwork: '实地调查' };
 const RIGHTS_CN = { 'public-domain': '公有领域', 'gov-open': '政务公开', 'excerpt-only': '仅摘录', 'link-only': '仅链接', 'permission-required': '需授权' };
 const ARCHIVE_CN = { fulltext: '全文', 'link-registered': '登记链接', 'catalogued-only': '仅著录', excerpt: '摘录', link: '链接档案' };
 

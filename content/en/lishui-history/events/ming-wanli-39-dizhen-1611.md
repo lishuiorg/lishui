@@ -20,9 +20,11 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·明万历三十九年辛亥
+  - ref: src:tianjianming-jiangsu-lishi-dizhen
+    locator: 摘要与第一节「资料来源及选取」
 related:
   - ls:event:ming-wanli-34-yongshousita-1606
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## The record
@@ -39,6 +41,12 @@ The earthquake belongs to 1611, the thirty-ninth year of the Wanli era, on the d
 
 The gazetteer gives this one line only. It records neither the magnitude, the epicentre nor the duration, and says nothing of collapsed houses or of people and livestock killed. This entry does not add anything the gazetteer does not contain.
 
+## The convention of the records
+
+Ming local gazetteers and the veritable records usually date an earthquake to a single line of year, month and day; earthquakes that were not severe are commonly recorded in this way. Historical earthquake records for Jiangsu and its neighbours run continuously from 171 BCE, and from 1480 onward records of land earthquakes of magnitude 4 and above are broadly complete (after Tian Jianming et al., *Types of Historical Earthquakes in Jiangsu and the Southern Yellow Sea*). A single line with no record of damage, as here, falls within the sparse class of records described in that paper and is not enough to infer a magnitude or an epicentre.
+
 ## Uncertainties
 
 The earthquake stands as a single isolated entry in the gazetteer. The text records no relief or rebuilding after it and gives no indication of how far the shaking was felt, so its effects cannot be assessed. The source consulted here also does not say whether this line was taken over from an earlier gazetteer, and the compilers' reasons for including it cannot be recovered.
+
+A search of academic work on historical earthquakes in Jiangsu, of public replies from the earthquake authorities, and of the relevant juan of the Veritable Records yielded no magnitude or epicentre given separately for this earthquake; catalogues such as the Catalogue of Strong Historical Earthquakes of China cover magnitude 4 and above, and whether this event is entered there has not been confirmed. Studies often assess the magnitude of a single-line record of this kind differently; no variant readings to set side by side were found, and the point is left blank.

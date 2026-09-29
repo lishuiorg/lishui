@@ -19,11 +19,15 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·敬王十四年乙未
+  - ref: src:chunqiu-zuozhuan
+    locator: 定公四年·经、传
+  - ref: src:zhida-jinling-xinzhi
+    locator: 卷十二上·古迹志·固城条
 related:
   - ls:event:zhou-mie-lai-538
   - ls:event:qin-zhi-liyang-221
   - ls:article:kangxi-lishuixianzhi-yiji-zhaiyi
-updated: 2026-09-25
+updated: 2026-09-29
 ---
 
 ## Background
@@ -40,6 +44,22 @@ The gazetteer dates the entry to the fourteenth year of King Jing of Zhou, a *yi
 
 By the sexagenary year given in the source, this is 506 BCE. The stronghold burned was Gucheng, the town of Laizhu Yi.
 
+## The standard history and the old record
+
+The fourth year of Duke Ding of Lu in the *Zuo Zhuan* covers Wu's campaign against Chu in the same year. Its annals read:
+
+> 冬十有一月庚午，蔡侯以吳子及楚人戰於柏舉，楚師敗績……庚辰，吳入郢。
+>
+> *Translated:* In winter, on the *gengwu* day of the eleventh month, the marquess of Cai and the viscount of Wu fought the men of Chu at Boju, and the Chu army was routed ... on the *gengchen* day Wu entered Ying.
+
+Its commentary records that "Wu Yuan acted as Wu's minister of rites to plot against Chu". The standard history records only that Wu entered Ying; **it does not record that Gucheng was burned.** The burning appears in an old record quoted in the Yuan *Zhida Jinling Xinzhi* (juan 12A, "Monuments"), under Gucheng:
+
+> 言伍員奔吳，闔閭用為將，舉軍破楚，固城宮殿逾月煙焰不滅，其城遂廢。
+>
+> *Translated:* It is said that when Wu Yuan fled to Wu, Helü made him a general; he led the whole army and broke Chu, and the palaces of Gucheng burned for more than a month, so that the town was left in ruins.
+
+The same gazetteer records that ancient Gucheng "was built by Wu in the Spring and Autumn period, within the borders of Lishui sub-prefecture". The account current in Gaochun that Wu attacked Chu and burned Gucheng, the fire lasting more than a month, derives from this.
+
 ## What happened
 
 Wu campaigned against Chu with Wu Yuan, and in the course of the fighting burned Gucheng.
@@ -54,4 +74,8 @@ This entry predates the establishment of Lishui County in 591 CE, the eleventh y
 
 ## Uncertainties
 
-The year has a rival reading. The gazetteer notes that the *Junji* gives the twenty-third year of King Jing and that this is wrong, and follows the old gazetteer with the fourteenth year; the conversion to 506 BCE rests on that choice. The burning of Gucheng occupies a single sentence in the gazetteer, with no detail of the fighting, and this entry adds none. The confidence level is set to `medium`.
+First, the dating has a variant. The gazetteer notes that the *Junji* gives the twenty-third year of King Jing and that this is wrong, following the old gazetteer; this entry follows the old gazetteer with the fourteenth year of King Jing, and the conversion to 506 BCE rests on that, matching the fourth year of Duke Ding of Lu in the *Zuo Zhuan*.
+
+Second, the gazetteer gives only this one sentence for the burning, with no detail of the fighting, and this entry adds none. The standard history — the *Zuo Zhuan*, fourth year of Duke Ding — records only that Wu entered Ying and does not record the burning of Gucheng; the burning appears only in an old record quoted by the Yuan *Zhida Jinling Xinzhi* and in later gazetteers, of lower authority than a standard history, and the two are set side by side.
+
+Third, a search of the *Chunqiu*, the *Zuo Zhuan* and the *Shiji* in this library found no explicit record of the burning of Gucheng. On these grounds the confidence level is set to `medium`.
