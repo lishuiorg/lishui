@@ -23,7 +23,7 @@ sources:
     locator: 「名称/面积/政府驻地/居委会/村委会」表中和凤镇一行；溧水区人民政府网站
   - ref: src:njls-jd-hfz
     locator: 页面首段；溧水区人民政府网站和凤镇概况页
-  - ref: src:njls-rd-104
+  - ref: src:njls-cunluo-104
     locator: 答复正文传统村落段；溧水区，2025-11-26（述 2024 年末数）
   - ref: src:jsszjtc-1pi
     locator: 文中「溧水区：」名单段；江苏省住建厅网站，2020-04-08

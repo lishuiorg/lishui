@@ -21,7 +21,7 @@ sources:
     locator: 卷之一·邑纪·明洪武二十六年癸酉
   - ref: src:jiangsu-shengbao-minglu
   - ref: src:jiangsu-wlt-yanzhihe
-  - ref: src:thepaper-lishui-qiao
+  - ref: src:thepaper-2021-lishui-qiaoliang
     locator: Article, section on Tiansheng Bridge, The Paper, 2021
   - ref: src:tuniu-tianshengqiao
     locator: Scenic-area introduction

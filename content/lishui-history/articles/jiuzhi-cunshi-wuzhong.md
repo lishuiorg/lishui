@@ -20,7 +20,7 @@ sources:
     locator: 提要正文，版本与藏地段落
   - ref: src:gujishuku-lishuixianzhi
     locator: 著录页的「纂修者」「卷数」「版本」栏
-  - ref: src:jssdfz-jzzlycb
+  - ref: src:jiangsu-fangzhi-lishui-guzhi-2019
     locator: 栏目条目，溧水相关行
   - ref: src:nanjing-shijianzhuzhi-2002
     locator: 南京出版社样书送缴清单表格中溧水五志各行；江苏省图书馆，2015-11-02

@@ -33,7 +33,7 @@ sources:
     locator: Body of the reply; Lishui District Water Affairs Bureau, 28 November 2025
   - ref: src:nanjing-shuiwu-shijiu
     locator: Body of the page; Nanjing Municipal Water Bureau, 24 October 2025
-  - ref: src:jiangsu-zrzy-shijiu
+  - ref: src:jiangsu-zrzy-shijiu-queren
     locator: Passage on the boundaries of the registered unit in the notice; Jiangsu Provincial Department of Natural Resources, January 2026
   - ref: src:njls-jdgk-jqz
     locator: Passage on the town; Lishui District People's Government website, Jingqiao Town page

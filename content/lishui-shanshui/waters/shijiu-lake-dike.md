@@ -33,7 +33,7 @@ sources:
     locator: 答复正文；溧水区水务局，2025-11-28
   - ref: src:nanjing-shuiwu-shijiu
     locator: 页面正文；南京市水务局，2025-10-24
-  - ref: src:jiangsu-zrzy-shijiu
+  - ref: src:jiangsu-zrzy-shijiu-queren
     locator: 公告正文登记单元四至一段；江苏省自然资源厅，2026-01
   - ref: src:njls-jdgk-jqz
     locator: 镇情概况段；溧水区人民政府网站，晶桥镇页

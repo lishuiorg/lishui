@@ -23,7 +23,7 @@ sources:
     locator: Table of names, areas, seats and committee counts, row for Hefeng Town; Lishui District People's Government website
   - ref: src:njls-jd-hfz
     locator: Opening paragraph; Hefeng Town profile page, Lishui District People's Government website
-  - ref: src:njls-rd-104
+  - ref: src:njls-cunluo-104
     locator: Passage on traditional villages in the reply; Lishui District, 26 November 2025, giving figures to the end of 2024
   - ref: src:jsszjtc-1pi
     locator: List section headed by the district name; Jiangsu Provincial Department of Housing and Urban-Rural Development website, 8 April 2020

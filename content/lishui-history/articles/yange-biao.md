@@ -20,7 +20,7 @@ sources:
     locator: 页面段落「历史沿革」
   - ref: src:xzqh-guohan-2013-24
     locator: 批复正文
-  - ref: src:jiangsu-gov-2018-pifu
+  - ref: src:jsszf-2018-30
     locator: 批复正文及使用说明
   - ref: src:njls-xzqh
     locator: 现行区划名录，访问日期 2026-09-25

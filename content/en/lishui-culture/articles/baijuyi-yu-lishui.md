@@ -4,8 +4,8 @@ type: article
 lang: en
 site: lishui-culture
 title: Bai Juyi and His Lishui Connection
-subtitle: Seeking out his uncle Bai Jikang, then county magistrate
-summary: Bai Juyi went to Lishui to seek out his uncle Bai Jikang, then serving as county magistrate, and Bai Jikang died in office there. Bai Jikang's years in the post could not be verified and are not supplied here.
+subtitle: His uncle Bai Jikang, magistrate of Lishui, and Bai Juyi's examination there
+summary: Bai Juyi's uncle Bai Jikang served as magistrate of Lishui and died in office, and was later honoured as the city god of Lishui. Later compilations say Bai Juyi joined him, sat the county examination at Lishui in 798 and passed in 800 as a Xuanzhou candidate; his own presence there is an inference, not a direct record.
 tags: [名人, 诗文, 唐代]
 status: published
 verified: false
@@ -14,23 +14,70 @@ depth: standard
 genre: 文教
 period: 唐
 sources:
+  - ref: src:baijuyi-baishichangqingji
+    locator: Bai shi changqing ji, juan 70, "Epitaph for the Late Magistrate of Lishui"
+  - ref: src:guangxu-lishuixianzhi
+    locator: "Miscellaneous Records": the epitaph's abridged text and the origins of the city god
+  - ref: src:kangxi-lishuixianzhi
+    locator: juan 3, Establishments, "County"; juan 9, Literature, Pan Ye's "Record of Repairing the Confucian School and its Roads"
+  - ref: src:njls-qqjj
+    locator: first paragraph
+  - ref: src:fangzhijs-baijuyi
+    locator: section "Bai Juyi, candidate of Lishui"
   - ref: src:jschina-baijukang
-    locator: 文章正文（江苏国际在线，2021-11-26）
+    locator: article text (Jiangsu International Online, 26 Nov 2021)
+citations:
+  - ref: src:baijuyi-baishichangqingji
+    locator: Bai shi changqing ji, juan 70, "Epitaph for the Late Magistrate of Lishui"
+    quote: 公讳季康，字某，太原人……历华州下邽尉、怀州河内丞、徐州彭城令、江州浔阳令、宿州虹县令、宣州溧水令，殁于官舍。
+  - ref: src:kangxi-lishuixianzhi
+    locator: juan 3, Establishments, "County"
+    quote: 唐时故址即今城隍庙也。元和间改县为白侯庙，而遂为城隍。
 related:
   - ls:article:yuanmei-chudi-lishui
-updated: 2026-09-26
+updated: 2026-09-29
 ---
 
-## Seeking out his uncle Bai Jikang
+## Bai Jikang and Lishui
 
-According to a report by Jiangsu International Online dated November 2021, Bai Juyi went to Lishui to seek out his uncle Bai Jikang, who was then serving as county magistrate. The same report states that Bai Jikang died in office in Lishui.
+Bai Jikang was Bai Juyi's uncle (literally his father's cousin). Bai Juyi wrote his epitaph, "Epitaph for the Late Magistrate of Lishui, Mr. Bai of Taiyuan" (Bai shi changqing ji, juan 70). It records that Bai Jikang held office as subprefect of Huazhou's Xiaqui, assistant of Huaizhou's Henei, magistrate of Xuzhou's Pengcheng, magistrate of Jiangzhou's Xunyang and magistrate of Suzhou's Hongxian, and finally magistrate of Lishui in Xuanzhou, dying "in the official residence"; it also says that "from his subprefectship at Xiaqui to his magistracy at Lishui he was known to his superiors for integrity and for bringing relief, and was praised among his colleagues", and that he was "fraternal to his brothers and kind to his nephews".
 
-## Awaiting further material
+The kinship term varies by source: media reports and encyclopaedias usually say "uncle", specialised compilations say "father's cousin (a more distant uncle)", and the gazetteer text of the epitaph says "uncle". This entry keeps both, without choosing.
 
-First, the years in which Bai Jikang served as magistrate of Lishui, and the length of his tenure, could not be verified and must be checked against the gazetteers; nothing is supplied here.
+The district government's "District Overview" page lists "the Tang poet Bai Jikang, the Song poet Zhou Bangyan and the Qing man of letters Yuan Mei" among former magistrates of Lishui.
 
-Second, apart from this report, no source held by this site records how long Bai Juyi stayed in Lishui or what he wrote there, and nothing is supplied here.
+## Bai Juyi joins him and sits the examination
+
+According to a compilation by Fangzhi Jiangsu (the official Pengpai account of the Jiangsu Provincial Local Records Compilation Committee), Bai Juyi's father Bai Jigeng died in 794 in office at Xiangyang; after the mourning period Bai Juyi went to join his uncle Bai Jikang, then magistrate of Lishui. In 798 Bai Jikang had him sit the county examination at Lishui; in autumn 799 he sat the prefectural examination at Xuanzhou, was recommended by Cui Yan, the governor, and in the first month of 800 entered the capital as a Xuanzhou candidate and passed with the fourth place in the imperial examination.
+
+The same article itself notes that Bai Juyi's collected works record nothing of this Lishui journey, and that his sitting the examination there is inferred from the rule that a Xuanzhou candidate could only be examined at Lishui (citing Wang Shiyi's Life of Bai Juyi, 1983). His presence in Lishui is therefore an inference, of a different evidential order from the contemporary epitaph used here.
+
+A report by Jiangsu International Online in 2021 adds that the name of Tongji Street in Lishui was taken from the epitaph. This is a modern inference; the epitaph names no street, and the entry marks it as such.
+
+## Bai Jikang honoured as city god of Lishui
+
+juan 3 of the Kangxi edition of the Lishui County Gazetteer, under "County", records:
+
+> 唐时故址即今城隍庙也。元和间改县为白侯庙，而遂为城隍。
+
+*Translated:* The Tang site is today's City God Temple. In the Yuanhe period the county office was renamed the temple of Lord Bai, and so became the city god's temple.
+
+juan 9 of the same gazetteer, in Pan Ye's "Record of Repairing the Confucian School and its Roads" of 1489, adds:
+
+> 唐溧水令白公有德及民，殁而奏于朝，移县治于旧治西若干步，即旧治而庙共祀之，今城隍庙是已。
+
+*Translated:* The Tang magistrate of Lishui, Lord Bai, benefited the people by his virtue; after his death it was reported to court, the county seat was moved a few paces west of the old office, and a temple was raised on the old site to sacrifice to him — this is today's City God Temple.
+
+The "Miscellaneous Records" of the Guangxu edition quotes the epitaph Bai Juyi wrote for Bai Jikang and gives the sequence: in 837 a subordinate official built an earthen altar and a thatched shrine in the county garden to Lord Bai; in 844, after incense was burned there, the matter was reported and "by imperial order the county office was converted into a temple and the seat moved to a wine workshop west of the street". The "Lord Bai" of the gazetteers is Bai Jikang, confirmed by the epitaph and the two gazetteers.
+
+The Kangxi reading ("in the Yuanhe period") and the Guangxu reading (shrine in 837, temple in 844) differ in date and are set side by side, without a choice.
 
 ## Uncertainties
 
-Bai Juyi's life belongs to the character sub-site; this entry records only the episode that connects him with Lishui. The words "seek out" and "died in office" follow the report's wording and are not expanded into an assessment.
+First, no gazetteer, including the epitaph, gives the years in which Bai Jikang took up or left the Lishui post, nor his year of death; the year 798 belongs to the compilation's account of Bai Juyi's visit and examination, not to a gazetteer record.
+
+Second, whether Bai Juyi himself ever went to Lishui has no direct evidence; the accounts infer it from his status as a Xuanzhou candidate, and this entry marks it as an inference.
+
+Third, the date of the city-god cult is given as the Yuanhe period in the Kangxi edition and as 837/844 in the Guangxu edition; both are set out.
+
+Fourth, the derivation of the street name "Tongji" from the epitaph is a modern inference; the epitaph names no street.

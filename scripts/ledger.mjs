@@ -168,6 +168,15 @@ const used = ledger.filter((r) => r.refTotal > 0);
 const unused = ledger.filter((r) => r.refTotal === 0);
 const noUrl = ledger.filter((r) => !r.url || r.url === 'null');
 
+/* 同一 URL 建了两张卡：来源是一份资料一卡，重复会让同一页面产生两个 rights 判定，
+   并让条目引用分散到两张卡上。这里只报出，不自动合并——合并要人判断保留哪张、
+   把引用改指过去，且引用不只在 content/ 下（sources/ 自身的卡、docs/、Plan/ 也会引）。 */
+const dupUrlGroups = [...ledger
+  .filter((r) => r.url && r.url !== 'null')
+  .reduce((m, r) => m.set(r.url, [...(m.get(r.url) ?? []), r]), new Map())]
+  .filter(([, rs]) => rs.length > 1)
+  .map(([url, rs]) => ({ url, ids: rs.map((r) => r.id), refTotals: rs.map((r) => r.refTotal) }));
+
 const summary = {
   generatedFrom: siteIds,
   total: ledger.length,
@@ -189,6 +198,7 @@ const summary = {
   })),
   noUrlIds: noUrl.map((r) => r.id),
   unusedIds: unused.map((r) => r.id),
+  dupUrlGroups,
 };
 
 /* ---------- 输出 CSV ---------- */
@@ -418,6 +428,13 @@ if (!quiet) {
   }
   out.write(`已被引用 ${summary.used} 份，未被引用 ${summary.unused} 份${unused.length ? '：' + unused.map((r) => r.id).join('、') : ''}\n`);
   out.write(`无在线链接 ${noUrl.length} 份：${noUrl.map((r) => r.id).join('、')}\n`);
+  if (dupUrlGroups.length) {
+    out.write(`\n警告：${dupUrlGroups.length} 组同一 URL 建了两张卡，须合并（保留一张、改指引用、删另一张）：\n`);
+    for (const g of dupUrlGroups) {
+      out.write(`  ${g.url}\n`);
+      g.ids.forEach((id, i) => out.write(`    - ${id}（被引 ${g.refTotals[i]} 次）\n`));
+    }
+  }
   out.write(`引用总次数 ${summary.refTotalAll}\n`);
   out.write(`\n已生成：\n  ${join(outDir, 'ledger.csv')}\n  ${join(outDir, 'ledger.json')}\n${onlyCsv ? '' : `  ${join(outDir, 'ledger.html')}\n`}`);
 }

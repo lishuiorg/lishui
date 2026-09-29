@@ -21,7 +21,7 @@ sources:
     locator: Jiangsu section of the sixth batch of Chinese traditional villages, entry for Zhangjia Village, Hefeng Town, Lishui District, Nanjing; reprint on the provincial housing department website, 23 March 2023
   - ref: src:jsszjtc-1pi
     locator: List section headed by the district name; Jiangsu Provincial Department of Housing and Urban-Rural Development website, 8 April 2020
-  - ref: src:njls-rd-104
+  - ref: src:njls-cunluo-104
     locator: Passage on traditional villages in the reply; Lishui District, 26 November 2025, giving figures to the end of 2024
 related:
   - ls:place:hefeng-town

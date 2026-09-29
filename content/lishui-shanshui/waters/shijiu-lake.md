@@ -32,7 +32,7 @@ sources:
     locator: 答复正文；溧水区人民政府，2023-11-29
   - ref: src:nanjing-shuiwu-shijiu
     locator: 页面正文湖泊概况一段；南京市水务局，2025-10-24
-  - ref: src:jiangsu-zrzy-shijiu
+  - ref: src:jiangsu-zrzy-shijiu-queren
     locator: 公告正文登记单元四至一段；江苏省自然资源厅，2026-01
   - ref: src:jiangsu-sheng-zhongyao-shidi
     locator: 名录中溧水区石臼湖一行；江苏省人民政府

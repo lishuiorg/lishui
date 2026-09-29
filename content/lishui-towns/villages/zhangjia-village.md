@@ -21,7 +21,7 @@ sources:
     locator: 第六批中国传统村落名录江苏部分名单段「南京市溧水区和凤镇张家村」；江苏省住建厅网站转载，2023-03-23
   - ref: src:jsszjtc-1pi
     locator: 文中「溧水区：」名单段；江苏省住建厅网站，2020-04-08
-  - ref: src:njls-rd-104
+  - ref: src:njls-cunluo-104
     locator: 答复正文传统村落段；溧水区，2025-11-26（述 2024 年末数）
 related:
   - ls:place:hefeng-town

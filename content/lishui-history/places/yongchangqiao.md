@@ -23,7 +23,7 @@ sources:
     locator: 卷之三·建置志·桥渡
   - ref: src:njls-mzj-dmwh-2py
     locator: 「永昌桥」一节；引时标「溧水区民政局，2024」
-  - ref: src:thepaper-lishui-qiao
+  - ref: src:thepaper-2021-lishui-qiaoliang
     locator: 「秦淮悠悠之永昌桥」一节，澎湃新闻 2021
   - ref: src:nanjing-dmwh-2pi
     locator: 附件「二、古桥梁」中的「永昌桥」行

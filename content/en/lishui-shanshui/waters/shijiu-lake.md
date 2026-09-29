@@ -32,7 +32,7 @@ sources:
     locator: Body of the reply; People's Government of Lishui District, 29 November 2023
   - ref: src:nanjing-shuiwu-shijiu
     locator: Passage on the lake in the body of the page; Nanjing Municipal Water Bureau, 24 October 2025
-  - ref: src:jiangsu-zrzy-shijiu
+  - ref: src:jiangsu-zrzy-shijiu-queren
     locator: Passage on the boundaries of the registered unit in the notice; Jiangsu Provincial Department of Natural Resources, January 2026
   - ref: src:jiangsu-sheng-zhongyao-shidi
     locator: Row for Shijiu Lake, Lishui District, in the list; Jiangsu Provincial People's Government

@@ -18,7 +18,7 @@ verified: true
 confidence: high
 depth: standard
 sources:
-  - ref: src:jiangsu-gov-2018-pifu
+  - ref: src:jsszf-2018-30
     locator: Reply text
   - ref: src:njls-xzqh
     locator: Current division list, accessed 2026-09-25
