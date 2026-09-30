@@ -22,6 +22,8 @@ sources:
     locator: 卷之一·邑纪·十八年乙丑
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·九年辛巳
+  - ref: src:ming-shilu
+    locator: 大明太祖高皇帝实录卷一百七十·洪武十八年正月己卯
 related:
   - ls:event:ming-longqing-5-zhangliang-1571
 updated: 2026-09-25
@@ -40,6 +42,8 @@ The Hongwu entries in the gazetteer's annals are mostly remissions: rent remitte
 
 The method recorded is that registers were compiled, households entered in three grades, and every levy of corvée checked against the register. The appearance of five-coloured clouds is the gazetteer's own way of noting an anomaly; this entry reproduces it without reading it as a sign of institutional change.
 
+The *Taizu Veritable Records*, juan 170, also records the matter, under the *jimao* day of the first month of 1385: "The officials of all prefectures, sub-prefectures and counties were ordered to grade their households as upper, middle and lower and make tax and corvée registers, to be kept in the hall of business. Whenever corvée was levied, the register was produced and its weight checked, so that the register was used accordingly, in order to put an end to the malpractices of the clerks." The veritable record shows the measure to be a general order to all prefectures and counties, and supplies two things the gazetteer omits: that the registers were kept "in the hall of business", and that the purpose was "to put an end to the malpractices of the clerks". It also gives the day, which the gazetteer does not.
+
 ## Consequences
 
 The immediate result was the grading of households and the verification of corvée against the register. The registers were remade repeatedly afterwards: the single-whip method was memorialised in 1569; in 1571 the magistrate Liu Yinglei measured the fields and removed more than four thousand *shi* of "flying" grain; and in 1581 the magistrate Chen Zizhen measured the fields again and found a shortfall of more than 84,693 *mu* against the original quota, which the gazetteer attributes to land gradually washed away by the lake.
@@ -51,3 +55,7 @@ First, the gazetteer does not relate these registers to the Ming yellow register
 Second, the criteria for the three grades — persons, land, or both — are not stated.
 
 Third, it is not clear whether the shortfall found in 1581 is measured against the quota fixed in 1385 or against the measurement of 1571; the gazetteer says only "the original quota".
+
+Fourth, the measure recorded in the *Taizu Veritable Records* is a general order to all prefectures and counties, a matter of national institution; how Lishui itself compiled them, and by whom, is recorded neither by the veritable record nor by the gazetteer, and remains peculiar to the county gazetteer. No inference is drawn here.
+
+Fifth, on the seven layers of sources searched: the official websites layer, the published documents and lists layer, the academic layer (which yields only general studies of the Ming yellow registers, not usable for asserting local facts), the media layer and the maps and fieldwork layer yielded nothing directly on the registers of Lishui; the classical-text layer yielded only the one item from the *Taizu Veritable Records*. The core fact rests on two independent sources, the gazetteer and the veritable records; the confidence remains `medium`, since the method of compilation and the criteria of the three grades remain peculiar to the county gazetteer.

@@ -22,7 +22,7 @@ citations:
     quote: 三十四年丙午，正月二夜，县西北隅有赤光一道，直抵东南。知县徐良彦即其地建浮图以镇之。详《永寿寺记》。
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·明天启二年壬戌
-    quote: 二年壬戌，应天府尹徐必达据知县张锡命详文，移抚院王象恒、按院易应昌会题，准溧水漕米永远改折，［阖］邑戴之。事载《改折全书》。
+    quote: 二年壬戌，应天府尹徐必达据知县张锡命详文，移抚院王象恒、按院易应昌会题，准溧水漕米永远改折，（合）［阖］邑戴之。事载《改折全书》。
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·明天启五年乙丑
     quote: 五年乙丑，二月十九日，地震。五月十七日，大风雨，昼如晦。秋旱。十一月二十五夜，地震有声。是年京储告匮，天下改折地方暂借漕米一年。溧水自是不复改折。相沿。
@@ -138,6 +138,12 @@ The method is that of the four preceding selections: a list of entries first, th
 > *Translated:* In the twelfth year, yimei, at the time of the review of the registers, the zhixian Min Pailu enforced the law with impartiality, received the city god of the county in the county hall and sat with him over the business. Households were reviewed in detail, corvée apportioned, the surplus taken to fill the shortfall, all to make the shares equal. A book was drawn up, called the Register of Equalised Households and Corvée, cut on blocks and circulated throughout the county, so that no powerful household could evade service and no cunning man could alter the register, and the common people were glad of it.
 
 **Note.** This entry records a review of taxation and corvée in the early Qing, whose outcome was the Register of Equalised Households and Corvée. The gazetteer gives the method as "households reviewed in detail, corvée apportioned, the surplus taken to fill the shortfall, so that all were equal", and adds that it was "cut on blocks and circulated throughout the county" — printed and put into circulation everywhere, so that "no powerful household could evade service". The same entry records that the magistrate "received the city god in the county hall and sat with him over the business", a ceremony of the time reproduced here without comment.
+
+## Source limits and search scope
+
+This selection is drawn from a single source, the first juan of the Kangxi *Lishui County Gazetteer*, the annalistic record, and is taken from a second-hand transcription in an online database, not a photographic copy of the original; the text, dates, personal names and the compilers' own notes are reproduced as the gazetteer has them, with nothing rewritten and nothing supplied that the gazetteer does not record. For the background of the grain-tax commutation and of early Qing taxation, the *History of Ming*, "Food and Money II", the study of early Qing ward organisation, and this site's article on taxation (see "Taxation and Corvée in Ming and Qing Lishui") are available; the selection here remains a quotation and is not used to alter the text of the annals.
+
+Layers searched without result, for this span: official web pages (the district government's "Historical Development" and "Scenic Sites") and the published heritage inventories (layer two) record only remains such as the Yongshousi Pagoda, which have nothing to do with these entries on grain transport and anomalies; the academic databases (CNKI, Wanfang, VIP) and the full-text repositories (the National Library's read.nlc.cn and others) yielded no study devoted to the late Ming and early Qing entries of the annals one by one, nor any photographic copy of the gazetteer for checking; the media have nothing to do with this span; the map-survey layer does not apply. All these are "not found in this library's searches", not proof that nothing exists.
 
 ## Choices and uncertainties
 

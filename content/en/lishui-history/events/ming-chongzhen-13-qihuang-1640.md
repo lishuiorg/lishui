@@ -15,7 +15,7 @@ outcome: Arrears of grain tax from before 1639 were remitted; the next year brou
 tags: [饥荒, 灾异, 明代]
 status: published
 verified: true
-confidence: high
+confidence: medium
 depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
@@ -24,6 +24,10 @@ sources:
     locator: 卷之一·邑纪·明崇祯十四年辛巳
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·明崇祯十二年己卯
+  - ref: src:mingshi
+    locator: 卷二十八·志第四·五行一·蝗蝻·崇祯十三年、十四年
+  - ref: src:guangxu-lishuixianzhi
+    locator: 卷六·赋役志·蠲赈·崇祯十三年
 related:
   - ls:event:ming-wanli-16-fengxianwei-1588
 updated: 2026-09-25
@@ -55,6 +59,14 @@ In 1640, the thirteenth year of the Chongzhen era, the gazetteer records a famin
 
 The famine therefore lasted at least two years.
 
+## Records at the Nanji level (the *History of Ming*'s treatise on the Five Phases)
+
+The *History of Ming*, juan 28, Treatise 4, "Water" (Locusts), records the drought and locusts of the Chongzhen years around the southern capital region: "In the sixth month of the eleventh year, the two capitals, Shandong and Henan suffered a great drought and locusts. In the fifth month of the thirteenth year, the two capitals, Shandong, Henan, Shanxi and Shaanxi suffered a great drought and locusts. In the sixth month of the fourteenth year, the two capitals, Shandong, Henan and Zhejiang suffered a great drought and locusts." "The two capitals" includes the southern capital region of Yingtian, to which Lishui was attached. These are records at the level of the southern capital region and can be read alongside the gazetteer's "famine of extraordinary severity" of 1640 and "locusts darkening the fields" of 1641, but they do not establish the acreage or population affected within Lishui itself.
+
+The Guangxu edition of the *Lishui County Gazetteer*, juan 6, "Taxation: Remission and Relief", records: "In the thirteenth year there was a great famine, and an order remitted all arrears of grain tax owed from before the twelfth year" — agreeing with the Kangxi gazetteer.
+
 ## Uncertainties
 
 First, "no seed grain was left" is the gazetteer's summary of the disaster; the area of land affected and the number of people are not recorded. Second, the remission covered only arrears from before 1639, and the gazetteer does not say how that year's tax was handled. Third, the gazetteer does not link the earthquake with the drought and locusts, and this entry draws no such conclusion.
+
+Fourth, a search across all seven source layers found that the *History of Ming*'s treatise on the Five Phases records a great drought and locusts in the southern capital region in both 1640 and 1641, which serves as region-level support, and that juan 6 of the Guangxu gazetteer also records the remission of those years (still within the gazetteer line). But the specifics — "no seed grain was left", the "Guanyin powder", and the county's earthquake, locusts and hail — appear only within the gazetteer line, so confidence has been lowered from `high` to `medium`.

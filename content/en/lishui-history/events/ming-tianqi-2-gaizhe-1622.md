@@ -15,7 +15,7 @@ outcome: The commutation was granted and the county welcomed it, the detail bein
 tags: [赋役, 漕运, 明代]
 status: published
 verified: true
-confidence: high
+confidence: medium
 depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
@@ -24,6 +24,10 @@ sources:
     locator: 卷之一·邑纪·明天启五年乙丑
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·明万历二十八年庚子
+  - ref: src:guangxu-lishuixianzhi
+    locator: 卷六·赋役志·蠲赈·天启二年
+  - ref: src:tianxia-junguo-libing-shu
+    locator: 改折漕粮缘由
 related:
   - ls:event:qing-shunzhi-15-gaizhe-caoliang-1658
 updated: 2026-09-25
@@ -57,6 +61,20 @@ The commutation was approved; the gazetteer says the whole county welcomed it, a
 
 Grain was therefore collected in kind again, and this became the practice.
 
+## The origin of the commutation (*Tianxia Junguo Libing Shu*)
+
+The petition for commutation arose because, after the dam at Guangtong was built, the lake water had no outlet, the lakeside fields were ruined and the void quota had to be made good. Gu Yanwu's *Tianxia Junguo Libing Shu*, in the article "The Origins of the Commutation of Grain Transport", recounts this in detail and provides background support for the gazetteer's account:
+
+> 丹阳、固城、石臼三湖之滨，民多筑圩成田，地本洼下。国初于广通镇置闸，以时启闭泄水……至正德七年，又因苏常人民奏准加高三丈……于是涓滴不泄，湖水泛溢，圩岸崩圯，田成巨浸矣……
+
+*Translated:* Along the shores of Danyang, Gucheng and Shijiu lakes the people had largely built polders into fields, on ground that was naturally low. Early in the dynasty a sluice was placed at Guangtong to open and shut with the seasons and release water… In the seventh year of Zhengde, at the petition of the people of Suzhou and Changzhou, it was raised by three zhang… so not a drop escaped, the lake water overflowed, the polder banks collapsed, and the fields became a vast flood.
+
+The article also compares Gaochun and Lishui: "In Lishui the common grade of both official and private land is barely seven sheng per mu, whereas in Gaochun a single grade is assessed at over nine sheng." The article, however, is chiefly about Gaochun's commutation and mentions Lishui only for comparison; it does not record Lishui's own commutation of 1622.
+
+The Guangxu edition of the *Lishui County Gazetteer*, juan 6, "Taxation: Remission and Relief", also records the matter: "In the second year of the Tianqi era Lishui's grain tribute was approved for permanent commutation" — agreeing with the Kangxi gazetteer.
+
 ## Uncertainties
 
 First, the commutation "in perpetuity" and its abandonment in 1625 stand side by side in the gazetteer; the practice changed in between, and this entry preserves both without choosing. Second, the Complete Book of the Commutation has not been seen, so its provisions and the course of the deliberations cannot be checked. Third, the gazetteer gives neither the rate of commutation nor the year from which it was to run.
+
+Fourth, a search across all seven source layers found Lishui's "permanent commutation" of 1622 only in the Kangxi and Guangxu editions of the Lishui gazetteer (both from the county's single line of gazetteer compilation) and in the Complete Book of the Commutation (not seen); no direct record was found outside that line in the standard histories, the veritable records, the provincial gazetteer or the *Tianxia Junguo Libing Shu* (which records only Gaochun's commutation and compares Lishui's land grades, without touching Lishui's own commutation). As the direct record is confined to the gazetteer line, confidence has been lowered from `high` to `medium`.

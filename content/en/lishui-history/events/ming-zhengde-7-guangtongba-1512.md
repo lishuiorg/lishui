@@ -26,6 +26,10 @@ sources:
     locator: 卷之一·邑纪·二年壬戌
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·十七年甲申
+  - ref: src:dushi-fangyu-jiyao
+    locator: 卷二十·南直二·应天府·广通镇
+  - ref: src:jiangnan-tongzhi
+    locator: 卷二十五·舆地志·关津·江宁府·高淳县·广通镇
 related:
   - ls:event:ming-yongle-1-guangtongzha-1403
   - ls:event:ming-yanzhihe
@@ -39,6 +43,8 @@ The gazetteer records that in 1512 Suzhou and Changzhou petitioned for a dam at 
 ## Time and place
 
 The dam was built in 1512 at Guangtong, the place where sluices had been set up in 1403 with an officer to manage the holding back and release of water.
+
+Guangtong passed to Gaochun when Gaochun was detached in 1491. The *Du Shi Fang Yu Ji Yao*, juan 20, records that Guangtong is "commonly called Dongba", and traces its water to the Xu River opened in the Spring and Autumn period on Wu Yuan's plan and to the five Lu Yang weirs built by Tai Meng at the end of the Tang; the Qianlong *Jiangnan Tong Zhi*, juan 25, says "Guangtong, fifty li east of Gaochun County, adjoining the Liyang border, the site of the old Dongba". Both identify Guangtong with the later Dongba, confirming what this entry refers to. On the dating, however, the gazetteer assigns the works to 1512, while the *Ji Yao* (as quoted at second hand by Fudan CHGIS) dates the stone sluice to "the middle of the Hongwu era" and the rebuilding as an earthen dam to "the beginning of Yongle".
 
 ## What was done
 
@@ -62,3 +68,7 @@ Second, the gazetteer does not say which prefectures petitioned or by what proce
 Third, the residents' petition of 1600 concerned the commutation of grain tax; the gazetteer links it to the flooding with the single phrase "because of the dam at Guangtong" and gives no calculation of water levels or of the change in field area, so only the wording of the petition is reproduced here.
 
 Fourth, after commutation was granted in 1622, the local officials Yang Gonghan and Zhao Tiyuan petitioned again for it in 1644; before long the dynasty changed and collection resumed as before. The reversals of commutation are recorded in the gazetteer and may be read alongside this entry.
+
+Fifth, on the dating: the *Du Shi Fang Yu Ji Yao*, juan 20 (as quoted at second hand by Fudan CHGIS), dates the stone sluice to "the middle of the Hongwu era" and the rebuilding as an earthen dam to "the beginning of Yongle", whereas the Kangxi gazetteer dates the sluices and dam to the first year of Yongle and the raising of the dam to 1512; the two chronologies are set side by side. The raising "three *zhang*" in 1512 is recorded, so far as this library can find, in no corresponding entry of the *Wuzong Veritable Records* or of the *Ming Shi* "Rivers and Canals" treatise, and remains peculiar to the county gazetteer.
+
+Sixth, on the seven layers of sources searched: the official websites layer, the published documents and lists layer, the academic layer, the media layer and the maps and fieldwork layer yielded no authoritative material directly on the dam of 1512 (local history writing and news reports that touch on it are second-hand, following the gazetteer or of unstated origin, and are not cited here); the classical-text layer yielded only the two items above, the *Du Shi Fang Yu Ji Yao* and the *Jiangnan Tong Zhi*, which cover the identification of Guangtong with Dongba and the general sluice-and-dam history, but not the raising of 1512. The core fact of the dam raised and the two sluices sealed in 1512 therefore still rests on the Kangxi gazetteer alone, and the confidence remains `medium` rather than being raised by the two later works.

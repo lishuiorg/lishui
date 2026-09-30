@@ -22,6 +22,10 @@ sources:
     locator: 卷之一·邑纪·三年甲申
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·四年乙酉
+  - ref: src:mingshi
+    locator: 卷二十八·志第四·五行一·疾疫·嘉靖二年七月
+  - ref: src:shenjie-nanjing-mingqing-yibing
+    locator: 摘要与第一节「年份分布特征」
 related:
   - ls:event:ming-jiajing-2-daji-1523
 updated: 2026-09-25
@@ -46,6 +50,12 @@ The preceding entry, for 1523, records a great drought, people fleeing north and
 
 The entry for 1524 records the epidemic alone, with no relief, medicine or burial measures. The following year the magistrate Wang Congshan petitioned for remission of the tax on abandoned fields; that entry belongs to the same run of disaster as the epidemic and the drought before it, but the gazetteer does not join them into a single cause.
 
+## Regional context: epidemic years around Nanjing
+
+The sickness of these years was not confined to Lishui. The *History of Ming*, juan 28, Treatise 4, "Water" (Epidemics), records that "in the seventh month of the second year there was a great epidemic at Nanjing, with very many soldiers and civilians dead" — dated to the seventh month of 1523 and framed by the unit of Nanjing (Yingtian Prefecture). A 2023 study, "Epidemic Diseases and Related Factors in Nanjing during the Ming and Qing Dynasties" (*Journal of Nanjing University of Chinese Medicine, Social Science Edition*), counts 82 epidemic years in the Nanjing region, 15 of them in Lishui County; the longest consecutive run in the Ming was 1639–1642, next were 1523–1525 (three years running), and it states that "the epidemic was most widespread in 1524."
+
+The two bodies of material take the city of Nanjing (Yingtian Prefecture) and a regional statistic as their units, and can be read alongside the county gazetteer; but the *History of Ming* places the epidemic in the seventh month of 1523 while the gazetteer places it in the spring and summer of 1524, so the dates do not agree, and this entry sets both side by side without merging them. No source gives the disease or the number of deaths in Lishui.
+
 ## Uncertainties
 
 First, the nature of the disease, its reach and the number of deaths are not recorded; the phrase about the dead is not used here as data.
@@ -53,3 +63,5 @@ First, the nature of the disease, its reach and the number of deaths are not rec
 Second, no relief or medical measure is recorded. For comparison, the gazetteer notes that after the great flood of 447 an epidemic was met by sending envoys with medicine, whereas the entry for 1524 has no such record; this is a difference between two entries and is not enough to conclude that no relief was given.
 
 Third, the gazetteer does not say whether the epidemic spread beyond Lishui.
+
+Fourth, a search across all seven source layers found that the *History of Ming* records "a great epidemic at Nanjing in the seventh month of 1523" and that a 2023 paper treats 1523–1525 as consecutive epidemic years in the Nanjing region, with 1524 the most widespread; neither is a Lishui-specific record, and the county's sickness rests on the gazetteer alone. The two accounts of the year and place (*History of Ming*: seventh month of 1523, Nanjing; gazetteer: spring and summer of 1524, Lishui) are set side by side without being merged.

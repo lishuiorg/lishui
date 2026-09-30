@@ -22,6 +22,8 @@ sources:
     locator: 卷之一·邑纪·清顺治十一年甲午
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·清顺治二年乙酉
+  - ref: src:jiangnan-tongzhi
+    locator: 卷二十二·舆地志·公署·江宁府·溧水县知县署
 related:
   - ls:event:qing-shunzhi-2-jiangcheng-1645
 updated: 2026-09-25
@@ -47,6 +49,18 @@ The gazetteer goes on to record that the rear hall, the treasuries and the offic
 >
 > *Translated:* Together with the rear hall, the treasuries and the offices, the drum tower was also repaired, and the granary at Honglan Wharf was rebuilt, as were the City God temple of Lord Bai and the compilation of its temple gazetteer. There are inscriptions for all of them, with the detail in the "Record of Arts and Letters".
 
+## Independent source: the Qianlong *Jiangnan Tongzhi*
+
+Both the annals (juan 1) and the chapter on public offices (juan 3) of the Kangxi gazetteer record the matter. The Qianlong *Jiangnan Tongzhi*, juan 22, "Geography: Public Offices", under "Yingtian Prefecture: the Lishui county magistrate's office", gives a separate entry:
+
+> 溧水县知县署在城内。顺治十一年，知县闵派鲁建。
+
+*Translated:* The Lishui county magistrate's office is inside the town. In the eleventh year of Shunzhi the magistrate Min Pailu built it.
+
+The same juan also records the offices of the county vice-magistrate and the jailer, the treasury, the jail, the salary granary and the Xiansi granary, as well as "the grain granary at Huanglan Wharf, on the site of the Huimin granary, built in the Shunzhi period by the magistrate An Yingsui and repaired by the magistrate Min Pailu" and "the Bianmin New Granary, formerly called Yongfeng … repaired in the Shunzhi period by the magistrate Min Pailu". This is an independent record in a Qing provincial gazetteer, showing that the rebuilding of the county office by the magistrate Min Pailu in 1654 is not found only in the county gazetteer.
+
 ## Uncertainties
 
 First, the scale, cost and duration of the rebuilding are not recorded. Second, the temple gazetteer compiled then and the various inscriptions have not been seen; the source consulted here preserves only their titles, so their contents cannot be checked. Third, who "Lord Bai" of the City God temple was is not explained.
+
+Fourth, a search across all seven source layers found that the Qianlong *Jiangnan Tongzhi*, juan 22, "Public Offices", records "the Lishui county magistrate's office inside the town, built by the magistrate Min Pailu in the eleventh year of Shunzhi" — an independent source outside the county gazetteer, agreeing with the Kangxi gazetteer, so confidence remains `high`. The scale, cost and duration of the rebuilding are still not recorded elsewhere.

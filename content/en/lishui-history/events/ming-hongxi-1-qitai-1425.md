@@ -24,6 +24,8 @@ sources:
     locator: 卷之一·邑纪·四年乙酉
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·熹宗天启元年辛酉
+  - ref: src:mingshi
+    locator: 卷一百四十一·列传第二十九·齐泰
 related:
   - ls:event:ming-jiajing-4-qitai-ci-1525
 updated: 2026-09-25
@@ -32,6 +34,8 @@ updated: 2026-09-25
 ## Background
 
 Qi Tai was a native of Lishui and Minister of War under the Jianwen emperor, and died in the Jingnan Campaign, when the Jianwen side was defeated. The Kangxi *Lishui County Gazetteer* gives only this much in the entry for 1425, adding that the details are "in the biography", which belongs elsewhere in the gazetteer. After the case his kin were implicated and the family property confiscated; the pardon came only in the first year of the Hongxi era.
+
+The *Ming Shi*, juan 141 (Biographies 29), has a life of Qi Tai that supplies the biography the gazetteer leaves aside: he was "a native of Lishui, originally named De", took first place in the provincial examination of 1384 and the *jinshi* degree the next year, was granted the name Tai by the founding emperor, and in 1395 was promoted from a secretaryship in the Ministry of War to the vice-ministry; on the Jianwen emperor's accession he was "presently advanced to the ministry", that is, Minister of War. When the Yan forces pressed on the capital, "Tai fled to the outer commanderies to plot a restoration... Tai rode a white horse blackened with ink; when he had gone some way, the sweat ran and the ink came off. Someone said, 'That is Minister Qi's horse.' He was seized and taken to the capital, and died unsubmitting together with Huang Zicheng and Fang Xiaoru. His cousins such as Jingzong were all executed with him, and his uncles Shi Yong, Yang Yan and others were exiled. His son, then six years old, was spared death and given over to be enslaved, and was pardoned and sent home in the Renzong reign." The pardon "in the Renzong reign" accords with the Hongxi-year pardon in the gazetteer, though the history records only the son's pardon while the gazetteer records the pardon of "the kin" and the restoration of "their former property" — a difference of scope.
 
 ## Time and place
 
@@ -52,8 +56,10 @@ The case was not settled at a stroke. In 1525 the magistrate Wang Congshan asked
 
 ## Uncertainties
 
-First, the circumstances of Qi Tai's death are referred to the biography, which is not in this volume; this entry therefore does not reconstruct them.
+First, the circumstances of Qi Tai's death are referred to the biography, which is not in this volume; this entry takes the arrest with the ink-blackened white horse and the unsubmitting death from the *Ming Shi*, juan 141, but the biography once kept by the county gazetteer itself is still not seen, and nothing beyond the history is supplied.
 
-Second, the extent of the 1425 pardon and the way in which the confiscated property was identified and restored are not recorded.
+Second, the extent of the 1425 pardon and the way in which the confiscated property was identified and restored are not recorded; the *Ming Shi* records only that the son, then six years old, was spared and "pardoned and sent home in the Renzong reign", without the "kin" or the "former property" of the gazetteer. The two differ in scope and are set side by side.
 
 Third, the gazetteer does not say whether the thirty-eight exiled households pardoned in 1621 were those missed in 1425 or the result of a later investigation, and it gives neither their place of exile nor the term of service.
+
+Fourth, on the seven layers of sources searched: the official websites layer, the published documents and lists layer, the academic layer, the media layer and the maps and fieldwork layer yielded nothing directly on the pardon of Qi Tai's kin in 1425; the classical-text layer yielded only the one life in the *Ming Shi*, juan 141. The core fact rests on two independent sources, the gazetteer and the history; the confidence remains `medium`, since the precise scope and manner of the gazetteer's "pardon of the kin and restoration of property" remain peculiar to the county gazetteer. Note also that the transcription at Guoxue Daohang misprints "pardoned and sent home in the Renzong reign" with a wrong character for the reign name; the Shidian Guji text reads "Renzong", and this entry follows it, the wording being limited to the transcriptions.

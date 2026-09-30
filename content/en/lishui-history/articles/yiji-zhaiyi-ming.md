@@ -198,6 +198,12 @@ The method is that of the three preceding selections. The six entries chosen her
 
 **Note.** This records one building of the county's defences, under the magistrate Zeng Zhen. Japanese pirate raids had reached the lower Yangtze in the preceding years, and in 1555 "Japanese pirates attacked the walls of Lishui and the town nearly fell"; the stone wall belongs to that setting. The gazetteer gives neither the extent of the wall nor the labour it took, and nothing is supplied here.
 
+## Source limits and search scope
+
+This selection is drawn from a single source, the first juan of the Kangxi *Lishui County Gazetteer*, the annalistic record, and is taken from a second-hand transcription in an online database, not a photographic copy of the original; the text, dates, personal names and the compilers' own notes are reproduced as the gazetteer has them, with nothing rewritten and nothing supplied that the gazetteer does not record. For the institutional background of Ming taxation, granaries, grain transport and town defences, the *History of Ming*, "Food and Money II", and this site's article on taxation (see "Taxation and Corvée in Ming and Qing Lishui") are available; the selection here remains a quotation and is not used to alter the text of the annals. Of the entry for the Yanzhi River in 1393 only the first part is quoted; the full edict and the tradition that Li Xin was put to death are treated in two separate articles on this site.
+
+Layers searched without result, for this span: official web pages (the district government's "Historical Development" and "Scenic Sites") and the published heritage inventories (layer two) record only the higher-grade remains such as the Yanzhi River and Tiansheng Bridge, which have nothing to do with most of these entries on anomalies and remissions; the academic databases (CNKI, Wanfang, VIP) and the full-text repositories (the National Library's read.nlc.cn and others) yielded no study devoted to the Ming entries of the annals one by one, nor any photographic copy of the gazetteer for checking; the media have nothing to do with this span; the map-survey layer does not apply. All these are "not found in this library's searches", not proof that nothing exists.
+
 ## Choices and uncertainties
 
 First, the entries remitting rent, autumn grain and land tax are extremely dense under the Hongwu and Yongle reigns. They are all listed above but not reproduced one by one; what they show is the frequency of remission, which deserves a separate statistical treatment.

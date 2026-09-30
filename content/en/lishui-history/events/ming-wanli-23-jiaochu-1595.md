@@ -22,6 +22,8 @@ sources:
     locator: 卷之一·邑纪·明万历二十三年乙未
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·明万历十六年戊子
+  - ref: src:jingding-jiankangzhi
+    locator: 卷十七·山川志一·山阜·凤栖山
 related:
   - ls:event:ming-wanli-16-fengxianwei-1588
 updated: 2026-09-25
@@ -45,6 +47,12 @@ The breach affected the county's polders generally, but Fengxian Polder alone wa
 
 A jiao flood is the gazetteer's usual way of recording a sudden, violent flood. The jiao is a legendary dragon-like creature believed to cause floods, not a real animal. This entry repeats the original wording while noting that it belongs to the gazetteer's idiom of natural anomalies and should not be read as a hydrological record. The cassia trees flowering in the first month, recorded in the same entry, belongs to the same class of anomaly.
 
+## Fengxian Polder was already an old polder
+
+Fengxian Polder was not newly built in the Wanli period. The Southern Song *Jingding Jiankang Zhi*, juan 17, "Mountains" (Hills and Mounds), records that Fengqi Mountain in Lishui County "belongs to Yifeng township, and to its north lies Fengxian Polder", showing the polder already existed in the Southern Song; in 1588 it was only the banks of Fengxian Polder that were built with treasury silver (see the entry for that year), not the polder itself. The survival of this one polder when many were breached in 1595 is to be understood of this older polder.
+
 ## Uncertainties
 
 First, the reference of "the old documents of Xu" is unexplained. Second, the names of the polders breached and the order in which they failed are not recorded. Third, the line of the more than thirty li of bank, and how it was divided, are not recorded.
+
+Fourth, a search across all seven source layers found that the *Jingding Jiankang Zhi*, juan 17, already records the name Fengxian Polder, showing the polder was old; but the jiao flood of the sixth month of 1595, the survival of Fengxian Polder alone, and Yu Yanxing's extension of the banks appear only within the Lishui gazetteer line, with no independent record outside it, so confidence remains `medium`.

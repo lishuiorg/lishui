@@ -15,13 +15,21 @@ outcome: The polder banks were built and the starving survived on the work; in 1
 tags: [圩田, 饥荒, 明代]
 status: published
 verified: true
-confidence: high
+confidence: medium
 depth: standard
 sources:
+  - ref: src:kangxi-lishuixianzhi
+    locator: 卷之一·邑纪·明万历十五年丁亥
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·明万历十六年戊子
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之一·邑纪·明万历二十三年乙未
+  - ref: src:kangxi-lishuixianzhi
+    locator: 卷之五·山川志·山类·凤栖山
+  - ref: src:guangxu-lishuixianzhi
+    locator: 卷六·赋役志·蠲赈·万历十六年
+  - ref: src:jingding-jiankangzhi
+    locator: 卷十七·山川志一·山阜·凤栖山
 related:
   - ls:event:ming-wanli-23-jiaochu-1595
 updated: 2026-09-25
@@ -47,6 +55,20 @@ The work was led by the magistrate Du Yunji. The gazetteer says he applied to th
 
 The banks were completed and, in the gazetteer's words, the starving depended on them. In 1595, the twenty-third year of the Wanli era, a jiao flood — the gazetteer's term for a sudden, violent flood, discussed in the entry for that year — breached the county's polders, and the gazetteer notes that Fengxian Polder alone was unharmed. In the same year the magistrate Yu Yanxing urged the people to extend the banks, which then measured more than thirty li in all.
 
+## The polder's name in earlier gazetteers
+
+The name Fengxian Polder does not begin in the Ming. The Southern Song *Jingding Jiankang Zhi*, juan 17, "Mountains" (Hills and Mounds), records Fengqi Mountain in Lishui County:
+
+> 凤栖山在溧水县西南七十里，高一十六丈，周回八里，西并石臼湖。父老云昔有凤凰栖其上，因得名曰凰栖。此山属仪凤乡，迤北有凤贤圩，今作黄西，非也。
+
+*Translated:* Fengqi Mountain lies seventy li south-west of Lishui County, sixteen zhang high with a circuit of eight li, bordering Shijiu Lake on the west. The elders say a phoenix once perched on it, which gave it the name Huangqi. The mountain belongs to Yifeng township, and to its north lies Fengxian Polder; the present writing "Huangxi" is wrong.
+
+So a polder named Fengxian already existed in Yifeng township (near Shijiu Lake) in the Southern Song. The Kangxi gazetteer, juan 5, "Mountains", in its entry on Fengqi Mountain, follows the same account: "Fengqi Mountain, seventy li to the south-west, overlooking Shijiu Lake … it belongs to Yifeng township, and there is Fengxian Polder."
+
+The Guangxu edition of the *Lishui County Gazetteer*, juan 6, "Taxation: Remission and Relief", also records the events of 1588: "In the sixteenth year of the Wanli era there was a great famine, and the magistrate Du Yunji asked to release treasury funds to build Fengxian Polder, on which the starving depended" — agreeing with the Kangxi gazetteer.
+
 ## Uncertainties
 
 First, the number of banks, their length and the sum spent are all unrecorded, and this entry makes no estimate. Second, the assistant prefect is known only by the surname Xu, and the man remains unidentified. Third, whether the banks built in 1588 and those extended in 1595 were the same stretch of embankment is not stated.
+
+Fourth, a search across all seven source layers found the famine of 1588 and the building of Fengxian Polder with treasury silver only in the Kangxi and Guangxu editions of the Lishui county gazetteer (both from the county's single line of gazetteer compilation), and in no record outside that line — not in the standard histories, the veritable records or the provincial gazetteer. Only the name Fengxian Polder is earlier, appearing in the Southern Song *Jingding Jiankang Zhi*, juan 17 (Yifeng township, by Shijiu Lake), which shows the polder was old but is not the same as the building of 1588. As the direct record of the event is confined to the gazetteer line, confidence has been lowered from `high` to `medium`.
