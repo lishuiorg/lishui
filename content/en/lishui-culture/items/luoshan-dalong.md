@@ -21,9 +21,9 @@ sources:
   - ref: src:njls-minsu-fengqing
     locator: 页面「骆山大龙」段
   - ref: src:ihchina-yang-shufan
-    locator: 传承人页字段（序号 03-0903、第三批、1936 年 5 月生、申报地区「江苏省溧水县」、去世时间）
+    locator: 传承人页「批次」字段（第三批国家级代表性传承人）与项目名用字「舞龙」
   - ref: src:ihchina-yang-muhai
-    locator: 传承人页字段（序号 04-1544、第四批、1947 年 10 月生）及个人简历
+    locator: 传承人页「批次」字段（第四批国家级代表性传承人）
   - ref: src:njls-zx-101
     locator: 答复正文（溧水区文化和旅游局，2023-11-28）
   - ref: src:njls-luoshan-anli
@@ -34,7 +34,9 @@ place_ref:
 related:
   - ls:article:lishui-chunjie-xisu
   - ls:item:helinfang-shuanglong
-updated: 2026-09-30
+  - ls:person:yang-shufan
+  - ls:person:yang-muhai
+updated: 2026-10-01
 ---
 
 > **Note on the migration of linked entries (2026-09-30)**: the `place_ref` of this entry previously read `ls:place:luoshan-village` and `ls:place:shijiuhu`. Both places have been assigned a single entry under the one-entry-per-subject principle: Luoshan Village to the towns site and Shijiu Lake to the landscape site, so the Shijiu Lake reference here is changed to `ls:place:shijiu-lake`. Both are **cross-site references**, giving the place of transmission of this item and the place of its dancing ground. The former `related` was identical in content to the `place_ref` and has been deduplicated, leaving only the intangible heritage items and the festival entry related to this one.
@@ -59,11 +61,9 @@ The project page prefixes its account of the origin with the words "it is said":
 
 ## Transmission and safeguarding
 
-The national list records two representative bearers of the Luoshan Great Dragon.
+The national list records two national-level representative bearers of the Luoshan Great Dragon: Yang Shufan (third batch) and Yang Muhai (fourth batch). A bearer's batch and a project's batch are not the same thing — the project entered the second national batch in 2008, while the two bearers belong to the third and fourth batches.
 
-Yang Shufan (serial number 03-0903), born in May 1936, is a representative bearer of the third batch for the national project "wulong (dragon dance), Luoshan Great Dragon"; the reporting area or unit is given as Lishui County, Jiangsu, Lishui not yet having been converted from a county into a district at that time, and the wording is reproduced as it stands. The page records that he died in April 2009.
-
-Yang Muhai (serial number 04-1544), born in October 1947, is a representative bearer of the fourth batch for the national project "longwu (dragon dance), Luoshan Great Dragon". The résumé on that page calls him the fourth-generation transmitter of the Luoshan Great Dragon, and records that in 2007 he assisted Yang Shufan, then chairman of the Luoshan Great Dragon association and a national-level bearer, and mastered the whole procedure of the festival, and that from 2007 he raised funds and took charge of building the Luoshan Great Dragon exhibition hall. The generational statements, "fourth-generation transmitter" among them, come from the résumé on that page and are self-reported.
+Under the rule that one subject has one entry, the births, serial numbers, reporting areas and acts of the two bearers are recorded in their own biographies in the persons station and are not repeated here; see the entries "Yang Shufan" and "Yang Muhai". This entry records only the project side of the record.
 
 According to the reply of the district Culture and Tourism Bureau dated 28 November 2023, on 23 February 2023 the Luoshan Great Dragon was selected among the first national typical cases of "one county, one product" in culture and the arts. According to a report by the Lishui District Media Centre dated 14 January 2026, a project for the local transmission of the Luoshan Great Dragon and rural revitalisation was selected as a provincial best-practice case; the report gives neither the selecting body nor the batch, and these have not been verified and are not supplied here.
 
@@ -77,4 +77,6 @@ Third, the project name differs between two national-level sources: the project 
 
 Fourth, the selecting body and the batch of the 2026 provincial best-practice case have not been verified, and nothing is supplied in their place.
 
-Fifth, the making of the dragon props, the form of the individual sections of the body and the state of the Luoshan Great Dragon exhibition hall have no source in this library and remain to be added.
+Fifth, the making of the dragon props and the form of the individual sections of the body have no source in this library and remain to be added. The exhibition hall appears only in the résumé on Yang Muhai's page, which says he raised funds and took charge of building it; that is self-reported, and its site, size and present condition have no source here.
+
+Sixth, the district-level bearers of the Luoshan Great Dragon (the 2017 attachment 3 and the 2021 attachment 2) are recorded as separate entries in the persons station and are not repeated here; the fact that the two district documents both call themselves the "third batch" while listing different rosters is set out in those entries.
