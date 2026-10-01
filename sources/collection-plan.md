@@ -202,8 +202,12 @@ A、B、C 三批都在按「`sources:` 字段里的 `ref` 条数」数单引条�
 2. **每批结束提交一次**，出问题好回退。
 3. **改条目前先查重。** 同一 URL 已有卡的直接复用，避免同一页面两张卡；本轮已因此删过三张重复卡。
 4. **改文件不要用 PowerShell 的 `Set-Content -Encoding UTF8`。** 它会写 BOM，导致 front-matter 解析失败、条目被校验器漏数（本轮踩过，四个条目一度从计数中消失）。批量改文件用 `[System.IO.File]::WriteAllText($path, $text, (New-Object System.Text.UTF8Encoding($false)))`。
-5. **中英成对。** 任何一侧改动，另一侧同步；`related` 引用的 id 必须真实存在，校验器会逐条核。
+5. **中英成对。** 任何一侧改动，另一侧同步；`related` 引用的 id 必须真实存在，校验器会逐条核。**但 `related` 不能跨站**——`lishui-kit/validate/engine.mjs` 明确把跨站 `related` 判为错误，只允许绝对 URL；两站之间的关联只能写进正文。
 6. **宁缺毋滥。** 检索三遍无果就写「本库未获」，不靠推测填充。
+7. **推送失败先分辨是哪一类，再决定重试策略。** 本轮连踩三种，症状不同、处置也不同：
+   - `SSL certificate ... unable to get local issuer certificate`：**证书链问题**，git 默认 openssl 后端找不到 CA 根证书。加 `-c http.sslBackend=schannel` 走 Windows 系统证书库即可（改仓库配置不如改命令行，不影响他人）。
+   - `Recv failure: Connection was reset` / `Failed to connect ... after 21051 ms`：**网络层问题**，换后端解决不了，只能重试。`Test-NetConnection github.com -Port 443` 可先探端口，避免盲目重试。
+   - 重试用 `for` 循环 + 递增等待即可，但**注意 PowerShell 里 `"attempt $i: xxx"` 会把 `$i:` 当成驱动器引用而报语法错**，须写 `${i}`。这是本轮实际踩到的一个纯语法坑。
 
 ---
 
