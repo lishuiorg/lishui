@@ -23,6 +23,8 @@ sources:
     locator: 卷之五·山川志「无想山」条
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之三·建置志「乡约」门
+  - ref: src:kangxi-lishuixianzhi
+    locator: 卷之六·忠节传「齐泰」条「嘉靖中，知县王从善、谢廷相继为祠祀之」句（据网络转录，未核点校本）
   - ref: src:guangxu-lishuixianzhi
     locator: 卷八·典祀志·表忠祠
   - ref: src:jiangnan-tongzhi
@@ -110,7 +112,7 @@ He was not a Lishui native, and enters this library through official service. Hi
 
 First, his birth and death years are unknown. The gazetteer records only that he took office in 1524, not his birth, death, or the year he left office.
 
-Second, the end of his term is openly inconsistent. The scenic area's website says he served as magistrate of Lishui from 1524 to 1528. The Jiangsu provincial culture-and-tourism report on the Fourth National Cultural Relics Survey says the "Zhongshan Academy official grant of land and house" stele was "erected by Wang Congshan, magistrate of Lishui, in 1554". If he left office in 1528, the 1554 stele comes twenty-six years after his term, and the title "magistrate of Lishui" sits oddly with that. This library has no material that decides which is right. Both are recorded; the scenic area's dating is not used to fix the end of his term, nor is the stele's date used to fix him in office until 1554.
+Second, the end of his term is inconsistent across three sources and cannot be resolved within this entry. The scenic area's website says he served as magistrate of Lishui from 1524 to 1528. The Jiangsu provincial culture-and-tourism report on the Fourth National Cultural Relics Survey says the "Zhongshan Academy official grant of land and house" stele was "erected by Wang Congshan, magistrate of Lishui, in 1554". And the same volume of the Kangxi gazetteer that carries his biography records Gao Chong as appointed in 1528 and Zhang Wenxing as appointed in 1530 — so a successor was in post by 1528, which agrees with "until 1528" and conflicts with a stele in 1554. If he left office in 1528, the 1554 stele comes twenty-six years after his term, and the title "magistrate of Lishui" sits oddly with that. This library has no material that decides which is right, and all three are recorded: the scenic area's dating is not used to fix the end of his term, the stele's date is not used to fix him in office until 1554, and the successor's appointment year is not used to conclude that he had left by 1528 — a successor's arrival only shows that someone took the post that year, and records nothing about when his predecessor handed over.
 
 Third, the shrine is named Biaozhong in one passage of the Kangxi gazetteer and Zhongjie in another. This entry keeps both and does not decide which was the original name.
 
