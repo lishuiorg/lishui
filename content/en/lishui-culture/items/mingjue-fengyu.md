@@ -8,7 +8,7 @@ subtitle: A food craft from the Mingjue area of Shiqiu Subdistrict
 summary: Mingjue Wind-dried Fish Making is on the third-batch district ICH list. Its bearer list records Liu Wenju as bearer of the Mingjue Pickled Greens and Wind-dried Fish project. The wind-dried fish is a local speciality of the Mingjue area by Lake Shijiu, made from bream; sources disagree on whether the fish is gutted, and this entry sets the accounts side by side.
 item_type: 传统技艺
 level: 区级
-batch: Third district-level batch (year of publication to be verified)
+batch: Third district-level batch, 2017 (Li Zheng Fa [2017] No. 197)
 guardian: Guardian unit to be verified
 tags: [非物质文化遗产, 传统技艺, 饮食技艺, 区级非遗]
 status: published
@@ -36,9 +36,9 @@ updated: 2026-09-29
 
 Mingjue Wind-dried Fish Making appears in Appendix 2, the district-level ICH list, of the third batch of district-level ICH material; the appendix states that the list contains 22 items in total.
 
-This entry records the level as district level and the batch as the third district-level batch, with the year of publication pending verification. The project number and the guardian unit are absent from the cited sources and remain to be verified.
+This entry records the level as district level and the batch as the third district-level batch, 2017 (Li Zheng Fa [2017] No. 197); the project number and the guardian unit are absent from the cited sources and remain to be verified.
 
-As to "third batch", this library holds two documents that each style themselves the third batch: a 2017 district government notice (Li Zheng Fa [2017] No. 197), whose Appendix 2, the district-level ICH list of 22 items, includes this item; and a 2021 notice of the district government office (Li Zheng Ban Fa [2021] No. 3), whose Appendix 1, the third-batch list of district-level representative ICH items, contains six items and does not include this one. The two documents differ, and this entry cites each as it stands without merging them or deciding the year of publication.
+As to "third batch", this library holds two documents that each style themselves the third batch: a 2017 district government notice (Li Zheng Fa [2017] No. 197), whose Appendix 2, the district-level ICH list of 22 items, includes this item; and a 2021 notice of the district government office (Li Zheng Ban Fa [2021] No. 3), whose Appendix 1, the third-batch list of district-level representative ICH items, contains six items and does not include this one. The two documents differ and this entry cites each as it stands without merging them. **The difference affects the batch sequence, not the year**: the notice relied on here is the one of 2017, whose document number Li Zheng Fa [2017] No. 197 and date, the twenty-second day of the eleventh month of 2017, are enough to fix the year, so the batch is filled in as the third district-level batch, 2017. The notice of 2021 remains recorded alongside, and the year is not changed on its account.
 
 ## Place of transmission and the product
 
@@ -70,7 +70,7 @@ According to the Lishui Fabu post (sourced from Shiqiu Subdistrict), the Feiyang
 
 First, the three accounts of the process differ (see above) and are set side by side, not decided or rewritten.
 
-Second, the year of publication remains to be verified: the two documents that each style themselves the third batch differ, and this item appears in Appendix 2 of the 2017 notice but not in Appendix 1 of the 2021 notice.
+Second, the batch sequence and the year are two separate questions: the two documents that each style themselves the third batch differ, and this item appears in Appendix 2 of the 2017 notice but not in Appendix 1 of the 2021 notice, so **there are two accounts of the batch sequence**. The year, however, is fixed by the document number and date of the 2017 notice on which this entry relies; the difference between the two documents does not bear on it, and it has been filled in as 2017.
 
 Third, "Mingjue Pickled Greens / Wind-dried Fish" is the merged wording of the appendices; this entry and the entry on Mingjue Pickled Greens each record it as it stands, without splitting or merging.
 

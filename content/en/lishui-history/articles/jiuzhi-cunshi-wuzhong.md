@@ -14,7 +14,7 @@ verified: true
 confidence: medium
 depth: full
 sources:
-  - ref: src:jschina-lishuixianzhi
+  - ref: src:jschina-shunzhi-dianjiao
     locator: 正文「目前留存的溧水县志只剩 5 部」段
   - ref: src:difangzhi-kfly
     locator: 提要正文，版本与藏地段落

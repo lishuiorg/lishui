@@ -22,7 +22,7 @@ sources:
     locator: Bailu in the list of villagers' committees making up Dongping Subdistrict, in the clause establishing the subdistrict; Su Zheng Fu [2018] No. 30, 15 May 2018
 related:
   - ls:place:dongping-subdistrict
-updated: 2026-09-29
+updated: 2026-09-30
 ---
 
 ## Overview
@@ -36,6 +36,10 @@ In May 2018 the provincial government approved the abolition of Dongping Town an
 ## The difference between the two lists
 
 The reply describes the subdistrict as comprising six residents' committees — Fangbian, Xuxi, Changle, Dinghu, Jinhu and Qunli — and six villagers' committees — Ailian, Aimin, Heping, Lishan, Bailu and Jingshan. Today's administrative divisions page records five of each. Comparing the two name by name, the difference is Qunli Residents' Committee and Jingshan Villagers' Committee; the other five agree in both. Bailu appears in both lists, making it one of the committees retained when the subdistrict went from six villagers' committees to five.
+
+## Limits of the sources
+
+The two lists above corroborate each other at the level of names, establishing the existence of Bailu Village and its name at the time point of 2018. But both sources give only the name and administrative affiliation and nothing further at the level of the village: the extent, boundaries, household count and population, the date of establishment and the origin of the name are all unrecorded, and no document of the adjustment after 2018 has been obtained. This library holds no Dongping Subdistrict profile page, so there is no third source at village level, and the section on the difference between the two lists is the whole of what the existing sources can yield.
 
 ## Points of doubt
 

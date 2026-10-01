@@ -20,6 +20,8 @@ sources:
     locator: Annex, folk-literature category, the Tale of Yiqidun row
   - ref: src:chinanews-tudunmu
     locator: Report text, the Yiqidun passage (folk legend and the specialists' doubt)
+  - ref: src:nanjing-shi-wwbh-minglu
+    locator: 名录「义气墩」行（春秋战国，和凤镇中杨村）
 related:
   - ls:article:lishui-feiyi-minglu
 updated: 2026-09-29
@@ -32,6 +34,10 @@ According to the public notice of January 2024, 17 projects were recommended for
 ## Place of transmission
 
 The Yiqidun that appears in the item title is in Zhongyang Village, Hefeng Town. The heritage status and level of the mound itself are recorded separately in this library's history section, under the Yiqidun entry (the municipal list and the district's third-batch list differ as to its date and level). This entry does not repeat that record, and it does not infer the level of the tale from the mound's protected status.
+
+The place name "Zhongyang Village" can nevertheless be corroborated by two independent sources: the List of Nanjing Cultural Relic Sites Protected at the Municipal Level published by the Nanjing Municipal Administration of Culture and Tourism gives the detailed location of the Yiqidun row as Zhongyang Village, Hefeng Town, with the period given as the Spring and Autumn and Warring States; and annex 1 of the district's third-batch list of protected sites records Yiqidun in Zhongyang Village, Hefeng Town, with the period given as Spring and Autumn. The two differ in the period they give (see the entry in the history section), but **the location agrees in both**, so the place of transmission of this item can be confirmed as Zhongyang Village.
+
+This can also be read against the fourth-batch public notice: the reporting-area column of the row for the Tale of Yiqidun reads "Qinhuai District", which does not agree with Zhongyang Village. This entry does not rewrite the original wording of the notice on that basis, but the divergence between that column and the location given in the heritage lists is a direct point of comparison: the place of transmission can be confirmed here, while that column of the notice remains to be verified.
 
 ## The story, as a folk legend
 
@@ -51,6 +57,8 @@ Second, whether Yiqidun is the joint tomb of the two is doubted by the specialis
 
 Third, the date and heritage level of the Yiqidun mound are recorded under the Yiqidun entry of this library's history section; this entry does not repeat them.
 
-Fourth, the reporting-area column for this row in the public notice reads "Qinhuai District", which does not agree with the place of transmission in Hefeng Town and is inconsistent with the other rows; the wording is reproduced as it stands, not silently altered, and the discrepancy remains to be verified.
+Fourth, the reporting-area column for this row in the public notice reads "Qinhuai District", which does not agree with the place of transmission in Zhongyang Village, Hefeng Town, and is inconsistent with the other rows; the wording is reproduced as it stands, not silently altered, and the discrepancy remains to be verified. The two heritage lists, the List of Nanjing Cultural Relic Sites Protected at the Municipal Level and the district's third-batch list of protected sites, both give the location as Zhongyang Village, Hefeng Town, which supports the view that the column is in error; but any correction to the original wording of the notice must await an official document, and this library does not rewrite it.
 
 Fifth, this library searched the full texts of the five Lishui County Gazetteers it holds and found no passage on Yiqidun, Zuo Botao or Yang Jiao'ai; the legend has no gazetteer basis, so no starting date is given.
+
+Sixth, the level of the story text is still missing: the sources available give only an outline, with no record of the teller, the line of transmission or the occasions of telling. The outline given in this entry is a retelling of a media report, not a transcription from a performer's script.

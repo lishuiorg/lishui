@@ -48,7 +48,7 @@ The extension list of the fifth batch of provincial representative items of inta
 
 ## Uncertainties
 
-First, the year in which the district's third-batch list was published has not been verified, so the district batch is still recorded as the third district-level batch with the year to be verified.
+First, the year of publication of the district's third-batch list has been filled in as 2017 from the document number (Li Zheng Fa [2017] No. 197), the four entries of that batch being dealt with together in the audit of 29 September 2026; the batch in the front matter of this entry records the provincial fifth-batch extension project, so it is unaffected.
 
 Second, the guardian unit and the district-level representative bearers of the Xisong Horse-lantern Dance within the district list have not been verified in the sources used here and remain to be added; the provincial extension list gives only the project name, number and applying area or unit, and gives neither guardian unit nor bearers, so the guardian unit is still to be verified.
 

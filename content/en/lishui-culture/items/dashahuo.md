@@ -8,7 +8,7 @@ subtitle: A spring festival custom on the third-batch district ICH list
 summary: The Zhetang Shehuo Fire Festival is a district-level ICH item in Lishui; the district list writes only Shehuo Fire Festival. It also appears on the district government Folk Customs page and in an agriculture bureau reply.
 item_type: 民俗
 level: 区级
-batch: Third district-level batch (year of publication to be verified)
+batch: Third district-level batch, 2017 (Li Zheng Fa [2017] No. 197)
 guardian: Guardian unit to be verified
 tags: [非物质文化遗产, 民俗, 节庆, 区级非遗]
 status: published

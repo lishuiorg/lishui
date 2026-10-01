@@ -46,7 +46,7 @@ According to the public notice of district-level intangible cultural heritage it
 
 ## Uncertainties
 
-First, the year in which the district's third-batch list was published has not been verified, and the district batch is still recorded as the third district-level batch with the year to be verified.
+First, the year of publication of the district's third-batch list has been filled in as 2017 from the document number (Li Zheng Fa [2017] No. 197), the four entries of that batch being dealt with together in the audit of 29 September 2026; the batch in the front matter of this entry records the provincial fifth-batch extension project, so it is unaffected.
 
 Second, the provincial extension list gives only the project name, number and applying area or unit; it gives no introduction, bearers or guardian unit, so the guardian unit is still to be verified. Whether the bearers recorded at district level, such as Li Xuejiao and Yuan Weini, are at the same time representative bearers of this provincial item has to be settled by the provincial published documents, which this library does not hold, and no assumption is made here.
 

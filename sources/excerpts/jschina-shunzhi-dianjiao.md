@@ -1,28 +1,35 @@
 ---
 id: src:jschina-shunzhi-dianjiao
 type: media
-title: 中国江苏网：点校版《溧水县志》（顺治志）出版发行
-titleEn: China Jiangsu Net — a punctuated edition of the Shunzhi Lishui gazetteer
+title: 中国江苏网：点校版《溧水县志》（顺治志）出版发行，并记溧水历代县志存世五种
+titleEn: China Jiangsu Net — a punctuated edition of the Shunzhi Lishui gazetteer, and the five surviving editions
 rights: excerpt-only
 archive: excerpt
 publisher: 中国江苏网（来源：南京日报）
 publisherEn: China Jiangsu Net (source: Nanjing Daily)
-url: http://jsnews.jschina.com.cn/shms/201704/t20170412_343613.shtml
-accessed: 2026-09-26
-locator_hint: 文章正文；引用时标「中国江苏网，2017-04-12」
+url: https://jsnews.jschina.com.cn/shms/201704/t20170412_343613.shtml
+accessed: 2026-09-29
+locator_hint: 文章正文；引用时标「中国江苏网，2017-04-12」。两条线索各在一段：存世五种见「溧水区地方志办公室副主任卞新宏介绍」一段，点校出版见首段与末段
 note: >-
   媒体来源（二手报道），受版权保护，只摘事实不转录表述；非官方公布文件，权威性中等，
-  条目 confidence 须相应降低。用于确认顺治志点校本的出版事实与整理时长。
+  条目 confidence 须相应降低。用于确认顺治志点校本的出版事实与整理时长，以及溧水县志存世五种这一版本序列。
   版本信息以正式出版书目为准。
+  本卡由原 `src:jschina-lishuixianzhi`（溧水县志存世五种）与原 `src:jschina-shunzhi-dianjiao`（顺治志点校出版）
+  两张卡合并而来——二者实为同一篇报道（同文号 t20170412_343613），此前仅因 URL 协议头不同（http/https）
+  而被建成两张卡，台账的同 URL 检测按字符串比对未报警。合并后凡引用此报道者只算一份来源，不得据以互证。
 ---
 
 ## 关键表述
 
 - 历时一年半点校注释的《溧水县志》（顺治志）正式出版发行。
+- 「溧水历史上，共有10部古代县志成书……目前留存的只剩5部，分别为万历志、顺治志、康熙志、乾隆志、光绪志。」
+- 报道称五部之中以「清初诗人林古度编纂的顺治志最具特色」，顺治志是最早记录溧水经济情况的，含户口、田亩、税粮、马场几部分。
 
 ## 使用注意
 
 - 媒体来源（二手报道），权威性中等，只作事实线索，不转录报道文字；涉名录级别、批次与年代的事项以官方公布文件为准。
 - 出版年份、出版社、整理者等版本信息本次未核读到，不补写；引用以正式书目著录为准。
 - 点校本的引文须与影印本核对后再用。
-- 本页只作出版事实的线索，不据此推断其他志书的整理情况。
+- 本页只作出版事实与存世版本的线索，不据此推断其他志书的整理情况。
+- 报道引「卞新宏介绍」称溧水古代县志共 10 部、现存 5 部；此为个人转述的概述数字，**不得据以断言各志的成书年代或卷数**，版本序列须回到各志著录卡片（`sources/fulltext/`）与方志著录目录核对。
+- 五部存世志的编纂者与卷数，本页未逐一给出，条目中不得据本页补写这些细节。

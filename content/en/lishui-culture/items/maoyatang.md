@@ -8,7 +8,7 @@ subtitle: A sugar craft on the third-batch district ICH list
 summary: Malt Sugar Making is on the third-batch district ICH list. A fourth-batch public notice of 2024 records Liu Ming as its bearer; the notice body and the appendix give different totals for the batch.
 item_type: 传统技艺
 level: 区级
-batch: Third district-level batch (year of publication to be verified)
+batch: Third district-level batch, 2017 (Li Zheng Fa [2017] No. 197)
 guardian: Guardian unit to be verified
 tags: [非物质文化遗产, 传统技艺, 饮食技艺, 区级非遗]
 status: published
