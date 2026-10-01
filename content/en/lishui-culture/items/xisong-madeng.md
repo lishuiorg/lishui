@@ -10,6 +10,8 @@ item_type: 传统舞蹈
 level: 省级
 batch: Fifth batch (extension project), November 2023
 guardian: Guardian unit to be verified
+place_ref:
+  - ls:place:xisong-village
 tags: [非物质文化遗产, 传统舞蹈, 马灯, 省级非遗]
 status: published
 verified: false
@@ -56,6 +58,6 @@ Third, the headline of the media report carries the words "provincial-level inta
 
 Fourth, an extension project shares the number of its main project: JS-III-6 is the number of the "Bamboo Horse" series, and the provincial document does not set out separately the relation between the serial number of this extension item and that of the main project, so no inference is drawn here.
 
-Fifth, the relation between Xisong Village and Tao Village, and the history of the village, have no dedicated source in this library and remain to be added.
+Fifth, the history of Xisong Village has no dedicated source in this library and remains to be added. The administrative affiliation of the village has now been supplied by the entry on Xisong Village, on the mutual corroboration of the Nanjing Morning Post of March 2024 and the level of Taocun as a residents' committee in the district's administrative divisions page, so the `place_ref` of this entry is filled in as `ls:place:xisong-village`; the date of foundation and the origin of the village name still have no source.
 
 Sixth, the formations, tunes, season of performance and line of transmission of the dance have no source in this library and remain to be added.
