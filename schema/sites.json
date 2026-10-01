@@ -1,6 +1,7 @@
 {
-  "$comment": "内容侧站点登记：每个分站声明自己的实体类型与实体目录。typeDirs 是目录名 → 实体类型；一个实体类型可以由多个目录承载（街镇的镇街与村落都是 place）。装载与校验都读本文件，站点层不再各传一份。新增分站先在此登记，并补 schema/sites/<siteId>.json，否则校验会报错（缺站点声明即阻断，不静默放行）。",
+  "$comment": "内容侧站点登记：每个分站声明自己的实体类型、实体目录与域名。typeDirs 是目录名 → 实体类型；一个实体类型可以由多个目录承载（街镇的镇街与村落都是 place）。host 用于跨站关联拼绝对地址（见 lishui-kit/content/load.mjs）；注意它与 site-portal/sites.json 的 id 不同名（此处的 lishui-history 对应门户的 lishi），两套 id 无推导关系，改域名时两处都要改。装载与校验都读本文件，站点层不再各传一份。新增分站先在此登记，并补 schema/sites/<siteId>.json，否则校验会报错（缺站点声明即阻断，不静默放行）。",
   "lishui-history": {
+    "host": "lishi.lishui.org",
     "types": [
       "event",
       "place",
@@ -13,6 +14,7 @@
     }
   },
   "lishui-culture": {
+    "host": "wenhua.lishui.org",
     "types": [
       "item",
       "place",
@@ -25,6 +27,7 @@
     }
   },
   "lishui-towns": {
+    "host": "jiezhen.lishui.org",
     "types": [
       "place",
       "article"
@@ -36,6 +39,7 @@
     }
   },
   "lishui-shanshui": {
+    "host": "shanshui.lishui.org",
     "types": [
       "place",
       "article"

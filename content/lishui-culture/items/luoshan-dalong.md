@@ -30,14 +30,14 @@ sources:
     locator: 报道正文（溧水区融媒体中心，2026-01-14）
 place_ref:
   - ls:place:luoshan-village
-  - ls:place:shijiuhu
+  - ls:place:shijiu-lake
 related:
-  - ls:place:luoshan-village
-  - ls:place:shijiuhu
   - ls:article:lishui-chunjie-xisu
   - ls:item:helinfang-shuanglong
-updated: 2026-09-26
+updated: 2026-09-30
 ---
+
+> **关联条目迁移说明（2026-09-30）**：本条 `place_ref` 原作 `ls:place:luoshan-village` 与 `ls:place:shijiuhu`。两处地点条目已按「一处所一条目」原则各自归口：骆山村归街镇分站，石臼湖归山水分站，故 `place_ref` 内的石臼湖一条改为 `ls:place:shijiu-lake`。两处均为**跨站引用**，指本项目（大龙）的流传地与舞龙场所所在地。原有 `related` 与 `place_ref` 内容完全重复，已去重，只保留与本项目并列的非遗项目与节庆条目。
 
 ## 历史渊源
 

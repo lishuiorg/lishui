@@ -24,11 +24,13 @@ sources:
     locator: 答复正文（溧水区文化和旅游局，2023-11-28）
 related:
   - ls:place:shangzhuang-village
-  - ls:place:taicun
+  - ls:place:taicun-village
   - ls:place:sunjiaxiang-yangjiacun
   - ls:place:luoshan-village
 updated: 2026-09-26
 ---
+
+> **Note on the merge (updated 30 September 2026)**: the four villages listed under `related` here each had an entry of the same name in both the culture station and the towns station. Under the one-entry-per-subject principle each village now has a single entry in the towns station and the culture station keeps none, so the `related` here are **cross-station references** pointing at those four entries in the towns station. For the detail of Shangzhuang see the entry in the towns station; this entry records only the lists and the venues. The id of Tai Village has been unified from `ls:place:taicun` to `ls:place:taicun-village`.
 
 ## Village history halls and worthy halls
 

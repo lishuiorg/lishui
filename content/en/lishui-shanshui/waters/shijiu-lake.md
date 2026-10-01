@@ -16,7 +16,7 @@ designation:
   - Provincial Important Wetland (2020)
   - Municipal Scenic Area (2011 list)
 water_quality: Class III (water function area target, 2025)
-tags: [湖泊, 湿地, 保护地, 候鸟, 山水]
+tags: [湖泊, 湿地, 保护地, 候鸟, 山水, 水系, 名胜]
 status: published
 verified: false
 confidence: medium
@@ -50,11 +50,21 @@ sources:
     locator: Item 8, land for water bodies and water facilities; 22 August 2022
   - ref: src:jiangsu-jtyst-qinhuai
     locator: Body of the notice; Jiangsu Provincial Department of Transport, 7 January 2021
+  - ref: src:njls-minsu-fengqing
+    locator: Page section on the Luoshan Great Dragon (local people depend on Shijiu Lake for their living and dance on the lakebed at the new year)
+  - ref: src:ihchina-luoshan-dalong
+    locator: Project page, section "project description" (Luoshan Village adjoins the lake; the winter lakebed is the dancing ground)
+  - ref: src:kangxi-lishuixianzhi
+    locator: Volume 1, Annals of the County (the barrier built at Guangtong Town in the first year of the Yongle reign, and "the waters of the Yanzhi River and Shijiu Lake")
 related:
   - ls:place:yanzhi-river
   - ls:article:yishan-yihu-route
-updated: 2026-09-26
+  - ls:place:luoshan-village
+  - ls:item:luoshan-dalong
+updated: 2026-09-30
 ---
+
+> **Merge note (2026-09-30)**: this is the single entry for the one place Shijiu Lake. The culture site formerly carried a second "Shijiu Lake" under the id `ls:place:shijiuhu`; under the principle that a place has one entry it has been merged into this one. That entry was framed as "a lake in the south-western part of Hefeng Town", and the dependence of the people on the lake and the dancing ground recorded in the folk customs page and the intangible heritage project page, together with the dating clue from the Kangxi gazetteer's phrase "the waters of the Yanzhi River and Shijiu Lake", were not held here before; its figures for area and shoreline were already recorded more fully on this site. The old id `ls:place:shijiuhu` is retired and the single id is now `ls:place:shijiu-lake`. The administrative divisions and place names of the villages along the lake belong to the towns site and are not written here.
 
 ## Overview
 
@@ -70,6 +80,8 @@ Three towns and subdistricts are involved, each on its own evidence: the Jiangsu
 
 The district government's geographical position page records that the divide between the Shijiu Lake and Qinhuai systems runs east to west across the middle of the district, that northern water flows to the Qinhuai and southern water to Shijiu Lake, and that Tianshengqiao Sluice is the north-south marker of the divide. The main channels entering the lake are the Xinqiao River, 26.28 km long, the Yunhe branch, 11.99 km, and the reach above Tianshengqiao Sluice, 6.3 km.
 
+Name and date: none of the sources used records when the lake was formed or when it received its present name. Volume 1 of the Kangxi Gazetteer of Lishui County, in the "Annals of the County", notes that in the first year of the Yongle reign a barrier was built at Guangtong Town and refers to "the waters of the Yanzhi River and Shijiu Lake", which shows the name of the lake was already known at that time, but the entry does not record a date of formation. No date is therefore asserted here on the authority of the old gazetteer.
+
 Reclamation and the return of land to the lake: the 2018 annual implementation plan for water pollution prevention records that the ecological safety survey of Shijiu Lake and the return of fishing grounds to the lake involved Honglan, Shiqiu, Hefeng, Baima and Jingqiao, whose names are repeated here as they stood at the time. That list is a division of work, not a list of the townships bordering the lake.
 
 The water bodies on the register: the main data bulletin of Lishui's third national land survey, with a uniform reference date of 31 December 2019, records 9052.81 ha of lake surface, 2616.97 ha of reservoir surface and 33.65 ha of wetland, all of it inland mudflat. The bulletin's lake surface is the total for all lakes in the district and is not the area of Shijiu Lake alone.
@@ -77,6 +89,8 @@ The water bodies on the register: the main data bulletin of Lishui's third natio
 ## Landscape and visiting
 
 Wintering birds: the district government's natural resources page records that the swans flying down from the north each winter may reach ten thousand at most. That is a peak figure, not a year-in, year-out number.
+
+Livelihood along the lake and the dancing ground: the district government's Folk Customs page records that people around Luoshan in Hefeng Town depend on Shijiu Lake for their living; the project page for Longwu (Luoshan Great Dragon) on the China Intangible Cultural Heritage Network records that Luoshan Village adjoins the lake and that in the winter dry season the lakebed becomes the ground for the dragon dance, the season running normally from the twenty-fourth day of the twelfth lunar month to the eighteenth day of the first lunar month. The administrative divisions and place name of the village belong to the entry on Luoshan Village in the towns site, and the grade, batch and bearers of the great dragon to its entry in the culture site; this entry records only the lake's use as a dancing ground.
 
 Protected status: in November 2019 the provincial forestry bureau approved the establishment of the Lishui Shijiu Lake Provincial Wetland Park with a planned area of 91.7 sq km; the following year the boundary markers and signs of the Lishui Shijiu Lake Provincial Important Wetland, the provincial wetland park, were sited and installed (Nanjing Municipal People's Government, 5 December 2023). The Jiangsu provincial list of important wetlands gives Shijiu Lake, Lishui District, as 9140.71 ha, between 118°52′25.1″ and 118°58′37.0″ east and between 31°25′27.9″ and 31°33′14.3″ north; the list carries no year of publication, so this site records only the status and the area. In September 2011 the Nanjing Municipal People's Government approved the regulations on the protection and management of ecological green space, whose schedule lists a Shijiu Lake scenic area at municipal level with an area of 93.6 sq km; what the schedule lists is a Municipal Scenic Area, and this site does not call it a provincial one.
 
@@ -100,3 +114,5 @@ Visiting information: tickets, opening times, birdwatching points and transport 
 - "Steadily meeting the water function area target" is a target, not a monitored class, and this site does not turn it into "the water is Class III".
 - Hefeng Town's 198 sq km, including 100 sq km of Shijiu Lake, and the registered unit's "borders Hefeng Town to the east" are two different statements, the one a town area including lake, the other a registered boundary, and neither may stand in for the other.
 - The return of fishing grounds to the lake involved five towns and subdistricts, Honglan, Shiqiu, Hefeng, Baima and Jingqiao. That is a division of work and not a list of the townships bordering the lake; the towns and subdistricts in this entry follow the registered boundaries and the district government's town pages, which are not the same as that list.
+- The date of the formation of Shijiu Lake, the date of its naming and water-level data are not recorded in the sources used. The old gazetteers likewise record no date for its formation; the phrase "the waters of the Yanzhi River and Shijiu Lake" in the Kangxi gazetteer shows only that the name was already known at that time and is not enough to establish a date.
+- The relation between the waters of Shijiu Lake and the surrounding administrative areas, the villages it spans and the names used for it in earlier periods, are not recorded beyond the three towns and subdistricts named above, which are not given down to village level; the administrative divisions and place names of the villages along the lake belong to the towns site and are not repeated here.

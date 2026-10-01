@@ -24,11 +24,13 @@ sources:
     locator: 答复正文（溧水区文化和旅游局，2023-11-28）
 related:
   - ls:place:shangzhuang-village
-  - ls:place:taicun
+  - ls:place:taicun-village
   - ls:place:sunjiaxiang-yangjiacun
   - ls:place:luoshan-village
 updated: 2026-09-26
 ---
+
+> **合并说明（2026-09-30 更新）**：本条 `related` 所列四村，原先在文化站与街镇站各有一条同名条目。按「一处所一条目」原则，各村已统一归入街镇站，文化站不再另立同一条目，此处 `related` 为**跨站引用**，指向街镇站那四条。上庄村的详情见街镇站条目，本条只记名录与场馆层面。邰村一条的 id 已由 `ls:place:taicun` 统一为 `ls:place:taicun-village`。
 
 ## 村史馆与乡贤馆
 

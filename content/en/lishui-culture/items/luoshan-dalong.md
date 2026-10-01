@@ -30,14 +30,14 @@ sources:
     locator: 报道正文（溧水区融媒体中心，2026-01-14）
 place_ref:
   - ls:place:luoshan-village
-  - ls:place:shijiuhu
+  - ls:place:shijiu-lake
 related:
-  - ls:place:luoshan-village
-  - ls:place:shijiuhu
   - ls:article:lishui-chunjie-xisu
   - ls:item:helinfang-shuanglong
-updated: 2026-09-26
+updated: 2026-09-30
 ---
+
+> **Note on the migration of linked entries (2026-09-30)**: the `place_ref` of this entry previously read `ls:place:luoshan-village` and `ls:place:shijiuhu`. Both places have been assigned a single entry under the one-entry-per-subject principle: Luoshan Village to the towns site and Shijiu Lake to the landscape site, so the Shijiu Lake reference here is changed to `ls:place:shijiu-lake`. Both are **cross-site references**, giving the place of transmission of this item and the place of its dancing ground. The former `related` was identical in content to the `place_ref` and has been deduplicated, leaving only the intangible heritage items and the festival entry related to this one.
 
 ## Historical origins
 

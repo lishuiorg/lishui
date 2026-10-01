@@ -50,7 +50,7 @@ citations:
 related:
   - ls:article:yiji-zhaiyi-songyuan
   - ls:article:fuyi-zhidu-kao
-  - ls:place:yanzhihe
+  - ls:place:yanzhi-river
   - ls:event:song-xuanhe-7-weitian-1125
   - ls:event:song-shaoxing-23-yongfengwei-1153
   - ls:event:ming-yongle-1-guangtongzha-1403

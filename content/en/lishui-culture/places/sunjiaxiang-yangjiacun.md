@@ -25,7 +25,7 @@ sources:
     locator: List entry "Yang ancestral hall, Hefeng, Qing, Lishui District, Yangjia Village, Hefeng Town"
 related:
   - ls:place:luoshan-village
-  - ls:place:taicun
+  - ls:place:taicun-village
   - ls:article:cunshiguan-chuantong-cunluo
 updated: 2026-09-29
 ---

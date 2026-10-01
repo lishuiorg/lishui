@@ -6,7 +6,9 @@
  *      非遗类别与级别是本分站新增的枚举，漏译不会自动报错，故在此补一道门禁；
  *   3. place 的 place_type / era 必填，文保级别与公布批次配套，坐标须落在溧水境内；
  *   4. article 的 genre 必填，引文原文只能取自公有领域来源；
- *   5. 年代合理性——落在置县（591）至今区间之外的要说明依据。
+ *   5. 年代合理性——落在置县（591）至今区间之外的要说明依据；
+ *   6. place_ref 放行跨站——项目的发生地归口到另一站时（如骆山大龙在街镇站的
+ *      骆山村、故事在文化站的义气墩），跨站引用是合并后的常态，不是缺陷。
  *
  * 由 scripts/validate.mjs 编排调用；单独跑用
  *   node scripts/validate.mjs --site lishui-culture
@@ -52,7 +54,7 @@ export function run({ repo = REPO, quiet = false } = {}) {
     allowedFields: ALLOWED,
     glossaryTitleCategories: GLOSSARY_TITLE_CATEGORIES,
     quiet,
-    extra({ entry, data: d, file: f, sources, byId, enums, terms, err, warn, oneOf }) {
+    extra({ entry, data: d, file: f, sources, byId, enums, terms, err, warn, oneOf, siteOf }) {
       /* 年代合理性：置县之前或未来年份须在正文单列一节说明依据。 */
       const start = d.time?.start;
       if (typeof start === 'number' && (start < COUNTY_FOUNDED || start > thisYear)) {
@@ -97,7 +99,11 @@ export function run({ repo = REPO, quiet = false } = {}) {
           if (!Array.isArray(d.place_ref)) err(f, 'place_ref 需为数组');
           else for (const p of d.place_ref) {
             if (!/^ls:place:[a-z0-9]+(-[a-z0-9]+)*$/.test(p)) err(f, `place_ref 格式不合规：${p}`);
-            else if (!byId.has(p)) err(f, `place_ref 指向的地点条目不存在：${p}`);
+            /* 跨站放行，与引擎的 related 同理：一处所一条目原则下，项目的发生地
+               归口到另一站（如骆山大龙的流传地骆山村归街镇站、石臼湖归山水站），
+               此处即成跨站引用。此前一律判错，合并重复条目时只能删掉 place_ref、
+               拆掉信息链。放行后真正要拦的仍是指向不存在条目的错 id。 */
+            else if (!byId.has(p) && !siteOf(p)) err(f, `place_ref 指向的地点条目不存在：${p}`);
           }
         }
       }

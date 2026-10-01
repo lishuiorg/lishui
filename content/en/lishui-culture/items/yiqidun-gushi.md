@@ -24,8 +24,11 @@ sources:
     locator: 名录「义气墩」行（春秋战国，和凤镇中杨村）
 related:
   - ls:article:lishui-feiyi-minglu
-updated: 2026-09-29
+  - ls:place:yiqidun
+updated: 2026-09-30
 ---
+
+> **Relation to the entry of the same name (2026-09-30)**: this entry records the **folk legend attached to Yiqidun as an intangible cultural heritage item** — its district-level batch, its recommended guardian and the outline of the story. The history site separately carries the entry "Yiqidun Mound" (`ls:place:yiqidun`), which records the **mound itself**, its form, period and level of heritage protection. The two are in one place but are not the same object, so under the criterion that different objects of the same name are not merged — the same reason "Wuxiangshan Cliff Carvings" and "Wuxiang Mountain" each keep an entry — each site keeps its own entry and the two **point at each other** rather than merging. This entry does not repeat the level and period of the mound, which are recorded in the history site's entry.
 
 ## Name and category
 

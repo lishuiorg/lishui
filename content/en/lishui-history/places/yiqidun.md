@@ -21,8 +21,12 @@ sources:
     locator: 名录行「义气墩，春秋战国，和凤镇中杨村」
   - ref: src:njls-quji-3pi
     locator: 名单行「义气墩，春秋，和凤镇中杨村」；引时标「溧政发〔2017〕197 号」
-updated: 2026-09-25
+related:
+  - ls:item:yiqidun-gushi
+updated: 2026-09-30
 ---
+
+> **Relation to the entry of the same name (2026-09-30)**: this entry records the **mound itself**, its form, period and level of heritage protection. The culture site separately carries "The Tale of Yiqidun" (`ls:item:yiqidun-gushi`), which records the **folk legend attached to the mound as an intangible cultural heritage item**, with its district-level batch, its recommended guardian and the outline of the story. The two are in one place but are not the same object: the mound is a relic, the tale is the name of an intangible heritage item. Under the criterion that different objects of the same name are not merged — the same reason "Wuxiangshan Cliff Carvings" and "Wuxiang Mountain" each keep an entry — each site keeps its own entry and the two **point at each other** rather than merging. The entry for the tale already states that it does not repeat the level and period recorded here.
 
 ## Two listings
 

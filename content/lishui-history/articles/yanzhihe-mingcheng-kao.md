@@ -31,7 +31,7 @@ citations:
     quote: 宜于胭脂山、广通镇及固城湖口二处筑闸坝，设官掌之为便。从之。
 related:
   - ls:article:yanzhihe-kaoju
-  - ls:place:yanzhihe
+  - ls:place:yanzhi-river
   - ls:place:tianshengqiao
   - ls:event:ming-yanzhihe
 updated: 2026-09-25
