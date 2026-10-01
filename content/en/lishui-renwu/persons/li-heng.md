@@ -4,7 +4,7 @@ type: person
 lang: en
 site: lishui-renwu
 title: Li Heng
-subtitle: A Lishui official recorded in the "Distinguished Officials" biography section of the Kangxi Lishui County Gazetteer
+subtitle: The Song Li Heng — an official of Lishui recorded in the Distinguished Officials biography of the Kangxi Lishui County Gazetteer, appointed in the first Longxing year
 summary: Li Heng, courtesy name Yanping, a native of Jiangdu, is recorded as a jinshi of the Shaoxing period and as taking up Lishui in the first year of the Longxing era. His biography records no act at all during his Lishui term, only his literary gifts and his attitude toward the county school; afterwards he rose to vice censor, was changed to a diaries office, and retired as a secretariat compiler. His birth and death years and the year he left office are not recorded.
 role: 官员
 birth_era: 五代宋元
@@ -17,6 +17,8 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之六·名宦传「李衡」条（据网络转录，未核点校本）
+related:
+  - ls:person:li-heng-yuan
 updated: 2026-10-01
 ---
 
@@ -55,10 +57,12 @@ Second, his degree is dated only as "in the Shaoxing period". This entry does no
 
 Third, the year he left Lishui is not recorded; only the year of his arrival is given.
 
-Fourth, the dates and places of the three later ranks — vice censor, the diaries office, and the secretariat compiler from which he retired — are nowhere recorded. "Vice censor" is the gazetteer's wording, and this entry does not guess at the formal title behind it.
+Fourth, the same biography volume contains two entries under the single name Li Heng: the one this entry rests on records appointment in the first Longxing year, the other records appointment to Lishui prefecture in the first Zhiyuan year (see the entry `ls:person:li-heng-yuan` in this library). The two passages differ, as do the dates and the administrative unit each names — this one sits in the county, that one in the prefecture — and this library holds no material deciding whether they are one person or two, or establishing any relation between them. The two entries therefore stand separately, are not merged, and do not identify each other as the same person. The `related` link here points at the Yuan entry as a cross-check against the shared name only, not as a claim of identity.
 
-Fifth, what "he set his heart on the school" actually involved — repairs, estate, teaching — is not recorded.
+Fifth, the dates and places of the three later ranks — vice censor, the diaries office, and the secretariat compiler from which he retired — are nowhere recorded. "Vice censor" is the gazetteer's wording, and this entry does not guess at the formal title behind it.
 
-Sixth, where he went after retirement, and the year and place of his death, are not recorded.
+Sixth, what "he set his heart on the school" actually involved — repairs, estate, teaching — is not recorded.
 
-Seventh, this entry rests on one biography in this volume. Searches across the other source layers of this library produced nothing that could add to him; his career before Lishui, his examination cohort and his associations have no support.
+Seventh, where he went after retirement, and the year and place of his death, are not recorded.
+
+Eighth, this entry rests on one biography in this volume. Searches across the other source layers of this library produced nothing that could add to him; his career before Lishui, his examination cohort and his associations have no support.

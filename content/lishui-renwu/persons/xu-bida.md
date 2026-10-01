@@ -19,6 +19,8 @@ sources:
     locator: 卷之六·名宦传「徐必达」条（据网络转录，未核点校本）
 related:
   - ls:person:qi-tai
+  - ls:person:zhang-ximing
+  - ls:person:zhou-qiyuan
 updated: 2026-10-01
 ---
 

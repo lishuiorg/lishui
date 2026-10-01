@@ -41,6 +41,8 @@ related:
   - ls:place:zhongshan-shuyuan-bei
   - ls:place:wuxiangshan-moya-shike
   - ls:event:ming-jiajing-4-qitai-ci-1525
+  - ls:person:gao-chong
+  - ls:person:zhang-wenxing
 updated: 2026-10-01
 ---
 

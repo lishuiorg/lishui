@@ -31,6 +31,8 @@ related:
   - ls:event:ming-hongxi-1-qitai-1425
   - ls:event:ming-jiajing-4-qitai-ci-1525
   - ls:person:wang-congshan
+  - ls:person:xie-ting
+  - ls:person:zhang-ximing
 updated: 2026-10-01
 ---
 
