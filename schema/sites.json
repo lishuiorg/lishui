@@ -50,5 +50,14 @@
       "routes": "article",
       "articles": "article"
     }
+  },
+  "lishui-renwu": {
+    "host": "renwu.lishui.org",
+    "types": [
+      "person"
+    ],
+    "typeDirs": {
+      "persons": "person"
+    }
   }
 }

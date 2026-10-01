@@ -191,6 +191,26 @@
     "马拉松": "Marathon",
     "中国传统村落": "Chinese traditional villages"
   },
+  "personRole": {
+    "官员": "Official",
+    "乡贤": "Local worthy",
+    "匠作": "Craftsman",
+    "艺文": "Man of letters",
+    "宗教": "Religious figure",
+    "近现代人物": "Modern figure"
+  },
+  "birthEra": {
+    "不详": "Date unknown",
+    "魏晋南北朝": "Wei, Jin and the Northern and Southern dynasties",
+    "隋唐": "Sui and Tang",
+    "五代宋元": "Five Dynasties, Song and Yuan"
+  },
+  "relation": {
+    "本地出生": "Native of Lishui",
+    "任官": "Official service",
+    "著述": "Writings",
+    "留寓": "Sojourn"
+  },
   "eraRoot": {
     "周景王": "King Jing of Zhou",
     "周敬王": "King Jing of Zhou",

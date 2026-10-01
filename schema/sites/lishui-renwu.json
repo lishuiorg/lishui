@@ -1,0 +1,31 @@
+{
+  "$comment": "溧水人物分站的专属取值表与 ID 规则。站群共用的八项取值（dynasty／precision／depth／status／confidence／rights／archive／sourceType）与 sourceIdPattern 在 lishui-kit/schema/enums.common.json，本文件只列本站特有的。",
+  "idPattern": "^ls:person:[a-z0-9]+(-[a-z0-9]+)*$",
+  "personRole": [
+    "官员",
+    "乡贤",
+    "文教",
+    "匠作",
+    "艺文",
+    "宗教",
+    "近现代人物"
+  ],
+  "birthEra": [
+    "不详",
+    "先秦",
+    "秦汉",
+    "魏晋南北朝",
+    "隋唐",
+    "五代宋元",
+    "明",
+    "清",
+    "民国",
+    "当代"
+  ],
+  "relation": [
+    "本地出生",
+    "任官",
+    "著述",
+    "留寓"
+  ]
+}
