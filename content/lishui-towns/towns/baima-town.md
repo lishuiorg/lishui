@@ -30,6 +30,7 @@ sources:
 related:
   - ls:place:shitouzhai-village
   - ls:place:hefeng-town
+distinct_from: [ls:place:dajinshan-kangzhan-yizhi]
 updated: 2026-09-26
 ---
 

@@ -27,6 +27,7 @@ sources:
     locator: 名录表全部行次；名录中未见大金山景区；截至 2026 年 8 月
 related:
   - ls:place:lixiang
+distinct_from: [ls:place:baima-town]
 updated: 2026-09-29
 ---
 

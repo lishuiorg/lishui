@@ -25,6 +25,7 @@ sources:
     locator: Sections on traditional character and value, on protection delimitation and key points, and on functional development orientation; Lishui Branch, Nanjing Municipal Bureau of Planning and Natural Resources, 7 September 2026
   - ref: src:nanjing-wwbh-3pi
     locator: Entry "Yang Ancestral Hall, Hefeng (Qing dynasty, Hefeng Town, Lishui County)" among the five Lishui entries under the ancient buildings category; Ning Zheng Fa [2006] No. 131, 10 June 2006
+distinct_from: [ls:place:sunjiaxiang-yangjiacun]
 related:
   - ls:place:sunjiaxiang-village
   - ls:place:hefeng-town

@@ -22,6 +22,7 @@ sources:
 related:
   - ls:place:wuxiangsi-moya-shike
   - ls:place:hanxizai-dushutai
+distinct_from: [ls:place:wuxiangshan-moya-shike, ls:place:hanxizai-dushutai]
 updated: 2026-09-25
 ---
 

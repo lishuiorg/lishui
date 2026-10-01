@@ -25,6 +25,7 @@ sources:
     locator: 「传统特色和价值」「保护区划与保护重点」「功能发展定位」三节；南京市规划和自然资源局溧水分局，2026-09-07
   - ref: src:nanjing-wwbh-3pi
     locator: 正文古建筑类溧水 5 处中「和凤杨氏宗祠（清代，溧水县和凤镇）」；宁政发〔2006〕131号，2006-06-10
+distinct_from: [ls:place:sunjiaxiang-yangjiacun]
 related:
   - ls:place:sunjiaxiang-village
   - ls:place:hefeng-town

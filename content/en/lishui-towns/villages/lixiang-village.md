@@ -25,6 +25,7 @@ sources:
     locator: Sentence on the theme of protecting and using provincial traditional villages, and the sentence naming Cangkou, Shishanxia and Lixiang as three characteristic traditional villages; Lishui District People's Government, 25 November 2022
   - ref: src:people-dangshi-lixiang
     locator: Passages on the arrival of the New Fourth Army and on the seat of the organs; Party History Channel, People's Daily Online, 12 April 2021
+distinct_from: [ls:place:lixiang, ls:place:lixiang-geming-jianzhuqun]
 related:
   - ls:place:baima-town
   - ls:place:shitouzhai-village

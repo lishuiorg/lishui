@@ -33,6 +33,9 @@ sources:
     locator: Chronology of events; Wuxiang Mountain scenic area website, used only to supply dates
   - ref: src:nanjing-shi-wwbh-minglu
     locator: List row, "Wuxiang Temple cliff inscriptions, Ming, within the Wuxiang Mountain scenic area, Honglan Subdistrict"
+  - ref: src:taoxueshiji-you-longmingshan
+    locator: Juan 17, Record of a Visit to Longming Mountain, the words that Longming Mountain is Wuxiang Mountain, and the passages on Han Xizai's reading hall and the surviving cypress
+distinct_from: [ls:place:wuxiangshan-moya-shike]
 related:
   - ls:place:qiuhu-shan
   - ls:article:lishui-dishi-geju
@@ -56,6 +59,14 @@ In October 1992 a Wuxiang Mountain forest park was established with the approval
 ## Landscape and visiting
 
 Wuxiang Temple on the mountain is one of the four hundred and eighty temples of the Southern Dynasties; the Wuxiang Mountain cliff inscriptions, at three sites named Fengquan, Danding and Wuzunming, are protected municipal cultural sites within the Wuxiang Mountain scenic area, Honglan Subdistrict. Tao An's Ming-period Record of a Visit to Longming Mountain describes Longming Mountain, which the author says is Wuxiang Mountain; Zhou Bangyan wrote his lyric Man Ting Fang: A Summer Day on Wuxiang Mountain while serving as magistrate of Lishui under the Northern Song.
+
+That record also notes the site of Han Xizai's reading hall and the cypresses he planted, still standing. It is the earliest documentary link this library holds between Wuxiang Mountain and Han Xizai:
+
+> 即无想山也
+
+*Translated:* it is Wuxiang Mountain.
+
+The text is in the public domain and is reproduced as written. **This is a documentary clue, not a conclusion about the place:** Tao An was a literatus, and his statement that Longming Mountain is Wuxiang Mountain is his own judgement; neither the year the reading hall was built nor the time Han Xizai read there is recorded in any source held here. Nor may the name history of the mountain be rewritten on the strength of a single travel essay.
 
 In January 2015 the National Forestry and Grassland Administration approved the Wuxiang Mountain National Forest Park, document Lin Chang Xu Zhun [2015] No. 32, which is what the designation National Forest Park (2015) rests on. In 2017 the scenic area was approved as a Jiangsu Provincial Ecotourism Demonstration Area. In 2020 it was rated a national AAA tourist attraction by the Nanjing tourist resource planning and development quality assessment committee, document Ning Lü Zi Wei [2020] No. 4; the scenic grade in this entry rests on that.
 

@@ -23,6 +23,7 @@ sources:
     locator: 区情简介，文物遗存段落
 related:
   - ls:place:wuxiangsi
+distinct_from: [ls:place:wuxiangshan-moya-shike, ls:place:wuxiangsi]
 updated: 2026-09-25
 ---
 

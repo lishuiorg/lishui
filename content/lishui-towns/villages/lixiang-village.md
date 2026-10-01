@@ -25,6 +25,7 @@ sources:
     locator: 正文「围绕『省级传统村落保护利用』主题」句与「在仓口、石山下、李巷三个特色村落」一句；溧水区人民政府，2022-11-25
   - ref: src:people-dangshi-lixiang
     locator: 文章正文新四军进驻与机关驻地各段；人民网党史频道，2021-04-12
+distinct_from: [ls:place:lixiang, ls:place:lixiang-geming-jianzhuqun]
 related:
   - ls:place:baima-town
   - ls:place:shitouzhai-village

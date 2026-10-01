@@ -24,6 +24,9 @@ sources:
   - ref: src:people-dangshi-lixiang
     locator: Article text, People's Daily Party history channel, 2021-04-12
   - ref: src:njls-qqjj
+distinct_from:
+  - ls:place:lixiang-village
+  - ls:place:lixiang-geming-jianzhuqun
 updated: 2026-09-25
 ---
 

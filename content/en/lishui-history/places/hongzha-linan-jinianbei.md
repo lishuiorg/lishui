@@ -28,6 +28,7 @@ sources:
     locator: Project section "Background and origins" and the section on published results
 related:
   - ls:place:lixiang
+distinct_from: [ls:place:lishui-xuegong]
 updated: 2026-09-29
 ---
 

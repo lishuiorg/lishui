@@ -27,8 +27,9 @@ sources:
     locator: 「凤林摩崖」一节（三处题名、相对位置、题者、保存状况）
   - ref: src:nanjing-shi-wwbh-minglu
     locator: 名录「石窟寺及石刻」类「无想寺摩崖石刻，明，洪蓝街道无想山风景区内」
+distinct_from: [ls:place:wuxiang-shan, ls:place:hanxizai-dushutai, ls:place:wuxiangsi]
 related:
-  - ls:place:wuxiangshan
+  - ls:place:wuxiang-shan
   - ls:article:taoan-longmingshan
 updated: 2026-09-29
 ---

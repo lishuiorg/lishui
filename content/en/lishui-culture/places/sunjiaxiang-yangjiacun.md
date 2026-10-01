@@ -23,6 +23,7 @@ sources:
     locator: Sections "Traditional character and values" and "Protection zones and key points"; Lishui Branch, Nanjing Municipal Bureau of Planning and Natural Resources, 2026-09-07
   - ref: src:nanjing-shi-wwbh-minglu
     locator: List entry "Yang ancestral hall, Hefeng, Qing, Lishui District, Yangjia Village, Hefeng Town"
+distinct_from: [ls:place:yangjia-village]
 related:
   - ls:place:luoshan-village
   - ls:place:taicun-village

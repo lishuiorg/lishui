@@ -23,6 +23,7 @@ sources:
     locator: 正文「传统特色和价值」「保护区划与保护重点」两节，南京市规划和自然资源局溧水分局，2026-09-07
   - ref: src:nanjing-shi-wwbh-minglu
     locator: 名录行「和凤杨氏宗祠，清，溧水区，和凤镇杨家村」
+distinct_from: [ls:place:yangjia-village]
 related:
   - ls:place:luoshan-village
   - ls:place:taicun-village

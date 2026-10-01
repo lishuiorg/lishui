@@ -30,6 +30,7 @@ citations:
     quote: 旧志：唐武德七年建，在旧县治东三十步
 related:
   - ls:place:zhongshan-shuyuan
+distinct_from: [ls:place:hongzha-linan-jinianbei]
 updated: 2026-09-29
 ---
 

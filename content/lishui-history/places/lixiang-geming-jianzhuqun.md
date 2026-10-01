@@ -23,6 +23,7 @@ sources:
     locator: 答复正文，不可移动革命文物遴选名录段落
   - ref: src:njls-qqjj
     locator: 风景名胜·李巷村 段
+distinct_from: [ls:place:lixiang-village, ls:place:lixiang]
 related:
   - ls:place:lixiang
 updated: 2026-09-25

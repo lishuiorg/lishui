@@ -32,6 +32,7 @@ sources:
     locator: 文中第二段；《南京日报》，2024-01-31
   - ref: src:jsszjtc-8pi
     locator: 文中名单段；南京市政府网站，2025-08-22
+distinct_from: [ls:place:wuxiang-shan]
 related:
   - ls:place:dongping-subdistrict
   - ls:place:cangkou-village

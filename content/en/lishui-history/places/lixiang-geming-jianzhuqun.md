@@ -23,6 +23,7 @@ sources:
     locator: Reply text, passage on the list of immovable revolutionary relics
   - ref: src:njls-qqjj
     locator: Scenic sites, passage on Lixiang Village
+distinct_from: [ls:place:lixiang-village, ls:place:lixiang]
 related:
   - ls:place:lixiang
 updated: 2026-09-25

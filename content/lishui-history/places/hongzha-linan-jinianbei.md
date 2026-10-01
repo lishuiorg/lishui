@@ -28,6 +28,7 @@ sources:
     locator: 项目「背景起因」段与出版成果段
 related:
   - ls:place:lixiang
+distinct_from: [ls:place:lishui-xuegong]
 updated: 2026-09-29
 ---
 

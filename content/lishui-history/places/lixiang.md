@@ -24,6 +24,9 @@ sources:
   - ref: src:people-dangshi-lixiang
     locator: 文章正文，人民网党史频道 2021-04-12
   - ref: src:njls-qqjj
+distinct_from:
+  - ls:place:lixiang-village
+  - ls:place:lixiang-geming-jianzhuqun
 updated: 2026-09-25
 ---
 

@@ -25,7 +25,7 @@ citations:
     locator: 卷十七·游龙鸣山记
     quote: 即无想山也
 related:
-  - ls:place:wuxiangshan
+  - ls:place:wuxiang-shan
   - ls:place:wuxiangshan-moya-shike
 updated: 2026-09-29
 ---

@@ -32,6 +32,7 @@ sources:
     locator: Second paragraph; Nanjing Daily, 31 January 2024
   - ref: src:jsszjtc-8pi
     locator: List section; Nanjing Municipal People's Government website, 22 August 2025
+distinct_from: [ls:place:wuxiang-shan]
 related:
   - ls:place:dongping-subdistrict
   - ls:place:cangkou-village
