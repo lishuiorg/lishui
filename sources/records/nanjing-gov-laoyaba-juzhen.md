@@ -4,6 +4,7 @@ type: gov
 title: 南京市人民政府网站《我市老鸦坝等6座水库列入全国试点——数智支撑，让水库运行管理更"聪明"》
 titleEn: Nanjing Municipal People's Government Portal — Six Reservoirs including Laoyaba Listed as National Pilot Projects
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府网站（南京要闻，来源南京日报）
 publisherEn: Nanjing Municipal People's Government Portal (Nanjing News, source: Nanjing Daily)

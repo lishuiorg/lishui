@@ -4,6 +4,7 @@ type: gov
 title: 江苏省水利厅《关于南京市滁河工程管理处等单位通过省级水利工程管理单位复核的通知》
 titleEn: Jiangsu Provincial Department of Water Resources — Notice on Provincial Water Engineering Management Units Passing Review
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省水利厅
 publisherEn: Jiangsu Provincial Department of Water Resources

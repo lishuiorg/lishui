@@ -4,6 +4,7 @@ type: media
 title: 人民网党史频道关于红色李巷的报道
 titleEn: People's Daily Online (Party History Channel) — Lixiang Revolutionary Site
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 人民网党史频道
 publisherEn: Party History Channel, People's Daily Online

@@ -4,6 +4,7 @@ type: academic
 title: 顾诚《南明史》（国学导航转载本）
 titleEn: Gu Cheng, A History of the Southern Ming (reprint at Guoxue Daohang)
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 顾诚（中国青年出版社 2003 年版；国学导航转载）
 publisherEn: Gu Cheng (China Youth Press, 2003; reprinted at Guoxue Daohang)

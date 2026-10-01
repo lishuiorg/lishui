@@ -4,6 +4,7 @@ type: gov
 title: 江苏省党史文献网《江苏解放概况》
 titleEn: Jiangsu Party History Documents Network — An Overview of the Liberation of Jiangsu
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 中共江苏省委党史工作办公室
 publisherEn: Party History Office of the CPC Jiangsu Provincial Committee

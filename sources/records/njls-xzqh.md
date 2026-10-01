@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府网站「行政区划」
 titleEn: Lishui District People's Government — Administrative Divisions
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府
 publisherEn: People's Government of Lishui District, Nanjing

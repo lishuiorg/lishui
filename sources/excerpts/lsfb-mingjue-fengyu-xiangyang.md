@@ -4,6 +4,7 @@ type: media
 title: 溧水发布《流口水了🤩香菜、风鱼、辣椒酱……》
 titleEn: Lishui Fabu — pickled greens, wind-dried fish and chilli sauce from Xiangyang village
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 溧水发布（素材来源：石湫街道）
 publisherEn: Lishui Fabu (source: Shiqiu Subdistrict)

@@ -4,6 +4,7 @@ type: media
 title: 溧水114网（中山文史）：新春佳节话龙船
 titleEn: Lishui 114 (Zhongshan local-history section) — dragon boats at the New Year
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 溧水114网（中山文史栏目）
 publisherEn: Lishui 114 (Zhongshan local-history section)

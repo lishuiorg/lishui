@@ -4,6 +4,7 @@ type: gov
 title: 中国非物质文化遗产网「龙舞（骆山大龙）」项目页
 titleEn: Longwu (Luoshan Great Dragon) — project page, China Intangible Cultural Heritage Network
 rights: gov-open
+reliability: secondary
 archive: link
 publisher: 中国非物质文化遗产网
 publisherEn: China Intangible Cultural Heritage Network

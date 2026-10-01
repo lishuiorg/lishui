@@ -4,6 +4,7 @@ type: gov
 title: 南京市规划和自然资源局溧水分局《南京市溧水区国土空间生态保护和修复规划（2021—2035年）》批前公示
 titleEn: Lishui Branch, Nanjing Municipal Planning and Natural Resources Bureau — Pre-approval Public Notice of the Territorial Spatial Ecological Protection and Restoration Plan of Lishui District (2021-2035)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市规划和自然资源局溧水分局
 publisherEn: Lishui Branch, Nanjing Municipal Planning and Natural Resources Bureau

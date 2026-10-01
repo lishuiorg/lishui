@@ -4,6 +4,7 @@ type: gazetteer
 title: 姚鼐《袁随园君墓志铭》（《惜抱轩文集》卷十三）
 titleEn: Yao Nai, "Epitaph for Yuan Suiyuan" (Xibaoxuan wenji, juan 13)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清姚鼐撰；《惜抱轩文集》卷十三，据中国古典文献数据库转录
 publisherEn: By Yao Nai (Qing); Xibaoxuan wenji, juan 13, transcription at cnkgraph.com

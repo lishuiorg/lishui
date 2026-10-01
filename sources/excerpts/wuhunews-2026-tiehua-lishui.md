@@ -4,6 +4,7 @@ type: media
 title: 芜湖新闻网（大江晚报）：当代芜湖铁画大师艺术作品暨铁画史料图文展溧水展开展
 titleEn: Wuhu News (Dajiang Evening News) — Wuhu iron painting exhibition opens in Lishui
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 芜湖新闻网（大江晚报）
 publisherEn: Wuhu News (Dajiang Evening News)

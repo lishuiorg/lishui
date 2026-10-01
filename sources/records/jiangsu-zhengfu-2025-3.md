@@ -4,6 +4,7 @@ type: gov
 title: 江苏省人民政府《省政府关于南京市栖霞区、雨花台区、江宁区、浦口区、六合区、溧水区、高淳区国土空间总体规划（2021－2035年）的批复》（苏政复〔2025〕3号）
 titleEn: Jiangsu Provincial People's Government — Reply Approving the Territorial Spatial Master Plans (2021-2035) of Seven Districts of Nanjing, including Lishui (Su Zheng Fu [2025] No. 3)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省人民政府
 publisherEn: People's Government of Jiangsu Province

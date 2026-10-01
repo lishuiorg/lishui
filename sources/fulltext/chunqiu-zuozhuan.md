@@ -4,6 +4,7 @@ type: gazetteer
 title: 《春秋左传》昭公四年、定公四年
 titleEn: Zuo Zhuan (with the Spring and Autumn Annals), Duke Zhao's fourth year and Duke Ding's fourth year
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 旧题春秋左丘明撰；今据古文岛（原古诗文网）所载《左传》全文本转录
 publisherEn: Attributed to Zuo Qiuming (Spring and Autumn period); transcribed from the full text posted by Gushiwen

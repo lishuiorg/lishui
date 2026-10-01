@@ -4,6 +4,7 @@ type: media
 title: 热热闹闹过春节！溧水即将举办的民俗活动都在这里啦！
 titleEn: Folk events for the Spring Festival in Lishui
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 南京文旅（南京市文化和旅游局官方澎湃号）
 publisherEn: Nanjing Culture and Tourism (official account of the Nanjing Municipal Administration of Culture and Tourism)

@@ -4,6 +4,7 @@ type: gov
 title: 对区政协十一届一次会议第040号提案的办理答复（关于加强茶产业品牌化建设）
 titleEn: Reply to Proposal No. 040 (strengthening the branding of the tea industry)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区农业农村局
 publisherEn: Lishui District Agriculture and Rural Affairs Bureau, Nanjing

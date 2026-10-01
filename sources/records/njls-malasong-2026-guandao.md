@@ -4,6 +4,7 @@ type: gov
 title: 溧水区道路交通管制通告（2026「无想周末」溧马趣跑、2026南京溧水半程马拉松）
 titleEn: Lishui District Traffic Control Notice for the 2026 Wuxiang Weekend Fun Run and the 2026 Nanjing Lishui Half Marathon
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市公安局交通管理局溧水区大队、南京溧水半程马拉松（发布渠道：溧水区人民政府网站）
 publisherEn: Lishui District Traffic Police Brigade, Nanjing Public Security Bureau

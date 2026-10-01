@@ -4,6 +4,7 @@ type: heritage-list
 title: 市政府关于公布第一批南京市非物质文化遗产名录的通知（宁政发〔2008〕6号）
 titleEn: Notice on Publishing the First Batch of the Nanjing Municipal Intangible Cultural Heritage List (Ning Zheng Fa [2008] No. 6)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府
 publisherEn: Nanjing Municipal People's Government

@@ -4,6 +4,7 @@ type: media
 title: 南京溧水｜芮家社区：老手艺演绎新故事
 titleEn: Nanjing Lishui — old crafts in the Ruijia community
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 溧水发布（中共南京市溧水区委宣传部官方澎湃号）
 publisherEn: Lishui Release (official account of the CPC Lishui District Committee Publicity Department)

@@ -4,6 +4,7 @@ type: gov
 title: 南京市交通运输局《秦淮河（溧水石臼湖至江宁彭福段）航道整治工程顺利通过竣工验收》
 titleEn: Nanjing Municipal Transport Bureau — The Qinhuai River Waterway Regulation Project Passes Completion Inspection and Acceptance
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市交通运输局
 publisherEn: Nanjing Municipal Transport Bureau

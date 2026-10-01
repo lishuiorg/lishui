@@ -4,6 +4,7 @@ type: gov
 title: 南京市文化和旅游局《南京市国家等级旅游景区名录（截至2026年8月）》
 titleEn: Nanjing Municipal Bureau of Culture and Tourism — List of Nationally Graded Tourist Attractions in Nanjing (as of August 2026)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市文化和旅游局
 publisherEn: Nanjing Municipal Bureau of Culture and Tourism

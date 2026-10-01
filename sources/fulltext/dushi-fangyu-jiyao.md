@@ -4,6 +4,7 @@ type: gazetteer
 title: 《读史方舆纪要》卷二十·南直二·应天府（溧水、高淳及广通镇条）
 titleEn: Du Shi Fang Yu Ji Yao (Essentials of Geography for Reading History) by Gu Zuyu (Qing), juan 20, "South Zhili II" — Yingtian Prefecture (Lishui, Gaochun and Guangtong)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清顾祖禹撰；今据国学导航所载《读史方舆纪要》文本转录
 publisherEn: Compiled by Gu Zuyu (Qing); transcribed from the Du Shi Fang Yu Ji Yao text posted by Guoxue Daohang

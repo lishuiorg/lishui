@@ -4,6 +4,7 @@ type: gazetteer
 title: 《资治通鉴》卷二百五十八·唐纪七十四（唐昭宗大顺二年）
 titleEn: Zizhi Tongjian, juan 258, Tang Annals 74 (the second year of the Dashun era, Emperor Zhaozong of Tang)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 北宋司马光编著，元胡三省注；今据古文薮网站所载胡注本转录
 publisherEn: Compiled by Sima Guang (Northern Song) with commentary by Hu Sanxing (Yuan); transcribed from the Hu Sanxing edition posted by Guwensou

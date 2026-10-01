@@ -4,6 +4,7 @@ type: gazetteer
 title: 袁枚《小仓山房诗集》（含补遗）
 titleEn: Yuan Mei, Collected Poems of the Xiaocang Mountain Studio (with supplement)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清袁枚撰；清乾隆随园刻本，据中华典藏转录
 publisherEn: By Yuan Mei (Qing); Qianlong-period Suiyuan edition, transcription at diancang.xyz

@@ -4,6 +4,7 @@ type: media
 title: 扬子晚报关于洪蓝街道塘西村仓口村的报道
 titleEn: Yangtse Evening Post Report on Cangkou Village, Tangxi, Honglan Subdistrict
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 扬子晚报
 publisherEn: Yangtse Evening Post

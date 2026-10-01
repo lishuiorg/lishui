@@ -4,6 +4,7 @@ type: academic
 title: 田建明等《江苏及南黄海地区历史地震类型分布特征》（《地震学报》2004 年第 26 卷第 4 期）
 titleEn: Tian Jianming et al., "Types of Historical Earthquakes in Jiangsu and the Southern Yellow Sea", Acta Seismologica Sinica 2004, 26(4)
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 田建明、徐徐、谢华章、杨云、丁政（江苏省地震局、南京市地震局），《地震学报》2004 年第 26 卷第 4 期，432—439 页
 publisherEn: Tian Jianming, Xu Xu, Xie Huazhang, Yang Yun, Ding Zheng (Jiangsu Earthquake Agency), Acta Seismologica Sinica 2004, 26(4): 432–439

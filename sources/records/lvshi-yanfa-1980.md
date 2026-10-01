@@ -4,6 +4,7 @@ type: academic
 title: 江苏溧水神仙洞发现的动物化石
 titleEn: Animal Fossils Discovered in the Shenxian Cave at Lishui, Jiangsu
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 《古脊椎动物与古人类》编辑部（中国科学院古脊椎动物与古人类研究所）
 publisherEn: Editorial Office of Vertebrata Palanthropologica of China

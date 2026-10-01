@@ -4,6 +4,7 @@ type: epigraphy
 title: 缪荃孙《江苏省通志稿·金石志》卷十九（宋）著录「寻仙观三清殿记」
 titleEn: Miu Quansun, Jin Shi Zhi (Records of Metal and Stone) of the Draft Gazetteer of Jiangsu Province, juan 19 (Song) — Record of the “Third Hall of the Pure One” Stele at Xunxian Temple
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清末缪荃孙纂《江苏省通志稿》金石志；民国间刊本，今据中华典藏站点所载转录本
 publisherEn: Compiled by Miu Quansun in the late Qing; consulted in a modern edition transcribed on the Zhonghua Diancang site

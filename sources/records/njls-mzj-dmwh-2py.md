@@ -4,6 +4,7 @@ type: gov
 title: 溧水区民政局《全市名录公布！溧水 7 处入选》（南京市第二批地名文化遗产保护名录）
 titleEn: Civil Affairs Bureau of Lishui District — Seven Lishui Place Names Enter the Second Nanjing Batch
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区民政局（经今日头条「微溧水」转载，文末标「素材来源 | 溧水区民政局」）
 publisherEn: Civil Affairs Bureau of Lishui District, Nanjing

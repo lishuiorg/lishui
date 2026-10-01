@@ -4,6 +4,7 @@ type: gov
 title: 江苏省秦淮河水利工程管理处「流域概况」
 titleEn: Jiangsu Provincial Qinhuai River Water Conservancy Project Management Office — Overview of the Qinhuai River Basin
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省秦淮河水利工程管理处（江苏省水利厅厅属管理处）
 publisherEn: Jiangsu Provincial Qinhuai River Water Conservancy Project Management Office

@@ -4,6 +4,7 @@ type: gov
 title: 江苏省林业局《南京溧水无想山环天池森林步道》
 titleEn: Jiangsu Provincial Forestry Bureau — The Huantianchi Forest Trail at Wuxiang Mountain, Lishui, Nanjing
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省林业局
 publisherEn: Jiangsu Provincial Forestry Bureau

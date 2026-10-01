@@ -4,6 +4,7 @@ type: gazetteer
 title: 万历《溧水县志》
 titleEn: Lishui County Gazetteer (Wanli edition)
 rights: public-domain
+reliability: secondary
 archive: catalogued-only
 publisher: 明万历七年（1579）初刻，现存刻本为明泰昌元年（1620）增补本，八卷另加卷首；吴仕诠修，黄汝金纂
 publisherEn: First printed in 1579 (the seventh year of the Wanli era); the surviving impression is the 1620 supplement, 8 juan plus a prefatory juan; revised by Wu Shiquan, compiled by Huang Rujin

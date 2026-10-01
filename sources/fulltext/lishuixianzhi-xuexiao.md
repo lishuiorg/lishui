@@ -4,6 +4,7 @@ type: gazetteer
 title: 《溧水县志》卷七 学校志（学宫考）
 titleEn: Lishui County Gazetteer, juan 7, Schools (on the Confucian school)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清刻本；识典古籍影印
 publisherEn: Qing woodblock edition; scan at Shidian Guji

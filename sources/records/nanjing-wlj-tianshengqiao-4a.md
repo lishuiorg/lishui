@@ -4,6 +4,7 @@ type: gov
 title: 南京市文化和旅游局关于天生桥景区的现行表述
 titleEn: Nanjing Municipal Bureau of Culture and Tourism — Tiansheng Bridge Scenic Area
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市文化和旅游局
 publisherEn: Nanjing Municipal Bureau of Culture and Tourism

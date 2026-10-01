@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区高标准农田建设规划（2022—2025年）
 titleEn: Lishui District High-Standard Farmland Construction Plan (2022–2025)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府
 publisherEn: People's Government of Lishui District, Nanjing

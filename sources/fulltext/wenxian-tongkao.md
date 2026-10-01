@@ -4,6 +4,7 @@ type: archive
 title: 文献通考·卷六·田赋考六（水利田）
 titleEn: Wenxian Tongkao (Comprehensive Examination of Literature), juan 6, "Land Tax, Part Six: Irrigated Fields"
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 元马端临撰，三百四十八卷；本次据网络点校本核读卷六「田赋考六·水利田」
 publisherEn: Compiled by Ma Duanlin in the Yuan dynasty, 348 juan; consulted in an online punctuated edition of juan 6, "Land Tax, Part Six: Irrigated Fields"

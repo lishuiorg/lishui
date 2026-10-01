@@ -4,6 +4,7 @@ type: media
 title: 溧水发布《大雪来了，馋腊味儿！》
 titleEn: Lishui Fabu — cured and wind-dried flavours as the snowy season arrives
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 溧水发布（溧水区融媒体中心）
 publisherEn: Lishui Fabu (Lishui District Media Centre)

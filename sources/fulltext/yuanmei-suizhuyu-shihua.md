@@ -4,6 +4,7 @@ type: gazetteer
 title: 袁枚《随园诗话》（含补遗）
 titleEn: Yuan Mei, Suiyuan Poetry Talks (with supplement)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清袁枚撰；据古诗文网所载通行本转录
 publisherEn: By Yuan Mei (Qing); transcription of the current edition at gushiwen.cn

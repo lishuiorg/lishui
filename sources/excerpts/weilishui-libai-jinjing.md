@@ -4,6 +4,7 @@ type: media
 title: 微溧水《那些年，李白与溧水不得不说的故事……》（今日头条转载）
 titleEn: Weilihui — Those Years: Li Bai and Lishui (reposted on Toutiao)
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 微溧水（经今日头条转载）
 publisherEn: Weilihui, reposted on Toutiao

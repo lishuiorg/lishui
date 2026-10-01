@@ -4,6 +4,7 @@ type: gov
 title: 南京市侨联《侨韵织锦绣 “玉”裳耀国风——金陵旗袍制作技艺非遗传承人陶玉梅、杨陶然携金陵旗袍绽放国际时装周》
 titleEn: Nanjing Federation of Returned Overseas Chinese — bearers Tao Yumei and Yang Taoran at International Fashion Week
 rights: gov-open
+reliability: tertiary
 archive: link
 publisher: 南京市归国华侨联合会
 publisherEn: Nanjing Federation of Returned Overseas Chinese

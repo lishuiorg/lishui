@@ -4,6 +4,7 @@ type: gov
 title: 国家林业和草原局《陆生野生动物重要栖息地名录（第一批）》（国家林业和草原局公告2023年第23号）——江苏南京溧水石臼湖湿地候鸟重要栖息地
 titleEn: National Forestry and Grassland Administration — List of Important Habitats for Terrestrial Wildlife (First Batch), Announcement No. 23 of 2023: Lishui Shijiu Lake Wetland Important Habitat for Migratory Birds
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 国家林业和草原局（发布渠道：江苏省林业局网站）
 publisherEn: National Forestry and Grassland Administration

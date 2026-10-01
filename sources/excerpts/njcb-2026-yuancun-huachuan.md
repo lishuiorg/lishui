@@ -4,6 +4,7 @@ type: media
 title: 南京晨报：非遗从业者袁善花：将「五只小船」划向更大舞台
 titleEn: Nanjing Morning Post — inheritor Yuan Shanhua and the "five small boats"
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 南京晨报
 publisherEn: Nanjing Morning Post

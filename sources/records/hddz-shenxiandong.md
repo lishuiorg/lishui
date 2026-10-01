@@ -4,6 +4,7 @@ type: academic
 title: 鞠魁祥《江苏溧水神仙洞的发掘和研究——中华文明史应追溯到万年前》
 titleEn: Ju Kuixiang — Excavation and Study of the Shenxian Cave in Lishui, Jiangsu
 rights: excerpt-only
+reliability: secondary
 archive: link
 publisher: 《华东地质》编辑部
 publisherEn: East China Geology (editorial office)

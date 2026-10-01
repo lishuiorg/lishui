@@ -4,6 +4,7 @@ type: academic
 title: 龚畅等《2011—2021年溧水区中型水库水质状况及富营养化趋势》
 titleEn: Gong Chang et al. — Water Quality Status and Eutrophication Trend of Medium-sized Reservoirs in Lishui District, 2011–2021
 rights: excerpt-only
+reliability: secondary
 archive: link
 publisher: 《江苏水利》编辑部
 publisherEn: Jiangsu Water Resources (editorial office)

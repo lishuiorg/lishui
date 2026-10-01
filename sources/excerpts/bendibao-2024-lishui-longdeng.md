@@ -4,6 +4,7 @@ type: media
 title: 南京溧水区春节民俗活动（舞龙+龙灯）
 titleEn: Spring Festival folk activities in Lishui, Nanjing — dragon dances
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 南京本地宝
 publisherEn: Nanjing Bendibao (local information service)

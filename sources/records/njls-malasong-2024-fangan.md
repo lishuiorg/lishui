@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府办公室《区政府办公室关于印发2024南京溧水草莓马拉松工作方案的通知》（溧政办发〔2024〕3号）
 titleEn: General Office of the People's Government of Lishui District — Notice on Issuing the 2024 Nanjing Lishui Strawberry Marathon Work Plan (Li Zheng Ban Fa [2024] No. 3)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府办公室
 publisherEn: General Office of the People's Government of Lishui District, Nanjing

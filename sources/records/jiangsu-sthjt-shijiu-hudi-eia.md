@@ -4,6 +4,7 @@ type: gov
 title: 南京市石臼湖、固城湖堤防防洪能力提升工程环境影响报告书（报批稿·全本公示版）
 titleEn: Environmental Impact Assessment Report for the Shijiu Lake and Gucheng Lake Levee Flood-Control Capacity Upgrade Project, Nanjing
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省环境保护厅（公示）；建设单位南京市水利局，编制单位河海大学
 publisherEn: Jiangsu Provincial Department of Environmental Protection (publicity); project owner Nanjing Municipal Water Resources Bureau; prepared by Hohai University

@@ -4,6 +4,7 @@ type: gov
 title: 溧水区水务局对区政协十一届二次会议第056号提案的办理答复（饮用水源地补水线建设）
 titleEn: Lishui District Water Affairs Bureau — Reply to Proposal No. 056 of the Second Session of the Eleventh CPPCC District Committee (Construction of Replenishment Lines for Drinking Water Sources)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区水务局
 publisherEn: Lishui District Water Affairs Bureau, Nanjing

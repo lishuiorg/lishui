@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府网站《溧水发布11条春季踏青研学线路》
 titleEn: Lishui District People's Government — Lishui Releases 11 Spring Study-Tour Routes
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府（来源：南京日报）
 publisherEn: People's Government of Lishui District, Nanjing

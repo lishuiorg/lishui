@@ -4,6 +4,7 @@ type: media
 title: 溧水在线论坛《金井涌泉白石观》（网友潘惠明所记）
 titleEn: Lishuizx Forum — Jinjing Spring at Baishiguan (a local account)
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 溧水在线（论坛）
 publisherEn: Lishuzx Online Forum

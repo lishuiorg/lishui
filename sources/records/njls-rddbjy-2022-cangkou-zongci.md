@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府《对区十七届人大第一次会议第042号建议的办理答复》（仓口村邱氏宗祠和樊氏宗祠等建成运营）
 titleEn: Lishui District People's Government — Reply to Written Proposal No. 042 of the 17th District People's Congress (Qiu and Fan ancestral halls at Cangkou in operation)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京溧水产业投资控股集团有限公司（溧水区人民政府门户网站「政民互动／人大建议」栏目发布）
 publisherEn: Nanjing Lishui Industrial Investment and Holding Group Co., Ltd. (published on the Lishui District government portal)

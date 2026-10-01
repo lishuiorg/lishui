@@ -4,6 +4,7 @@ type: media
 title: 南京无想山景区《品读无想·为你读诗》读《洞壁琴音》
 titleEn: Wuxiang Mountain Scenic Area — Reading the Poem “Music from the Cavern Wall”
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 南京无想山景区网站（njwxs.njlszw.cn），供稿：南京市溧水区文化和旅游局
 publisherEn: Wuxiang Mountain Scenic Area website, contributed by the Lishui District Bureau of Culture and Tourism

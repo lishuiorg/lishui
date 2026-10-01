@@ -4,6 +4,7 @@ type: media
 title: 南京文明网：南京溧水——蒲塘桥庙会藏着 600 年的江南烟火
 titleEn: Nanjing Wenming — the Putang Bridge temple fair
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 南京文明网（来源：南京日报／紫金山新闻）
 publisherEn: Nanjing Wenming (source: Nanjing Daily / Zijinshan News)

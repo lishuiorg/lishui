@@ -4,6 +4,7 @@ type: media
 title: 途牛旅游网天生桥景区介绍页
 titleEn: Tuniu — Tiansheng Bridge Scenic Area
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 途牛旅游网
 publisherEn: Tuniu Travel

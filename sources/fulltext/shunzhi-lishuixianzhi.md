@@ -4,6 +4,7 @@ type: gazetteer
 title: 顺治《溧水县志》
 titleEn: Lishui County Gazetteer (Shunzhi edition)
 rights: public-domain
+reliability: secondary
 archive: catalogued-only
 publisher: 清顺治十五年（1658）刻本，十卷首一卷；闵派鲁修，林古度纂
 publisherEn: Woodblock edition of 1658 (the fifteenth year of the Shunzhi era), 10 juan with 1 prefatory juan; revised by Min Pailu, compiled by Lin Gudu

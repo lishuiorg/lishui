@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区财政局《溧水区2020年年度江苏省重点生态功能区转移支付资金绩效自评价报告》
 titleEn: Lishui District Finance Bureau, Nanjing — 2020 Performance Self-Assessment Report on Jiangsu Provincial Transfer Payments for Key Ecological Function Areas
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区财政局
 publisherEn: Lishui District Finance Bureau, Nanjing

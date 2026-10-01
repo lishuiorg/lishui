@@ -4,6 +4,7 @@ type: media
 title: 澎湃新闻：盛夏「无想」，有你想要的诗与远方
 titleEn: The Paper — a summer visit to Wuxiang Mountain
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 澎湃新闻（南京市文旅局官方号）
 publisherEn: The Paper (Nanjing Culture and Tourism Bureau account)

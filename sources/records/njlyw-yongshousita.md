@@ -4,6 +4,7 @@ type: media
 title: 南京文旅信息服务平台关于永寿寺塔的介绍
 titleEn: Nanjing Culture and Tourism Information Platform — Yongshou Temple Pagoda
 rights: link-only
+reliability: secondary
 archive: link
 publisher: 南京文旅信息服务平台
 publisherEn: Nanjing Culture and Tourism Information Platform

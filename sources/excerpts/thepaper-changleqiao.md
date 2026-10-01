@@ -4,6 +4,7 @@ type: media
 title: 澎湃新闻关于长乐桥的报道（第四次全国文物普查实地调查）
 titleEn: The Paper — Changle Bridge and the Fourth National Survey of Cultural Relics
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 澎湃新闻
 publisherEn: The Paper

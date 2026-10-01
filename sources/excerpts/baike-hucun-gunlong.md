@@ -4,6 +4,7 @@ type: media
 title: 胡村自然村（江苏省溧水区洪蓝镇辖村）·文化
 titleEn: Hucun natural village, Honglan, Lishui — customs
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 百科类词条平台
 publisherEn: encyclopedia entry platform

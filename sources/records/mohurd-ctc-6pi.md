@@ -4,6 +4,7 @@ type: heritage-list
 title: 江苏省住房和城乡建设厅网站转载：第六批中国传统村落名单发布，江苏46个入选（《现代快报》）
 titleEn: Sixth Batch of Chinese Traditional Villages Announced, 46 in Jiangsu — reprint on the website of the Jiangsu Provincial Department of Housing and Urban-Rural Development (Modern Express)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省住房和城乡建设厅（转载《现代快报》）
 publisherEn: Jiangsu Provincial Department of Housing and Urban-Rural Development (reprinting Modern Express)

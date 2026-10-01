@@ -4,6 +4,7 @@ type: media
 title: 溧水114论坛帖《“中山八景”注》（董余庆作，吴大林注）
 titleEn: Lishui114 Forum — “Notes on the Eight Views of Zhongshan” (by Dong Yuqing, annotated by Wu Dalin)
 rights: link-only
+reliability: tertiary
 archive: link
 publisher: 溧水114 网（中山文史版块，帖主转录并加注）
 publisherEn: Lishui114 Forum, Lishui (Local History board)

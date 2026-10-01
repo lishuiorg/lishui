@@ -4,6 +4,7 @@ type: gov
 title: 南京市规划和自然资源局溧水分局《美「溧」规划展播｜南京市溧水区和凤镇孙家巷村杨家传统村落保护发展规划》
 titleEn: Lishui Branch, Nanjing Municipal Bureau of Planning and Natural Resources — Conservation and Development Plan for the Yangjia Traditional Village, Sunjiaxiang, Hefeng Town, Lishui District
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市规划和自然资源局溧水分局
 publisherEn: Lishui Branch, Nanjing Municipal Bureau of Planning and Natural Resources

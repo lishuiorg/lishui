@@ -4,6 +4,7 @@ type: media
 title: 新华报业网《南京市公布第二批地名文化遗产保护名录 成贤街乌衣巷等 110 个地名入选》
 titleEn: Xinhua Daily Media — Nanjing Publishes Second Batch of Place-Name Cultural Heritage List
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 新华报业网（转《南京日报》）
 publisherEn: Xinhua Daily Media (reporting the Nanjing Daily)

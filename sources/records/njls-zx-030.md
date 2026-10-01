@@ -4,6 +4,7 @@ type: gov
 title: 对区政协十一届三次会议第030号提案的办理答复
 titleEn: Reply to Proposal No. 030 of the Third Session of the Eleventh CPPCC District Committee
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区农业农村局
 publisherEn: Lishui District Agriculture and Rural Affairs Bureau, Nanjing

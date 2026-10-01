@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区人民政府东屏街道办事处《溧水区东屏街道2019年未达标水体整治提升（东屏集镇污水管网建设）工程建设项目环境影响报告表》
 titleEn: Environmental Impact Report Form for the 2019 Substandard Water Body Improvement Project (Dongping Town Sewer Network), Dongping Subdistrict, Lishui District
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府东屏街道办事处
 publisherEn: Dongping Subdistrict Office, People's Government of Lishui District, Nanjing

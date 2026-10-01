@@ -4,6 +4,7 @@ type: heritage-list
 title: 江苏省人民政府关于公布第五批省级非物质文化遗产代表性项目名录的通知（苏政发〔2023〕100号）
 titleEn: Notice on Publishing the Fifth Batch of the Jiangsu Provincial Intangible Cultural Heritage Representative Project List (Su Zheng Fa [2023] No. 100)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省人民政府
 publisherEn: Jiangsu Provincial People's Government

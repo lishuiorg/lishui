@@ -4,6 +4,7 @@ type: media
 title: 五百年传承 马骏者远驰
 titleEn: Nanjing Morning Post — five hundred years of the Xisong horse lantern
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 南京晨报（交汇点）
 publisherEn: Nanjing Morning Post (Jiaohuodian)

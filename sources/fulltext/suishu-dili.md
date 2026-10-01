@@ -4,6 +4,7 @@ type: gazetteer
 title: 《隋书》卷三十一·志第二十六·地理下（丹阳郡条）
 titleEn: Book of Sui, juan 31, Treatise 26, "Geography, Part 3" (entry on Danyang Commandery)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 唐魏徵等撰；今据四库全书本转录（国学大师网）
 publisherEn: Compiled by Wei Zheng and others (Tang); transcribed from the Siku Quanshu text (Guoxue Dashi)

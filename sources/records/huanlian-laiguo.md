@@ -4,6 +4,7 @@ type: academic
 title: 胡安莲《赖国地望与赖、厉关系论考》（《信阳师范学院学报（哲学社会科学版）》2009 年第 6 期）
 titleEn: Hu Anlian, "A Study of the Location of the State of Lai and the Lai-Li Relationship" (Journal of Xinyang Normal University, 2009, no. 6)
 rights: excerpt-only
+reliability: secondary
 archive: link
 publisher: 信阳师范学院（《信阳师范学院学报》2009 年第 6 期）
 publisherEn: Xinyang Normal University (Journal of Xinyang Normal University, 2009, no. 6)

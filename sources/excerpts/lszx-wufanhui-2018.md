@@ -4,6 +4,7 @@ type: media
 title: 溧水在线（溧水文化）：一碗「乌饭」一台戏
 titleEn: Lishui Online (Lishui culture section) — a bowl of black rice and a stage of opera
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 溧水在线（溧水文化栏目）
 publisherEn: Lishui Online (Lishui culture section)

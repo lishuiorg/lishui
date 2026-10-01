@@ -4,6 +4,7 @@ type: media
 title: 传承百年手艺 村民纯手工自制山芋粉丝热销
 titleEn: A century-old craft: handmade sweet potato noodles sell out
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 中国新闻网（稿源：金陵晚报）
 publisherEn: China News Service (source: Jinling Evening News)

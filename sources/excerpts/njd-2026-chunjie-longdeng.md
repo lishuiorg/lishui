@@ -4,6 +4,7 @@ type: media
 title: 南京日报：龙灯卷起千重焰 马灯踏碎万声鼓
 titleEn: Nanjing Daily — Dragon lanterns and horse lanterns ring out at New Year
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 南京日报
 publisherEn: Nanjing Daily

@@ -4,6 +4,7 @@ type: archive
 title: 清·袁枚《随园食单·茶酒单》「溧阳乌饭酒」条
 titleEn: Yuan Mei, Recipes from the Sui Garden (Qing) — 「Liyang Wufan Wine」 in the Tea and Wine List
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清乾隆年间成书，袁枚撰；本次据中华典藏网络点校本《随园食单·茶酒单》
 publisherEn: Compiled by Yuan Mei in the Qianlong era of the Qing dynasty; read in the online punctuated edition at Zhonghua Diancang

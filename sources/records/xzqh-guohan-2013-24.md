@@ -4,6 +4,7 @@ type: gov
 title: 《国务院关于同意江苏省调整南京市部分行政区划的批复》（国函〔2013〕24 号）
 titleEn: State Council Reply Approving the Adjustment of Administrative Divisions in Nanjing (Guohan No. 24, 2013)
 rights: gov-open
+reliability: tertiary
 archive: link
 publisher: 国务院，2013 年 2 月 8 日；本站引用区划资料网站的转载页
 publisherEn: State Council, 8 February 2013; this site cites the reposted page on an administrative-divisions reference site

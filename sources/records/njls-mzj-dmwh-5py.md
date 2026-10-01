@@ -4,6 +4,7 @@ type: gov
 title: 溧水区民政局《关于对溧水区第五批地名文化遗产向社会公开征求意见的公告》
 titleEn: Civil Affairs Bureau of Lishui District — Notice Seeking Public Comment on the Fifth Batch of the District's Place-Name Cultural Heritage
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区民政局
 publisherEn: Civil Affairs Bureau of Lishui District, Nanjing

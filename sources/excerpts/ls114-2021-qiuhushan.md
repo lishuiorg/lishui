@@ -4,6 +4,7 @@ type: media
 title: 溧水114论坛帖《看溧水县志，品溧水地名之四十一（秋湖山）》
 titleEn: Lishui114 Forum — “Reading the Lishui Gazetteer, Glossing Lishui Place Names, No. 41: Qiuhu Mountain”
 rights: link-only
+reliability: tertiary
 archive: link
 publisher: 溧水114 网（中山文史版块，作者「希夷」）
 publisherEn: Lishui114 Forum, Lishui (Local History board, post by the user Xiyi)

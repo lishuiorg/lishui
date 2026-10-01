@@ -4,6 +4,7 @@ type: gov
 title: 线上线下 20 万人次围观！溧水雨中「飙龙舟」超燃
 titleEn: Lishui dragon-boat race draws 200,000 onlookers
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区融媒体中心
 publisherEn: Lishui District Media Centre, Nanjing

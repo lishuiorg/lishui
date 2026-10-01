@@ -4,6 +4,7 @@ type: gov
 title: 南京市水务局「石臼湖」
 titleEn: Nanjing Municipal Water Resources Bureau — Shijiu Lake
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市水务局
 publisherEn: Nanjing Municipal Water Resources Bureau

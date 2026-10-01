@@ -4,6 +4,7 @@ type: academic
 title: 复旦大学历史地理研究中心 CHGIS「中国历史地理信息系统」溧水／蒋州／丹阳郡／鄣郡／扬州等条目
 titleEn: Fudan University Center for Historical Geography, CHGIS — entries for Lishui, Jiangzhou, Danyang Commandery, Zhang Commandery and Yangzhou
 rights: excerpt-only
+reliability: secondary
 archive: link
 publisher: 复旦大学历史地理研究中心（与哈佛大学合作，CHGIS，许可 CC BY-NC 4.0）
 publisherEn: Center for Historical Geography, Fudan University (CHGIS, in cooperation with Harvard University; licensed CC BY-NC 4.0)

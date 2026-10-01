@@ -4,6 +4,7 @@ type: archive
 title: 明史（清·张廷玉等）
 titleEn: History of Ming (Ming Shi), compiled by Zhang Tingyu and others (Qing)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清张廷玉等撰，三百三十二卷；本次据网络点校本核读卷七十八「食货二·赋役」
 publisherEn: Compiled by Zhang Tingyu and others in the Qing dynasty, 332 juan; consulted in an online punctuated edition of juan 78, "Food and Money II: Taxes and Corvée"

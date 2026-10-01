@@ -4,6 +4,7 @@ type: gov
 title: 南京市人民政府网站《2024中国南京国际梅花节今天开幕 推出6条定制赏梅线路》
 titleEn: The People's Government of Nanjing — 2024 China Nanjing International Plum Blossom Festival Opens with Six Custom Plum-viewing Routes
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府网站（来源：南京日报）
 publisherEn: The People's Government of Nanjing

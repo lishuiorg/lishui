@@ -4,6 +4,7 @@ type: gazetteer
 title: 《汉书》卷二十八上·志第八上·地理志上（丹扬郡条）
 titleEn: Book of Han, juan 28A, Treatise 8A, "Geography, Part 1" (entry on Danyang Commandery)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 东汉班固撰；今据古文岛（原古诗文网）所载《汉书》全文本转录
 publisherEn: Compiled by Ban Gu (Eastern Han); transcribed from the full text posted by Gushiwen

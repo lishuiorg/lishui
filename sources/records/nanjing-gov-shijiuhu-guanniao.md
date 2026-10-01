@@ -4,6 +4,7 @@ type: gov
 title: 南京市人民政府网站《石臼湖变「天鹅湖」，池杉湖成「百鸟天堂」……游人纷纷打卡》
 titleEn: The People's Government of Nanjing — Shijiu Lake Turns into a "Swan Lake" as Visitors Flock to Watch Birds
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府网站（来源：南京日报）
 publisherEn: The People's Government of Nanjing

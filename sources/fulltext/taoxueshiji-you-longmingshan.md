@@ -4,6 +4,7 @@ type: gazetteer
 title: 《陶学士集》卷十七《游龙鸣山记》
 titleEn: Collected Works of Tao An, juan 17, "Record of a Visit to Longming Mountain"
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 明陶安撰；典藏网影印
 publisherEn: By Tao An (Ming); scan at diancang.xyz

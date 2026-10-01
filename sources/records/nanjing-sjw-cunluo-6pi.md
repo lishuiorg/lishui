@@ -4,6 +4,7 @@ type: heritage-list
 title: 南京市城乡建设委员会《我市七个村入选第六批江苏省传统村落名录》
 titleEn: Nanjing Municipal Commission of Housing and Urban-Rural Development — Seven Villages of the City Enter the Sixth Batch of Jiangsu Traditional Villages
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市城乡建设委员会
 publisherEn: Nanjing Municipal Commission of Housing and Urban-Rural Development

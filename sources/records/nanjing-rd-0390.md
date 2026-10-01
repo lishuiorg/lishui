@@ -4,6 +4,7 @@ type: gov
 title: 南京市人民政府对市十七届人大一次会议第0390号建议的答复
 titleEn: Nanjing Municipal People's Government — Reply to Suggestion No. 0390 of the First Session of the Seventeenth Municipal People's Congress
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府
 publisherEn: Nanjing Municipal People's Government

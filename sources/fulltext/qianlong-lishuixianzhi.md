@@ -4,6 +4,7 @@ type: gazetteer
 title: 乾隆《溧水县志》
 titleEn: Lishui County Gazetteer (Qianlong edition)
 rights: public-domain
+reliability: secondary
 archive: catalogued-only
 publisher: 清乾隆四十二年（1777）刻本，十六卷另卷首；凌世御修，方性存等纂
 publisherEn: Woodblock edition of 1777 (the forty-second year of the Qianlong era), 16 juan plus a prefatory juan; revised by Ling Shiyu, compiled by Fang Xingcun and others

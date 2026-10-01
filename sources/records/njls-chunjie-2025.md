@@ -4,6 +4,7 @@ type: gov
 title: 央媒高频聚焦！溧水年味分外浓
 titleEn: Lishui's Lunar New Year customs in the national media
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区融媒体中心
 publisherEn: Lishui District Media Centre, Nanjing

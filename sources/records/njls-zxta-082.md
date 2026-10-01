@@ -4,6 +4,7 @@ type: gov
 title: 溧水区水务局对区政协十一届四次会议第082号提案的答复（城区清水通道生态廊道综合管护）
 titleEn: Lishui District Water Affairs Bureau — Reply to Proposal No. 082 of the Fourth Session of the Eleventh CPPCC District Committee (Integrated Maintenance of the Urban Clear-Water Channel Ecological Corridor)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区水务局
 publisherEn: Lishui District Water Affairs Bureau, Nanjing

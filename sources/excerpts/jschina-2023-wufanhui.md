@@ -4,6 +4,7 @@ type: media
 title: 中国江苏网：来这里，寻味乌饭，共享民俗大餐
 titleEn: China Jiangsu Network — savouring black rice at the Chenguo festival
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 中国江苏网
 publisherEn: China Jiangsu Network

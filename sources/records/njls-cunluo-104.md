@@ -4,6 +4,7 @@ type: gov
 title: 对区十七届人大四次会议第104号建议的答复（传统村落）
 titleEn: Reply to Suggestion No. 104 of the Fourth Session of the Seventeenth District People's Congress (traditional villages)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区城乡建设局
 publisherEn: Lishui District Housing and Urban-Rural Development Bureau, Nanjing

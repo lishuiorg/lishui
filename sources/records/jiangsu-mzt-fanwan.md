@@ -4,6 +4,7 @@ type: gov
 title: 江苏省民政厅《南京 苏南反顽战役纪念馆》
 titleEn: Jiangsu Provincial Department of Civil Affairs — Memorial Hall of the Southern Jiangsu Counter-Diehard Campaign
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省民政厅
 publisherEn: Jiangsu Provincial Department of Civil Affairs

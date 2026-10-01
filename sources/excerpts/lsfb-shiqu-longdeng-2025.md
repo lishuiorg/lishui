@@ -4,6 +4,7 @@ type: media
 title: 溧水发布：30 条！溧水石湫群龙闹新春
 titleEn: Lishui Release — Thirty dragon lanterns of Shiqiu at New Year
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 溧水发布（中共南京市溧水区委宣传部官方澎湃号）
 publisherEn: Lishui Release (official account of the CPC Lishui District Committee Publicity Department)

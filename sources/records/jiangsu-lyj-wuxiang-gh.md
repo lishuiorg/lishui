@@ -4,6 +4,7 @@ type: gov
 title: 《南京无想山国家森林公园总体规划（2023—2035年）》
 titleEn: Master Plan for the Wuxiang Mountain National Forest Park, Nanjing (2023–2035)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省林业局
 publisherEn: Jiangsu Provincial Forestry Bureau

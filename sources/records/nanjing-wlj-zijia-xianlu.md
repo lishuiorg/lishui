@@ -4,6 +4,7 @@ type: gov
 title: 南京文旅信息服务平台《夏日悠长赴乡野！南京乡村自驾精品线路速收藏》（溧水区部分）
 titleEn: Nanjing Culture and Tourism Information Service Platform — Rural Self-drive Routes in Nanjing (Lishui Section)
 rights: gov-open
+reliability: secondary
 archive: link
 publisher: 南京市文化和旅游信息中心（南京文旅信息服务平台）
 publisherEn: Information Centre for Culture and Tourism of Nanjing

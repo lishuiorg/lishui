@@ -4,6 +4,7 @@ type: gov
 title: 溧水区水务局、晶桥镇政府对区十七届人大一次会议第038号建议的办理答复（提升赭山头水库周边环境）
 titleEn: Lishui District Water Affairs Bureau and Jingqiao Town Government — Reply to Suggestion No. 038 (Improving the Environment around Zheshantou Reservoir)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区水务局、南京市溧水区晶桥镇人民政府
 publisherEn: Lishui District Water Affairs Bureau and Jingqiao Town People's Government, Nanjing

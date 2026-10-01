@@ -4,6 +4,7 @@ type: gov
 title: 溧水区水污染防治行动计划2018年度实施方案
 titleEn: Lishui District Water Pollution Prevention and Control Action Plan, 2018 Annual Implementation Scheme
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府办公室
 publisherEn: General Office of the People's Government of Lishui District, Nanjing

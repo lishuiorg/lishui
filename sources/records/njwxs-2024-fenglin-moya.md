@@ -4,6 +4,7 @@ type: gov
 title: 南京无想山景区《无想史迹｜柒 石头上的印记之凤林摩崖》
 titleEn: Wuxiang Mountain Scenic Area — Footprints Carved in Stone: the Fenglin Cliff Inscriptions
 rights: gov-open
+reliability: tertiary
 archive: link
 publisher: 南京无想山景区管理方（njwxs.njlszw.cn）
 publisherEn: Wuxiang Mountain Scenic Area, Lishui, Nanjing

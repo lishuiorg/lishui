@@ -4,6 +4,7 @@ type: archive
 title: 古籍书库网「溧水县志」版本著录
 titleEn: Gujishuku — Catalogue Entries for the Lishui County Gazetteer
 rights: link-only
+reliability: tertiary
 archive: link
 publisher: 古籍书库网
 publisherEn: Gujishuku (antiquarian catalogue site)

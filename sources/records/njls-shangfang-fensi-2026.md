@@ -4,6 +4,7 @@ type: gov
 title: 千年银杏下的振兴答卷——溧水区上方村党建引领产业兴、治理优、民风淳
 titleEn: A millennium-old ginkgo: Shangfang village of Lishui
 rights: gov-open
+reliability: tertiary
 archive: link
 publisher: 南京市社会工作（稿源：溧水区委社会工作部）
 publisherEn: Nanjing Social Work (source: Lishui District CPC Committee Social Work Department)

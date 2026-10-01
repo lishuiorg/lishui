@@ -4,6 +4,7 @@ type: gov
 title: 南京市规划和自然资源局《自然资源登记簿：赭山头水库》
 titleEn: Nanjing Municipal Planning and Natural Resources Bureau — Natural Resource Register: Zheshantou Reservoir
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市规划和自然资源局
 publisherEn: Nanjing Municipal Planning and Natural Resources Bureau

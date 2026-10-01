@@ -4,6 +4,7 @@ type: archive
 title: 抗战记忆——新四军新桥会师
 titleEn: Wartime Memories — the Rally of the New Fourth Army at Xinqiao
 rights: gov-open
+reliability: secondary
 archive: link
 publisher: 中共南京市委党史办（南京市委党史研究室）网站，作者卞新宏
 publisherEn: CPC Nanjing Municipal Party History Office, author Bian Xinhong

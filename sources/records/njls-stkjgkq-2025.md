@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区人民政府《南京市溧水区生态空间管控区域评估优化方案（征求意见稿）》
 titleEn: People's Government of Lishui District, Nanjing — Plan for Evaluation and Optimization of Ecological Space Control Areas in Lishui District (Draft for Comment)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府（南京市规划和自然资源局溧水分局承办）
 publisherEn: People's Government of Lishui District, Nanjing (prepared by the Lishui Branch, Nanjing Municipal Planning and Natural Resources Bureau)

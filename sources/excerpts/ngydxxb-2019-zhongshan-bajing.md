@@ -4,6 +4,7 @@ type: academic
 title: 杨苏、凌倩莹《江苏清代地方志中南京溧水园林图像研究》
 titleEn: Yang Su and Ling Qianying, “A Study of Landscape Images of Lishui Gardens in Qing-Dynasty Jiangsu Local Gazetteers”
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 《南京林业大学学报（社会科学版）》2019 年第 22 卷第 3 期，页 32—34，DOI 前缀 1005-7897(2019)22-0032-03
 publisherEn: Journal of Nanjing Forestry University (Social Sciences), vol. 22, no. 3 (2019), pp. 32–34

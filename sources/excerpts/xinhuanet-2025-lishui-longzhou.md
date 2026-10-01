@@ -4,6 +4,7 @@ type: media
 title: 新华网江苏：粽情溧水，乐享端午！南京溧水端午活动抢先看
 titleEn: Xinhua Jiangsu — Lishui Dragon Boat Festival activities
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 新华网江苏频道（稿源：溧水区委宣传部）
 publisherEn: Xinhua News Agency, Jiangsu Channel (source: Publicity Department of the CPC Lishui District Committee)

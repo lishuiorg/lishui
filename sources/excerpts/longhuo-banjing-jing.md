@@ -4,6 +4,7 @@ type: media
 title: 金陵百家《南京的井｜溧水的古井》
 titleEn: Jinling Baijia — The Wells of Nanjing: Ancient Wells in Lishui
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 金陵百家（龙虎网大观南京专题）
 publisherEn: Jinling Baijia, Longhoo Net

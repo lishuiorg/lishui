@@ -4,6 +4,7 @@ type: gazetteer
 title: 嘉靖《南畿志》卷五·郡县志二·建牧（应天府属县职官，溧水、高淳）
 titleEn: Nan Ji Zhi (Gazetteer of the Southern Capital Region, Jiajing edition), juan 5, "Prefectural and County Records II: Officials" — the subordinate counties of Yingtian Prefecture (Lishui and Gaochun)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 明陈沂纂，嘉靖十三年（1534）成书；今据中华典藏所载《南畿志》文本转录
 publisherEn: Compiled by Chen Yi (Ming), completed in 1534; transcribed from the Nan Ji Zhi text posted by Zhonghua Diancang

@@ -4,6 +4,7 @@ type: heritage-list
 title: 溧水区第四批区级非遗保护项目和非遗传承人公示名录
 titleEn: Lishui District fourth batch of district-level ICH items and bearers (public notice)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府
 publisherEn: Lishui District People's Government, Nanjing

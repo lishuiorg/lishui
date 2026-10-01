@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府「永阳街道」概况页
 titleEn: Yongyang Subdistrict — Lishui District People's Government
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府
 publisherEn: Lishui District People's Government, Nanjing

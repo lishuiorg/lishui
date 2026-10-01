@@ -4,6 +4,7 @@ type: academic
 title: 朱琼臻《芜湖铁画初探——从铁画艺术的沉浮看中国传统文化之传承》（厦门大学硕士学位论文，2009）
 titleEn: Zhu Qiongzhen, A Preliminary Study of Wuhu Iron Painting (master's thesis, Xiamen University, 2009)
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 厦门大学
 publisherEn: Xiamen University

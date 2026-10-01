@@ -4,6 +4,7 @@ type: gov
 title: 南京无想山景区「历史名人篇｜访无想胜迹，探百年传奇」
 titleEn: Wuxiang Mountain Scenic Area — historic figures and the mountain's old sites
 rights: gov-open
+reliability: tertiary
 archive: link
 publisher: 南京无想山景区
 publisherEn: Wuxiang Mountain Scenic Area, Nanjing

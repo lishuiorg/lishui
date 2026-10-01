@@ -4,6 +4,7 @@ type: archive
 title: 吴中水利全书·卷十九（明·张国维）
 titleEn: Complete Book of Water Conservancy in the Wu Region, juan 19, compiled by Zhang Guowei (Ming)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 明张国维撰，二十八卷；本次据四库全书本网络转录核读卷十九「考」所收韩邦宪《广通坝考》
 publisherEn: Compiled by Zhang Guowei in the Ming dynasty, 28 juan; consulted in an online transcription of the Siku Quanshu edition, juan 19, which includes Han Bangxian's "Study of the Guangtong Dam"

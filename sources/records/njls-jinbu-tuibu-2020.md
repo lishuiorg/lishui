@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区人民政府《关于全面推进长江流域溧水重点水域禁捕退捕工作实施方案》（溧政发〔2020〕75号）
 titleEn: People's Government of Lishui District, Nanjing — Implementation Plan for the Comprehensive Ban on Fishing and Fishermen's Withdrawal from Fishing in Key Waters of the Yangtze River Basin in Lishui (Lu Zheng Fa [2020] No. 75)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府
 publisherEn: People's Government of Lishui District, Nanjing

@@ -4,6 +4,7 @@ type: gov
 title: 2024 吴村桥和美乡村乌饭会举办
 titleEn: The 2024 Wufan festival at Wucunqiao
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区和凤镇人民政府
 publisherEn: Hefeng Town People's Government, Lishui District, Nanjing

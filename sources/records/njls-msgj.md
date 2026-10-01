@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府网站「名胜古迹」
 titleEn: Lishui District People's Government — Historic Sites
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府
 publisherEn: People's Government of Lishui District, Nanjing

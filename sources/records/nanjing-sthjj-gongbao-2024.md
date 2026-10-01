@@ -4,6 +4,7 @@ type: gov
 title: 南京市生态环境局《2024年南京市生态环境状况公报》
 titleEn: Nanjing Municipal Ecology and Environment Bureau — 2024 Nanjing Ecological and Environmental Status Bulletin
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市生态环境局
 publisherEn: Nanjing Municipal Ecology and Environment Bureau

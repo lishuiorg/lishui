@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区文化和旅游局对区政协十一届一次会议第096号提案的办理答复
 titleEn: Lishui District Culture and Tourism Bureau, Nanjing — Reply to Proposal No. 096 of the First Session of the Eleventh District CPPCC
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区文化和旅游局
 publisherEn: Lishui District Culture and Tourism Bureau, Nanjing

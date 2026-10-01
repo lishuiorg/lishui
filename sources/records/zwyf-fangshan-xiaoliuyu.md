@@ -4,6 +4,7 @@ type: academic
 title: 刘纯等《乡村小流域不同土壤景观表土有机质团聚体分布与分子组成变化》
 titleEn: Liu Chun et al. — Changes in Aggregate Distribution and Molecular Composition of Organic Matter of Topsoil across Soil Landscapes within a Small Watershed in a Rural Area
 rights: excerpt-only
+reliability: secondary
 archive: link
 publisher: 《植物营养与肥料学报》编辑部
 publisherEn: Journal of Plant Nutrition and Fertilizers (editorial office)

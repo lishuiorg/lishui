@@ -4,6 +4,7 @@ type: gov
 title: 雨花台烈士陵园《中山烈士陵园》
 titleEn: Yuhuatai Martyrs' Cemetery — Zhongshan Martyrs' Cemetery
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市雨花台烈士陵园管理局
 publisherEn: Administration of the Yuhuatai Martyrs' Cemetery, Nanjing

@@ -4,6 +4,7 @@ type: gov
 title: 南京市人民政府《关于批转市规划局南京市生态绿地保护管理规定的通知》
 titleEn: Nanjing Municipal People's Government — Notice on the Regulations on the Protection and Management of Ecological Green Space in Nanjing
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府
 publisherEn: Nanjing Municipal People's Government

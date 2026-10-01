@@ -4,6 +4,7 @@ type: gazetteer
 title: 虞庆《重建寻仙观记》（南宋咸淳九年，1273）
 titleEn: Yu Qing, Record on the Rebuilding of Xunxian Temple (1273)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 南宋虞庆撰；今据《全宋文》卷八二八六，并见康熙《溧水县志》卷之八《艺文志》、光绪《溧水县志》卷十七
 publisherEn: Written by Yu Qing in 1273; now consulted in Quan Song Wen, juan 8286, and in the Kangxi and Guangxu editions of the Lishui County Gazetteer

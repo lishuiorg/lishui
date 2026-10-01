@@ -4,6 +4,7 @@ type: media
 title: 澎湃新闻《500 多年了！溧水这座历史地标建筑有新动作》
 titleEn: The Paper — A 500-Year-Old Landmark in Lishui
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 澎湃新闻
 publisherEn: The Paper

@@ -4,6 +4,7 @@ type: academic
 title: 郭骏《溧水境内吴方言与江淮方言的分界》（《南京社会科学》1995 年第 6 期）
 titleEn: Guo Jun, "The Boundary between Wu and Jianghuai Dialects in Lishui" (Nanjing Journal of Social Sciences, 1995, no. 6)
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 郭骏；《南京社会科学》1995 年第 6 期，67—71 页
 publisherEn: Guo Jun; Nanjing Journal of Social Sciences, 1995, no. 6, pp. 67-71

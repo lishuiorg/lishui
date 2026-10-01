@@ -4,6 +4,7 @@ type: gov
 title: 中国非物质文化遗产网「芜湖铁画锻制技艺」项目页
 titleEn: Wuhu Iron Painting Forging — project page, China Intangible Cultural Heritage Network
 rights: gov-open
+reliability: secondary
 archive: link
 publisher: 中国非物质文化遗产网
 publisherEn: China Intangible Cultural Heritage Network

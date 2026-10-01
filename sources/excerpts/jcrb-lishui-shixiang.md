@@ -4,6 +4,7 @@ type: media
 title: 正义网：在溧水，拾撷一脉诗香
 titleEn: Justice Network — a vein of poetry in Lishui
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 正义网（检察日报社）
 publisherEn: Justice Network (Procuratorial Daily)

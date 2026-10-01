@@ -4,6 +4,7 @@ type: gov
 title: 南京市民政局《关于南京市地名文化遗产保护名录（第二批）的公示》
 titleEn: Nanjing Municipal Civil Affairs Bureau — Public Notice of the Second Batch of the Nanjing Place-Name Cultural Heritage List
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市民政局
 publisherEn: Nanjing Municipal Civil Affairs Bureau

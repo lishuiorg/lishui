@@ -4,6 +4,7 @@ type: heritage-list
 title: 南京旅游网非遗名录页（第一批南京市非遗）
 titleEn: Nanjing tourism portal — list of municipal ICH items (first batch)
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 南京旅游网
 publisherEn: Nanjing Tourism Portal

@@ -4,6 +4,7 @@ type: gov
 title: 南京市规划和自然资源局公布《溧水区洪蓝街道仓口村保护发展规划》（政务发布）
 titleEn: Nanjing Municipal Planning and Natural Resources Bureau — Cangkou Village Conservation Plan, Honglan, Lishui
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市规划和自然资源局（经「溧水发布」政务账号发布）
 publisherEn: Nanjing Municipal Planning and Natural Resources Bureau, published by the Lishui District publicity office

@@ -4,6 +4,7 @@ type: gov
 title: 南京无想山景区《韩熙载读书台挂牌「世界文学之都地标」》
 titleEn: Wuxiang Mountain Scenic Area — Han Xizai's Reading Terrace Designated a Landmark of the City of Literature
 rights: gov-open
+reliability: tertiary
 archive: link
 publisher: 南京无想山景区管理方
 publisherEn: Wuxiang Mountain Scenic Area, Nanjing

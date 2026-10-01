@@ -4,6 +4,7 @@ type: gazetteer
 title: 光绪《溧水县志》
 titleEn: Lishui County Gazetteer (Guangxu edition)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清光绪年间刻本，二十二卷首一卷；傅观光修，丁维诚纂
 publisherEn: Guangxu-period woodblock edition, 22 juan with 1 prefatory juan; revised by Fu Guangguang, compiled by Ding Weicheng

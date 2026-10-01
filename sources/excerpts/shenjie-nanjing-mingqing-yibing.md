@@ -4,6 +4,7 @@ type: academic
 title: 沈劼《明清南京地区疫病流行及相关因素研究》（《南京中医药大学学报（社会科学版）》2023 年第 24 卷第 2 期）
 titleEn: Shen Jie, "Epidemic Diseases and Related Factors in Nanjing during the Ming and Qing Dynasties", Journal of Nanjing University of Chinese Medicine (Social Science Edition) 2023, 24(2)
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 沈劼（南京中医药大学中医药文献研究所），《南京中医药大学学报（社会科学版）》2023 年第 24 卷第 2 期，71—77 页；DOI 10.20060/j.cnki.ISSN1009-3222.2023.0071
 publisherEn: Shen Jie (Institute of Literature in Chinese Medicine, Nanjing University of Chinese Medicine), Journal of Nanjing University of Chinese Medicine (Social Science Edition) 2023, 24(2): 71–77; DOI 10.20060/j.cnki.ISSN1009-3222.2023.0071

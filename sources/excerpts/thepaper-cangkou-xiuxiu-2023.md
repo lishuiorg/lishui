@@ -4,6 +4,7 @@ type: media
 title: 溧水融媒体《溧水这 2 座百年古祠即将焕发新生机》
 titleEn: Lishui Media — Two Century-Old Ancestral Halls in Cangkou to Be Restored
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 溧水融媒体（今日头条账号发布）
 publisherEn: Lishui District Media

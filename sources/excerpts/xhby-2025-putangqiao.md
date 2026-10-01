@@ -4,6 +4,7 @@ type: media
 title: 新华报业网《时光宝筑｜蒲塘桥：九孔连波串起六百年文脉》
 titleEn: Xinhua Daily Media — Putang Bridge, Nine Arches across Six Centuries
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 新华报业网（交汇点新闻，图片来源：溧水发布）
 publisherEn: Xinhua Daily Media Network (Jiaohuidian News)

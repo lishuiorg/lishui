@@ -4,6 +4,7 @@ type: gov
 title: 溧水区永阳街道《永阳街道秦淮路社区开展“巾帼风采，花艺盛宴”插花主题活动》
 titleEn: Yongyang Subdistrict Office — flower-arranging activity at Qinhuai Road Community
 rights: gov-open
+reliability: secondary
 archive: link
 publisher: 南京市溧水区永阳街道办事处
 publisherEn: Yongyang Subdistrict Office, Lishui District, Nanjing

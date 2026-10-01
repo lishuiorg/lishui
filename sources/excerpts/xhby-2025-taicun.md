@@ -4,6 +4,7 @@ type: media
 title: 新华报业网《溧水晶桥镇邰村：千年古韵融合现代农业 绘就乡村振兴新画卷》
 titleEn: Xinhua Daily Media Network — Tai Village, Jingqiao Town, Lishui: an Ancient Village Blending Heritage and Modern Farming
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 新华报业网（交汇点新闻）
 publisherEn: Xinhua Daily Media Network (Jiaohuidian News)

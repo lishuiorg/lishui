@@ -4,6 +4,7 @@ type: media
 title: 留住最美乡愁！江苏首批省级传统村落名单公布！溧水这4个地方上榜（澎湃新闻，2020-04-08）
 titleEn: Keeping the Most Beautiful Nostalgia: The First Batch of Traditional Villages of Jiangsu Announced, Four Places in Lishui Listed (The Paper, 2020-04-08)
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 澎湃新闻
 publisherEn: The Paper

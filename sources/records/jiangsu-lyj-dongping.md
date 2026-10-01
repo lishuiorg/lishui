@@ -4,6 +4,7 @@ type: gov
 title: 江苏省林业局《关于同意建立溧水东屏湖省级湿地公园的批复》（苏林湿〔2019〕10号）
 titleEn: Jiangsu Provincial Forestry Bureau — Approval on Establishing the Dongping Lake Provincial Wetland Park in Lishui (Su Lin Shi [2019] No. 10)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省林业局
 publisherEn: Jiangsu Provincial Forestry Bureau

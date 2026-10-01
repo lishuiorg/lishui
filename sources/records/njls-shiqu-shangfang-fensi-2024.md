@@ -4,6 +4,7 @@ type: gov
 title: 石湫街道上方村：小粉丝「牵」出大产业
 titleEn: Shangfang village, Shiqiu — sweet potato noodles become an industry
 rights: gov-open
+reliability: secondary
 archive: link
 publisher: 南京市溧水区石湫街道办事处
 publisherEn: Shiqiu Subdistrict Office, Lishui District, Nanjing

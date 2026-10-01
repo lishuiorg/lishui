@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府对区政协十一届二次会议第061号提案的办理答复
 titleEn: Lishui District People's Government — Reply to Proposal No. 061 of the Second Session of the Eleventh District CPPCC
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区文化和旅游局、南京溧水产业投资控股集团有限公司
 publisherEn: Lishui District Culture and Tourism Bureau, Nanjing; Nanjing Lishui Industrial Investment Holding Group

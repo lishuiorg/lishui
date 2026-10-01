@@ -4,6 +4,7 @@ type: heritage-list
 title: 我市5个传统村落入选省级名单（第八批江苏省传统村落）
 titleEn: Five Traditional Villages of Nanjing Listed at the Provincial Level (Eighth Batch of Traditional Villages of Jiangsu)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府
 publisherEn: Nanjing Municipal People's Government

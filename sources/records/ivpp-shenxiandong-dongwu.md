@@ -4,6 +4,7 @@ type: academic
 title: 李炎贤、雷次玉《江苏溧水神仙洞发现的动物化石》
 titleEn: Li Yanxian & Lei Ciyu — Fossil Mammals from the Shenxian Cave, Lishui, Jiangsu
 rights: excerpt-only
+reliability: secondary
 archive: link
 publisher: 中国科学院古脊椎动物与古人类研究所《古脊椎动物与古人类》
 publisherEn: Vertebrata PalAsiatica, Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences

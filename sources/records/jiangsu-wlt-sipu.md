@@ -4,6 +4,7 @@ type: gov
 title: 江苏省文化和旅游厅《跟着「四普」探寻南京历史遗迹》
 titleEn: Jiangsu Provincial Department of Culture and Tourism — Tracing Nanjing's Historic Remains with the Fourth National Survey
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省文化和旅游厅
 publisherEn: Jiangsu Provincial Department of Culture and Tourism

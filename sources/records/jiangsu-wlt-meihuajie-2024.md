@@ -4,6 +4,7 @@ type: gov
 title: 江苏省文化和旅游厅《「龙腾中国『梅』好南京」2024中国南京国际梅花节开幕》
 titleEn: Jiangsu Provincial Department of Culture and Tourism — 2024 China Nanjing International Plum Blossom Festival Opens
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省文化和旅游厅（信息来源：南京市文化和旅游局）
 publisherEn: Jiangsu Provincial Department of Culture and Tourism

@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区人民政府办公室《2023年区政府十大主要任务百项重点工作分工方案》（溧政办发〔2023〕3号）
 titleEn: General Office, People's Government of Lishui District, Nanjing — Division of Work Scheme for the Ten Major Tasks and One Hundred Key Tasks of the District Government in 2023 (Lu Zheng Ban Fa [2023] No. 3)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府办公室
 publisherEn: General Office, People's Government of Lishui District, Nanjing

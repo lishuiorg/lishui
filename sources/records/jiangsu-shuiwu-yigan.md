@@ -4,6 +4,7 @@ type: gov
 title: 江苏省水利厅行政许可信息公示（一干河河道治理工程）
 titleEn: Jiangsu Provincial Department of Water Resources — Administrative Licensing Disclosure (Yigan River Regulation Project)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省水利厅
 publisherEn: Jiangsu Provincial Department of Water Resources

@@ -4,6 +4,7 @@ type: gazetteer
 title: 唐许嵩《建康实录》卷第一·吴上（秦淮条）
 titleEn: Xu Song (Tang), Jiankang Shilu, juan 1, "Wu, Part 1" (the Qinhuai entry)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 唐许嵩撰；今据爱文言（iwenyan.com）所载《建康实录》序及卷第一试读页核读
 publisherEn: By Xu Song (Tang); consulted in the preface and the previewed juan 1 of the Jiankang Shilu posted by iwenyan.com

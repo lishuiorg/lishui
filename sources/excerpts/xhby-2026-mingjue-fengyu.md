@@ -4,6 +4,7 @@ type: media
 title: 新华报业·交汇点《新春走基层｜这条鱼，就这样从南京“游”到了北京》
 titleEn: Xinhua Daily Media Group, Jiaohuidian — the wind-dried fish that travelled from Nanjing to Beijing
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 新华报业网·交汇点新闻
 publisherEn: Xinhua Daily Media Group (Jiaohuidian News)

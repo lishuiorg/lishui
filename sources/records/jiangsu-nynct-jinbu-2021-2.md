@@ -4,6 +4,7 @@ type: gov
 title: 江苏省农业农村厅《关于南京市滁河、水阳江、秦淮河、石臼湖水域禁捕的通告》（苏农规〔2021〕2号）
 titleEn: Jiangsu Provincial Department of Agriculture and Rural Affairs — Notice on the Fishing Ban in the Chuhe, Shuiyangjiang, Qinhuaihe and Shijiuhu Waters of Nanjing (Su Nong Gui [2021] No. 2)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省农业农村厅
 publisherEn: Jiangsu Provincial Department of Agriculture and Rural Affairs

@@ -4,6 +4,7 @@ type: academic
 title: 李丽、夏慧《南京城墙博物馆溧水孔庙历史照片的发现与辨析》（《档案天地》2025 年第 12 期）
 titleEn: Li Li and Xia Hui, "Discovery and Analysis of a Historical Photograph of the Lishui Confucian Temple" (Dang'an Tiandi, 2025, no. 12)
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 李丽、夏慧（南京城墙保护管理中心）；《档案天地》2025 年第 12 期，12—15 页
 publisherEn: Li Li and Xia Hui (Nanjing City Wall Protection and Management Centre); Dang'an Tiandi, 2025, no. 12, pp. 12-15

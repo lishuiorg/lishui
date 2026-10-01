@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府《2024南京溧水草莓节发布会举行》
 titleEn: The People's Government of Lishui District, Nanjing — 2024 Nanjing Lishui Strawberry Festival Launch Conference
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府
 publisherEn: People's Government of Lishui District, Nanjing

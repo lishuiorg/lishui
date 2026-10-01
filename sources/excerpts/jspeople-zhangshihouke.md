@@ -4,6 +4,7 @@ type: media
 title: 人民网江苏频道：江苏累计建成基层五级中医馆 266 个
 titleEn: People's Daily Online Jiangsu — Zhang Family Throat Clinic of Zhetang
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 人民网江苏频道
 publisherEn: People's Daily Online, Jiangsu

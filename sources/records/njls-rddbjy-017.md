@@ -4,6 +4,7 @@ type: gov
 title: 溧水区水务局对区十七届人大四次会议第017号建议的答复
 titleEn: Lishui District Water Resources Bureau — Reply to Suggestion No. 017 of the Fourth Session of the Seventeenth District People's Congress
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区水务局
 publisherEn: Lishui District Water Resources Bureau, Nanjing

@@ -4,6 +4,7 @@ type: gov
 title: 溧水区民政局《溧水区地名文化遗产（第一批）公示》
 titleEn: Civil Affairs Bureau of Lishui District — Public Notice of the First Batch of Place-Name Cultural Heritage
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区民政局（溧水区地名工作委员会办公室）
 publisherEn: Civil Affairs Bureau of Lishui District, Nanjing

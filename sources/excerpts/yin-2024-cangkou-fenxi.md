@@ -4,6 +4,7 @@ type: academic
 title: 殷昊成《传统农村社区环境治理的内生动力分析——基于溧水区仓口古村的案例调查》
 titleEn: Yin Haocheng, Endogenous Drivers of Environmental Governance in Traditional Rural Communities: A Case Study of Cangkou, Lishui
 rights: gov-open
+reliability: secondary
 archive: link
 publisher: 《社会科学前沿》2024 年第 13 卷第 12 期，页 573—580；汉斯出版社，CC BY 4.0
 publisherEn: Advances in Social Sciences, vol. 13 no. 12 (2024), pp. 573-580, Hans Publishers, CC BY 4.0

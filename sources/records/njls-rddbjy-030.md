@@ -4,6 +4,7 @@ type: gov
 title: 溧水区水务局对区十七届人大四次会议第030号建议的答复（石臼湖迎水坡护坡维修加固）
 titleEn: Lishui District Water Affairs Bureau — Reply to Suggestion No. 030 of the Fourth Session of the Seventeenth District People's Congress (Repair and Reinforcement of the Shijiu Lake Upstream Slope)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区水务局
 publisherEn: Lishui District Water Affairs Bureau, Nanjing

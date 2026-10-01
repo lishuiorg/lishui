@@ -4,6 +4,7 @@ type: media
 title: 中国江苏网转《南京日报》《南京：5 个小城镇正试点建设省级样板》
 titleEn: China Jiangsu Net reprinting Nanjing Daily — Five Small Towns Piloting the Provincial Model
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 中国江苏网（转载《南京日报》，记者缪越）
 publisherEn: China Jiangsu Net, reprinting Nanjing Daily (reporter Miao Yue)

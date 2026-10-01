@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府对区政协十一届二次会议第058号提案的办理答复
 titleEn: Lishui District People's Government — Reply to Proposal No. 058 of the Second Session of the Eleventh District CPPCC
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府
 publisherEn: People's Government of Lishui District, Nanjing

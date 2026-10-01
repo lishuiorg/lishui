@@ -4,6 +4,7 @@ type: gov
 title: 江苏省文化和旅游厅《国内仅此一座：沟通南京与两浙的天生桥》
 titleEn: Jiangsu Provincial Department of Culture and Tourism — The Tiansheng Bridge
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省文化和旅游厅
 publisherEn: Jiangsu Provincial Department of Culture and Tourism

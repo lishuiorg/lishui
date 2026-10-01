@@ -4,6 +4,7 @@ type: media
 title: 江苏国际在线：人文史话丨南京溧水——白居易与溧水的渊源
 titleEn: Jiangsu International Online — Bai Juyi and Lishui
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 江苏国际在线（来源：学习强国江苏平台）
 publisherEn: Jiangsu International Online (source: Xuexi Qiangguo Jiangsu)

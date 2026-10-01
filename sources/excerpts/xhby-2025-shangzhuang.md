@@ -4,6 +4,7 @@ type: media
 title: 新华报业网《省级传统村落名单公布，溧水区洪蓝街道上庄村入选！》
 titleEn: Xinhua Daily Media Network — Shangzhuang Village in Honglan Subdistrict, Lishui, Enters the Provincial Traditional Village List
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 新华报业网（交汇点新闻）
 publisherEn: Xinhua Daily Media Network (Jiaohuidian News)

@@ -4,6 +4,7 @@ type: gazetteer
 title: 《大明会典》卷二十二·仓庾二（预备仓条）
 titleEn: The Great Ming Code of Administrative Institutions (Da Ming Hui Dian), juan 22, "Granaries II" (the reserve-granary entry)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 明李东阳等纂；今据仁者国学所载《大明会典》文本转录
 publisherEn: Compiled by Li Dongyang and others (Ming); transcribed from the Da Ming Hui Dian text posted by Renzhe Guoxue

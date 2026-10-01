@@ -4,6 +4,7 @@ type: media
 title: 溧水发布（澎湃号·政务）《溧水的桥，你知多少？》
 titleEn: Lishui Release (The Paper, official account) — The Bridges of Lishui
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 溧水发布（中共南京市溧水区委宣传部 澎湃号）
 publisherEn: Lishui Release, CPC Lishui District Committee Publicity Department, on The Paper

@@ -4,6 +4,7 @@ type: archive
 title: 元史（明·宋濂等）
 titleEn: History of Yuan (Yuan Shi), compiled by Song Lian and others (Ming)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 明宋濂等撰，二百一十卷；本次据四库全书本网络转录核读卷十二、卷六十二及《食货志·岁课》《阿剌罕传》
 publisherEn: Compiled by Song Lian and others in the Ming dynasty, 210 juan; consulted in online transcriptions of the Siku Quanshu edition (juan 12, juan 62, the "Annual Taxes" section of the Treatise on Food and Money, and the biography of Alahan)

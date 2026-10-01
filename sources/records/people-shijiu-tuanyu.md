@@ -4,6 +4,7 @@ type: media
 title: 人民网《南京「天空之镜」石臼湖成「天鹅湖」》
 titleEn: People's Daily Online — Nanjing's "Mirror of the Sky" Shijiu Lake Becomes a "Swan Lake"
 rights: link-only
+reliability: secondary
 archive: link
 publisher: 人民网江苏频道
 publisherEn: People's Daily Online, Jiangsu Channel

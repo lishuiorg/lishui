@@ -4,6 +4,7 @@ type: heritage-list
 title: 市政府关于公布第四批南京市文物保护单位的通知（宁政发〔2012〕67号）
 titleEn: Notice on Publishing the Fourth Batch of Nanjing Municipal Cultural Relic Protection Sites (Ning Zheng Fa [2012] No. 67)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府
 publisherEn: Nanjing Municipal People's Government

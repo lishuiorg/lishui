@@ -4,6 +4,7 @@ type: media
 title: 南京日报：蒲塘桥庙会藏着 600 年的江南烟火
 titleEn: Nanjing Daily — the Putang Bridge temple fair
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 南京日报
 publisherEn: Nanjing Daily

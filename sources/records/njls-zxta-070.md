@@ -4,6 +4,7 @@ type: gov
 title: 溧水区水务局对区政协十一届三次会议第070号提案的办理答复（石臼湖在保护中开发）
 titleEn: Lishui District Water Affairs Bureau — Reply to Proposal No. 070 of the Third Session of the Eleventh District CPPCC (Protection and Development of Shijiu Lake)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区水务局
 publisherEn: Lishui District Water Affairs Bureau, Nanjing

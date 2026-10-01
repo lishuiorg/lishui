@@ -4,6 +4,7 @@ type: academic
 title: 李荣《汉语方言分区的几个问题》（《方言》1985 年第 2 期）
 titleEn: Li Rong, "Some Problems in the Classification of Chinese Dialects" (Fangyan, 1985, no. 2)
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 李荣；《方言》1985 年第 2 期
 publisherEn: Li Rong; Fangyan (Dialect), 1985, no. 2

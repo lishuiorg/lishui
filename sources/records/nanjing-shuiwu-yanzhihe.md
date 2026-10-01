@@ -4,6 +4,7 @@ type: gov
 title: 南京市水务局关于胭脂河（天生桥河）的专题文章
 titleEn: Nanjing Municipal Water Resources Bureau — On the Yanzhi River
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市水务局
 publisherEn: Nanjing Municipal Water Resources Bureau

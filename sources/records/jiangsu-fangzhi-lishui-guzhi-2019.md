@@ -4,6 +4,7 @@ type: archive
 title: 江苏省地方志工作办公室「旧志整理与出版」专栏（含《〔康熙〕溧水县志》点校本与《民国溧水资料备览》出版记录）
 titleEn: Jiangsu Provincial Office of Local Gazetteers, Column on the Collation and Publication of Old Gazetteers (including the punctuated Kangxi Lishui Gazetteer and the publication record of the Republican-period Lishui source reader)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省地方志工作办公室
 publisherEn: Jiangsu Provincial Office of Local Gazetteers

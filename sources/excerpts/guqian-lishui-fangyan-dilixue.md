@@ -4,6 +4,7 @@ type: academic
 title: 顾黔《江苏溧水方言地理学研究》（《南京社会科学》2006 年第 1 期）
 titleEn: Gu Qian, "A Geolinguistic Study of the Lishui Dialect, Jiangsu" (Nanjing Journal of Social Sciences, 2006, no. 1)
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 顾黔（南京大学中文系）；《南京社会科学》2006 年第 1 期，108—113 页
 publisherEn: Gu Qian (Nanjing University); Nanjing Journal of Social Sciences, 2006, no. 1, pp. 108-113

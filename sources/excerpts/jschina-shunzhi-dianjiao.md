@@ -4,6 +4,7 @@ type: media
 title: 中国江苏网：点校版《溧水县志》（顺治志）出版发行，并记溧水历代县志存世五种
 titleEn: China Jiangsu Net — a punctuated edition of the Shunzhi Lishui gazetteer, and the five surviving editions
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 中国江苏网（来源：南京日报）
 publisherEn: China Jiangsu Net (source: Nanjing Daily)

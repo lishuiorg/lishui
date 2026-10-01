@@ -4,6 +4,7 @@ type: gov
 title: 南京溧水石湫街道：非遗舞龙闹新春 冬训联盟启新程
 titleEn: Nanjing Lishui Shiqiu Subdistrict — ICH dragon dance at New Year
 rights: gov-open
+reliability: secondary
 archive: link
 publisher: 南京市溧水区石湫街道办事处（稿载于中国江苏网）
 publisherEn: Shiqiu Subdistrict Office, Lishui District, Nanjing

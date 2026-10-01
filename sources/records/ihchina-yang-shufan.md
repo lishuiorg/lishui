@@ -4,6 +4,7 @@ type: gov
 title: 中国非物质文化遗产网「杨书范」代表性传承人页
 titleEn: Yang Shufan — representative bearer page, China Intangible Cultural Heritage Network
 rights: gov-open
+reliability: secondary
 archive: link
 publisher: 中国非物质文化遗产网
 publisherEn: China Intangible Cultural Heritage Network

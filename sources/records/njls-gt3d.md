@@ -4,6 +4,7 @@ type: gov
 title: 溧水区第三次国土调查主要数据公报
 titleEn: Lishui District — Main Data Bulletin of the Third National Land Survey
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市规划和自然资源局溧水分局
 publisherEn: Lishui Branch, Nanjing Municipal Bureau of Planning and Natural Resources

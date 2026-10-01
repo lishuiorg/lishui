@@ -4,6 +4,7 @@ type: academic
 title: 权仁溶《清初徽州的里编制和增图》（中华文史网转载）
 titleEn: Quan Renrong, "Ward Organisation and the Addition of Tu in Early Qing Huizhou"
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 权仁溶（中国社会科学院近代史研究所「中华文史网」转载）
 publisherEn: Quan Renrong (reprinted at Zhonghua Wenshi Net, Institute of Modern History, CASS)

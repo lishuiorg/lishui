@@ -4,6 +4,7 @@ type: gov
 title: 雨花台烈士陵园《丰碑永驻回峰山——苏南反顽战役阵亡将士纪念碑碑文敬读》
 titleEn: Yuhuatai Martyrs' Cemetery — Reading the Inscription on the Huifeng Mountain Monument
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市雨花台烈士陵园管理局
 publisherEn: Administration of the Yuhuatai Martyrs' Cemetery, Nanjing

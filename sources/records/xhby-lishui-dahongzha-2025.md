@@ -4,6 +4,7 @@ type: media
 title: 新华日报《侵华日军溧水大轰炸再添新证》（人民网江苏频道转载）
 titleEn: Xinhua Daily — New Evidence on the Japanese Bombing of Lishui
 rights: link-only
+reliability: primary
 archive: link
 publisher: 新华日报（人民网江苏频道转载）
 publisherEn: Xinhua Daily (republished by People's Daily Online, Jiangsu)

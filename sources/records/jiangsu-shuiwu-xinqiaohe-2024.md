@@ -4,6 +4,7 @@ type: gov
 title: 江苏省水利厅「中小河流治理成效巡礼①｜漾漾清流润民生——南京市」
 titleEn: Jiangsu Provincial Department of Water Resources — Review of Medium and Small River Regulation Achievements (1): Nanjing
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省水利厅（江苏省水利工程建设局组织）
 publisherEn: Jiangsu Provincial Department of Water Resources (organised by the Provincial Water Conservancy Engineering Construction Bureau)

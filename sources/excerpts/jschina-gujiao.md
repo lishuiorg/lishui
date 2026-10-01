@@ -4,6 +4,7 @@ type: media
 title: 中国江苏网《「长虹卧波」风姿再现，南京古桥知多少》
 titleEn: China Jiangsu Net — Ancient Bridges of Nanjing
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 中国江苏网（江苏城市频道）
 publisherEn: China Jiangsu Net (Jiangsu City Channel)

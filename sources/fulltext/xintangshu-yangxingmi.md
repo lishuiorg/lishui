@@ -4,6 +4,7 @@ type: gazetteer
 title: 《新唐书》卷一百八十八·列传第一百一十三·杨行密传
 titleEn: New Book of Tang, juan 188, Biographies 113, "Biography of Yang Xingmi"
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 宋欧阳修、宋祁等撰；今据识典古籍所载《新唐书》全文本转录
 publisherEn: Compiled by Ouyang Xiu, Song Qi and others (Song); transcribed from the full text of the New Book of Tang posted by Shidian Guji

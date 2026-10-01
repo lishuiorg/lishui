@@ -4,6 +4,7 @@ type: media
 title: 方志江苏：鲜为人知！白居易是从南京溧水走出来的「诗王」
 titleEn: Fangzhi Jiangsu — Bai Juyi, the "Poet King" who came out of Lishui, Nanjing
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 方志江苏（江苏省地方志编纂委员会办公室官方澎湃号）
 publisherEn: Fangzhi Jiangsu (official Pengpai account of the Jiangsu Provincial Local Records Compilation Committee)

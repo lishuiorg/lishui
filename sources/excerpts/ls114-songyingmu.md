@@ -4,6 +4,7 @@ type: media
 title: 溧水 114 网关于宋瑛墓的整理帖
 titleEn: Lishui 114 Forum — Notes on the Tomb of Song Ying
 rights: link-only
+reliability: tertiary
 archive: link
 publisher: 溧水 114 网（地方论坛）
 publisherEn: Lishui 114 Forum

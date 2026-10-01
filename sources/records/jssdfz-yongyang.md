@@ -4,6 +4,7 @@ type: academic
 title: 江苏省地方志工作办公室《永阳：秦淮源头，千载风华》
 titleEn: Jiangsu Provincial Local Gazetteers Office — Yongyang: Headwaters of the Qinhuai
 rights: gov-open
+reliability: secondary
 archive: link
 publisher: 江苏省地方志工作办公室
 publisherEn: Jiangsu Provincial Local Gazetteers Office

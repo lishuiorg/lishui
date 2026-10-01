@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区水务局《溧水区二干河清淤工程建设项目环境影响报告表》
 titleEn: Environmental Impact Report Form for the Ergan River Desilting Project, Lishui District, Nanjing
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区水务局（南京名环智远环境科技有限公司编制）
 publisherEn: Lishui District Water Affairs Bureau, Nanjing (prepared by Nanjing Minghuan Zhiyuan Environmental Technology Co., Ltd.)

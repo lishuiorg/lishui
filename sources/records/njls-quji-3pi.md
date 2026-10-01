@@ -4,6 +4,7 @@ type: heritage-list
 title: 溧水区人民政府《关于公布溧水区第三批区级文保单位及区级非遗保护项目、区级非遗传承人名单的通知》
 titleEn: Lishui District People's Government — Notice Publishing the Third Batch of District-Level Protected Sites, Intangible Cultural Heritage Projects and Representative Transmitters
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府，溧政发〔2017〕197 号
 publisherEn: People's Government of Lishui District, Nanjing, Li Zheng Fa [2017] No. 197

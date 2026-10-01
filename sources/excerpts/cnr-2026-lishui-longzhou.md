@@ -4,6 +4,7 @@ type: media
 title: 央广网：南京溧水：鼓点催舟向潮行
 titleEn: China National Radio — drumbeats driving the dragon boats at Lishui
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 央广网
 publisherEn: China National Radio

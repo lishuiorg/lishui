@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府对区政协十一届二次会议第033号提案的办理答复
 titleEn: Lishui District People's Government — Reply to Proposal No. 033 of the Second Session of the Eleventh District CPPCC
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区文化和旅游局
 publisherEn: Lishui District Culture and Tourism Bureau, Nanjing

@@ -4,6 +4,7 @@ type: gov
 title: 省级榜单！溧水双村出圈
 titleEn: Two Lishui Villages Make the Provincial List
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 溧水区融媒体中心
 publisherEn: Lishui District Media Centre

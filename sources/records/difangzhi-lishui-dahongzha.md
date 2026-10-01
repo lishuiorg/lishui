@@ -4,6 +4,7 @@ type: gov
 title: 中国地方志指导小组办公室《2020 年江苏省市县地方志特色创新项目：溧水（影像方志〈溧水大轰炸〉首播）》
 titleEn: China Local Gazetteers Office — Jiangsu Local-Gazetteer Innovation Project 2020: Lishui
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 中国地方志指导小组办公室（中国方志网）
 publisherEn: China Local Gazetteers Office

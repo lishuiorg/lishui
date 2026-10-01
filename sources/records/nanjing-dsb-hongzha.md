@@ -4,6 +4,7 @@ type: gov
 title: 南京市党史工作办公室《侵华日军轰炸溧水遇难同胞纪念碑》
 titleEn: Nanjing Party History Office — Monument to the Victims of Japanese Bombing in Lishui
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 中共南京市委党史工作办公室
 publisherEn: Party History Office of the CPC Nanjing Municipal Committee

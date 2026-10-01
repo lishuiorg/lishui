@@ -4,6 +4,7 @@ type: media
 title: 无想水镇景区「李白三过溧水留诗」
 titleEn: Wuxiang Water Town scenic area — Li Bai's poems written in Lishui
 rights: link-only
+reliability: tertiary
 archive: excerpt
 publisher: 无想水镇景区
 publisherEn: Wuxiang Water Town Scenic Area

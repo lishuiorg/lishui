@@ -4,6 +4,7 @@ type: archive
 title: 《天下郡国利病书》（清·顾炎武撰）
 titleEn: Tianxia Junguo Libing Shu (Record of the Strengths and Weaknesses of the Empire), by Gu Yanwu (Qing)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清顾炎武撰；今据识典古籍所载四部丛刊三编本网络转录本核读「改折漕粮缘由」篇
 publisherEn: Compiled by Gu Yanwu (Qing); consulted in an online transcription of the Sibu Congkan series edition, article "The Origins of the Commutation of Grain Transport"

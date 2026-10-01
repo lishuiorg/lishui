@@ -4,6 +4,7 @@ type: heritage-list
 title: 市政府关于公布第三批南京市文物保护单位的通知（宁政发〔2006〕131号）
 titleEn: Notice on Publishing the Third Batch of Nanjing Municipal Cultural Relic Protection Sites (Ning Zheng Fa [2006] No. 131)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府
 publisherEn: Nanjing Municipal People's Government

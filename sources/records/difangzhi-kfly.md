@@ -4,6 +4,7 @@ type: academic
 title: 地方志开发网《溧水县志》提要
 titleEn: Local Gazetteers Development Portal — Notes on the Lishui County Gazetteer
 rights: gov-open
+reliability: secondary
 archive: link
 publisher: 地方志开发网（中国地方志指导小组办公室系统）
 publisherEn: Local Gazetteers Development Portal

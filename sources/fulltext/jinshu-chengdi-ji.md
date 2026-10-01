@@ -4,6 +4,7 @@ type: gazetteer
 title: 《晋书》卷七·帝纪第七·成帝纪（咸和四年）
 titleEn: Book of Jin, juan 7, Annals 7, "Annals of Emperor Cheng" (the fourth year of the Xianhe era)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 唐房玄龄等撰；今据子夜星网站所载《晋书》全文本转录
 publisherEn: Compiled by Fang Xuanling and others (Tang); transcribed from the full text posted by Ziyexing

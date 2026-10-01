@@ -4,6 +4,7 @@ type: media
 title: 人民网《南京溧水蒲塘桥：南京仅有的两座「国保」古桥之一》
 titleEn: People's Daily Online — Putang Bridge in Lishui, Nanjing
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 人民网
 publisherEn: People's Daily Online

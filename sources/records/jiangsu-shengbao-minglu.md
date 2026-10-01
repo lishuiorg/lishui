@@ -4,6 +4,7 @@ type: heritage-list
 title: 南京市文化和旅游局《江苏省文物保护单位名录》
 titleEn: Jiangsu Provincial Cultural Relic Sites List (as published by Nanjing)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市文化和旅游局
 publisherEn: Nanjing Municipal Bureau of Culture and Tourism

@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府网站《倒计时3天！溧水开启一场草莓狂欢》
 titleEn: Lishui District People's Government — Lishui Strawberry Promotion 2025 Opens at Fujiabian
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 溧水区融媒体中心（发布渠道：溧水区人民政府网站）
 publisherEn: Lishui District Media Centre, Nanjing

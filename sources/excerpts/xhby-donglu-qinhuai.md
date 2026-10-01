@@ -4,6 +4,7 @@ type: media
 title: 新华报业网《寻迹江苏老地名｜溧水东庐山为什么被称为「秦淮之源」？》
 titleEn: Xinhua Daily Media — Why Donglu Mountain Is Called the Source of the Qinhuai
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 新华报业网·交汇点新闻
 publisherEn: Xinhua Daily Media, Jiaohuidian News

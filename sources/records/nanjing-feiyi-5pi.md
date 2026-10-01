@@ -4,6 +4,7 @@ type: heritage-list
 title: 市政府关于公布第五批南京市非物质文化遗产代表性项目名录的通知（宁政发〔2023〕11号）
 titleEn: Notice on Publishing the Fifth Batch of the Nanjing Municipal Intangible Cultural Heritage Representative Project List (Ning Zheng Fa [2023] No. 11)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府（名单附件由南京市文化和旅游局发布）
 publisherEn: Nanjing Municipal People's Government

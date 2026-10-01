@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水生态环境局《溧水区区级部门整体支出预算绩效目标申报表》
 titleEn: Nanjing Lishui Ecological Environment Bureau — District-Level Department Overall Expenditure Budget Performance Target Declaration Form
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水生态环境局
 publisherEn: Nanjing Lishui Ecological Environment Bureau

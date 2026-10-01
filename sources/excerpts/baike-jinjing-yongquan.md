@@ -4,6 +4,7 @@ type: media
 title: 百科「金井涌泉」词条
 titleEn: Baike — Jinjing Spring
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 百科（词条类站点）
 publisherEn: Baike (encyclopedia site)

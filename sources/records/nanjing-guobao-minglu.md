@@ -4,6 +4,7 @@ type: heritage-list
 title: 南京市文化和旅游局《全国重点文物保护单位名录》
 titleEn: Nanjing Municipal Bureau of Culture and Tourism — National Key Cultural Relic Sites List
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市文化和旅游局
 publisherEn: Nanjing Municipal Bureau of Culture and Tourism

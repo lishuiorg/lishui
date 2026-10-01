@@ -4,6 +4,7 @@ type: media
 title: 新华报业关于长乐桥与《景定建康志》的报道
 titleEn: Xinhua Daily — Changle Bridge and the Jiankang Gazetteer of 1261
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 新华报业传媒集团
 publisherEn: Xinhua Daily Media Group

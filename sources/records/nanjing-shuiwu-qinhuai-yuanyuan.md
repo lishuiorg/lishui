@@ -4,6 +4,7 @@ type: gov
 title: 南京市水务局「南京开展秦淮河流域调研，为保护母亲河献智献策」
 titleEn: Nanjing Municipal Water Resources Bureau — Survey of the Qinhuai River Basin in Nanjing
 rights: link-only
+reliability: primary
 archive: link
 publisher: 南京市水务局（转载紫金山新闻）
 publisherEn: Nanjing Municipal Water Resources Bureau (reprinting Zijinshan News)

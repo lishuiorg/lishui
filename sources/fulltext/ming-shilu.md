@@ -4,6 +4,7 @@ type: gazetteer
 title: 《明实录》——〈大明太宗文皇帝实录〉卷十九（永乐元年四月丁卯「设溧水县广通闸」）、〈大明太祖高皇帝实录〉卷一百七十（洪武十八年正月己卯「第民户上中下三等为赋役册」）
 titleEn: Ming Shilu (Veritable Records of the Ming) — Taizong (Yongle) Veritable Records juan 19 (the Guangtong sluice at Lishui, 1403) and Taizu (Hongwu) Veritable Records juan 170 (the tax and corvée registers, 1385)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 明历朝实录馆修；今据识典古籍所载〈大明太宗文皇帝实录〉与古文岛所载〈明太祖实录〉转录
 publisherEn: Compiled by the Ming imperial veritable-records offices; transcribed from the Shidian Guji text of the Taizong Veritable Records and the Guwen Dao text of the Taizu Veritable Records

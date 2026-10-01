@@ -4,6 +4,7 @@ type: archive
 title: 续资治通鉴长编（宋·李焘）
 titleEn: Xu Zizhi Tongjian Changbian (Extended Continuation of the Comprehensive Mirror), by Li Tao (Song)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 南宋李焘撰，五百二十卷；本次据四库全书本网络转录（卷十六、卷一百）
 publisherEn: Compiled by Li Tao in the Southern Song, 520 juan; consulted in online transcriptions of the Siku Quanshu edition (juan 16 and juan 100)

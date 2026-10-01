@@ -4,6 +4,7 @@ type: academic
 title: 百科网「溧水话（江苏南京溧水区的方言）」
 titleEn: Baike.com — the Lishui dialect
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 百科网
 publisherEn: Baike.com

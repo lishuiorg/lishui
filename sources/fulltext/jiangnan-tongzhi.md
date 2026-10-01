@@ -4,6 +4,7 @@ type: gazetteer
 title: 乾隆《江南通志》（清·尹继善、赵国麟修，黄之隽等纂）
 titleEn: Jiangnan Tongzhi (Comprehensive Gazetteer of Jiangnan, Qianlong edition)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清尹继善、赵国麟修，黄之隽等纂，钦定四库全书本；今据识典古籍、中华典藏等网络转录本核读
 publisherEn: Compiled under Yin Jishan and Zhao Guolin, edited by Huang Zhijun and others; Siku Quanshu edition, consulted via online transcriptions (Shidian Guji, Zhonghua Dancang)

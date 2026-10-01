@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区人民政府《南京市溧水区国土空间规划近期实施方案》
 titleEn: Lishui District, Nanjing — Near-Term Implementation Plan of the Territorial Spatial Plan
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府
 publisherEn: People's Government of Lishui District, Nanjing

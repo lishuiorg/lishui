@@ -4,6 +4,7 @@ type: media
 title: 明天，来溧水「闹」起来！
 titleEn: Lantern Festival folk events in Lishui
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 溧水发布（中共南京市溧水区委宣传部官方澎湃号）
 publisherEn: Lishui Release (official account of the CPC Lishui District Committee Publicity Department)

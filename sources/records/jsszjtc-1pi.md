@@ -4,6 +4,7 @@ type: heritage-list
 title: 江苏省住房和城乡建设厅网站转载：首批江苏省传统村落名单「出炉」（《紫金山新闻》，2020-04-08）
 titleEn: First Batch of Traditional Villages of Jiangsu Announced — reprint on the website of the Jiangsu Provincial Department of Housing and Urban-Rural Development (Zijinshan News, 2020-04-08)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省住房和城乡建设厅（转载《紫金山新闻》）
 publisherEn: Jiangsu Provincial Department of Housing and Urban-Rural Development (reprinting Zijinshan News)

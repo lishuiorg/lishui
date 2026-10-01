@@ -4,6 +4,7 @@ type: media
 title: 溧水114 网转载吴大林《对溧水重建中山书院的评价和建议》
 titleEn: Lishui114 — Wu Dalin on the Rebuilding of Zhongshan Academy
 rights: link-only
+reliability: tertiary
 archive: link
 publisher: 溧水114 网（中山文史版块，转载吴大林文）
 publisherEn: Lishui114 Forum, Lishui (reprinting an article by Wu Dalin)

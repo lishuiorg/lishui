@@ -4,6 +4,7 @@ type: media
 title: 中国江苏网：南京溧水洪蓝街道：龙舟竞渡筑同心
 titleEn: China Jiangsu Network — dragon-boat racing at Honglan, Lishui
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 中国江苏网（新江苏客户端）
 publisherEn: China Jiangsu Network (Xinjiangsu app)

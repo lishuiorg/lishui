@@ -4,6 +4,7 @@ type: gov
 title: 溧水区残联《对区十七届人大一次会议第109号建议的办理答复》
 titleEn: Lishui District Disabled Persons' Federation — reply to suggestion No. 109 of the 17th District People's Congress
 rights: gov-open
+reliability: tertiary
 archive: link
 publisher: 南京市溧水区残疾人联合会
 publisherEn: Lishui District Disabled Persons' Federation, Nanjing

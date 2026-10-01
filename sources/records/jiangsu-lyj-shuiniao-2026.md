@@ -4,6 +4,7 @@ type: media
 title: 2026年江苏省越冬水鸟同步调查结果发布（新华日报／中共江苏省委新闻网报道）
 titleEn: Release of the 2026 Jiangsu Provincial Synchronized Wintering Waterbird Survey (Xinhua Daily / News Portal of the CPC Jiangsu Provincial Committee)
 rights: link-only
+reliability: primary
 archive: link
 publisher: 中共江苏省委新闻网（来源：新华日报）
 publisherEn: News Portal of the CPC Jiangsu Provincial Committee (source: Xinhua Daily)

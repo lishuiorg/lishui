@@ -4,6 +4,7 @@ type: gov
 title: 溧水区文化和旅游局《对区政协十一届四次会议第 038 号提案的答复》
 titleEn: Bureau of Culture and Tourism, Lishui District — Reply to Proposal No. 038 of the Fourth Session of the Eleventh District CPPCC
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区文化和旅游局
 publisherEn: Bureau of Culture and Tourism, Lishui District, Nanjing

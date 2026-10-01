@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府《溧水区水利工程管理和保护办法》（溧政规〔2022〕2号）
 titleEn: People's Government of Lishui District, Nanjing — Measures for the Management and Protection of Water Conservancy Works in Lishui District (Lu Zheng Gui [2022] No. 2)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府
 publisherEn: People's Government of Lishui District, Nanjing

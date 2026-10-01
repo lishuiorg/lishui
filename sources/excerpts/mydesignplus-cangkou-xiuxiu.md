@@ -4,6 +4,7 @@ type: media
 title: 设计作品介绍《南京溧水仓口村祠堂修缮性改造》
 titleEn: Design Project Note — Restoring the Ancestral Halls of Cangkou Village, Lishui
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: mydesignplus（建筑与室内设计专业平台）
 publisherEn: mydesignplus

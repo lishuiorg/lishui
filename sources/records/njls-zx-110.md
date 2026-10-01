@@ -4,6 +4,7 @@ type: gov
 title: 对区政协十一届一次会议第110号提案的办理答复
 titleEn: Reply to Proposal No. 110 of the First Session of the Eleventh CPPCC District Committee
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区文化和旅游局
 publisherEn: Lishui District Culture and Tourism Bureau, Nanjing

@@ -4,6 +4,7 @@ type: media
 title: 南京日报：溧水和凤「乌饭会」盛邀游客「享大餐」
 titleEn: Nanjing Daily — the black rice festival at Hefeng invites visitors
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 南京日报
 publisherEn: Nanjing Daily

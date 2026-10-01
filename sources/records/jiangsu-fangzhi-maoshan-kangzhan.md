@@ -4,6 +4,7 @@ type: archive
 title: 茅山抗战岁月与红色纪念遗址
 titleEn: The Maoshan War Years and the Red Memorial Sites
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省地方志工作办公室网站
 publisherEn: Jiangsu Provincial Office of Local Gazetteers

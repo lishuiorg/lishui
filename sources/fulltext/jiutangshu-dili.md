@@ -4,6 +4,7 @@ type: gazetteer
 title: 《旧唐书》卷四十·志第二十·地理三（宣州、润州上元、扬州条）
 titleEn: Old Book of Tang, juan 40, Treatise 20, "Geography, Part 3" (entries on Xuanzhou, Shangyuan of Runzhou, and Yangzhou)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 后晋刘昫等撰；今据古文岛（原古诗文网）所载全文本转录
 publisherEn: Compiled by Liu Xu and others (Later Jin); transcribed from the full text posted by Gushiwen

@@ -4,6 +4,7 @@ type: media
 title: 南京晨报：省级非遗丨南京溧水晶桥镇西宋马灯——五百年传承
 titleEn: Nanjing Morning Post — Xisong horse-lantern dance of Jingqiao, Lishui
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 南京晨报（人民日报客户端人民号）
 publisherEn: Nanjing Morning Post (People's Daily app)

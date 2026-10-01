@@ -4,6 +4,7 @@ type: media
 title: 人民网《宁杭、杭甬高铁 7 月 1 日开通运营》
 titleEn: People's Daily Online — Nanjing-Hangzhou and Hangzhou-Ningbo High-Speed Railways Open on 1 July
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 人民网
 publisherEn: People's Daily Online

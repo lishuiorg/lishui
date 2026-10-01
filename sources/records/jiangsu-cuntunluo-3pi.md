@@ -4,6 +4,7 @@ type: heritage-list
 title: 江苏省第三批传统村落名单（经江苏省人民政府同意，江苏省住房和城乡建设厅会同省相关部门认定公布）
 titleEn: List of the Third Batch of Traditional Villages of Jiangsu Province
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省住房和城乡建设厅（转载《紫牛新闻》稿）
 publisherEn: Jiangsu Provincial Department of Housing and Urban-Rural Development

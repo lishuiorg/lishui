@@ -4,6 +4,7 @@ type: gov
 title: 江苏省自然资源厅《关于开展石臼湖（江苏片）自然资源确权登记的公告（首次登记）》
 titleEn: Department of Natural Resources of Jiangsu Province — Announcement on the Registration of Natural Resource Ownership for Shijiu Lake (Jiangsu Section), First Registration
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省自然资源厅（南京市规划和自然资源局溧水分局发布）
 publisherEn: Department of Natural Resources of Jiangsu Province (published by the Lishui Branch, Nanjing Municipal Planning and Natural Resources Bureau)

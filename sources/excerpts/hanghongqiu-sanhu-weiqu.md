@@ -4,6 +4,7 @@ type: academic
 title: 杭宏秋《「三湖」圩区开发史实及其思考》（《古今农业》2004 年第 4 期）
 titleEn: Hang Hongqiu, "The Historical Development of the Three-Lakes Polder District", Gujin Nongye 2004, no. 4
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 杭宏秋（安徽省当涂县水利局），《古今农业》2004 年第 4 期
 publisherEn: Hang Hongqiu (Dangtu County Water Conservancy Bureau, Anhui), Gujin Nongye, 2004, no. 4

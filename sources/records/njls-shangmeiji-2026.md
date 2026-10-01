@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府网站《花季溧水启幕！以梅为媒，焰火流光，醉美傅家边》
 titleEn: Lishui District People's Government — Lishui Plum-viewing Season 2026 Opens at Fujiabian
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府（来源：洪蓝街道宣传办）
 publisherEn: People's Government of Lishui District, Nanjing

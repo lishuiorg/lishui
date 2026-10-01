@@ -4,6 +4,7 @@ type: gov
 title: 江苏省交通运输厅《南京秦淮河航道整治桥梁工程通过交工验收》
 titleEn: Jiangsu Provincial Department of Transport — Nanjing Qinhuai River Waterway Regulation Project Passes Completion Inspection
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省交通运输厅
 publisherEn: Jiangsu Provincial Department of Transport

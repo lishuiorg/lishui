@@ -4,6 +4,7 @@ type: gazetteer
 title: 康熙《溧水县志》
 titleEn: Lishui County Gazetteer (Kangxi edition)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清康熙十六年（1677）刻本，十一卷加卷首一卷；刘登科修，程之望、谢文运、王芝藻等纂
 publisherEn: Woodblock edition of 1677 (the sixteenth year of the Kangxi era), 11 juan plus 1 prefatory juan; revised by Liu Dengke, compiled by Cheng Zhiwang, Xie Wenyun, Wang Zhizao and others

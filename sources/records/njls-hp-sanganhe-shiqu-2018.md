@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区石湫镇人民政府《石湫街道三干河（史家庄闸至石湫坝闸站段）水环境整治提升工程建设项目环境影响报告表》
 titleEn: Environmental Impact Report Form for the Water Environment Improvement Project of the Sangan River (Shijiazhuang Sluice to Shiqiuba Sluice-Pump Station Section), Shiqiu Subdistrict, Lishui District
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区石湫镇人民政府（南京赛特环境工程有限公司编制）
 publisherEn: People's Government of Shiqiu Town, Lishui District, Nanjing (prepared by Nanjing Saite Environmental Engineering Co., Ltd.)

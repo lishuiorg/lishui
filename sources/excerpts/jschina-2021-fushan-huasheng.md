@@ -4,6 +4,7 @@ type: media
 title: 直播助农齐上阵，线上带货庆丰收
 titleEn: Livestreaming helps Lishui's Fushan peanuts reach the market
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 中国江苏网（稿源：南京日报）
 publisherEn: China Jiangsu Network (source: Nanjing Daily)

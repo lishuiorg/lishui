@@ -4,6 +4,7 @@ type: media
 title: 江苏新闻广播《顶级“饭圈大佬”，在南京！》
 titleEn: Jiangsu News Radio — the wufan festival and the shrine image at Chenguo village
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 江苏广播电视总台新闻广播（腾讯新闻转载）
 publisherEn: Jiangsu Broadcasting Corporation, News Radio (republished by Tencent News)

@@ -4,6 +4,7 @@ type: media
 title: 祠堂网《仓口芮氏宗祠》条目
 titleEn: Ancestral Hall Website — the Rui Ancestral Hall at Cangkou
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 祠堂网（100citang.cn）
 publisherEn: Ancestral Hall Website (100citang.cn)

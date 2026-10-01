@@ -4,6 +4,7 @@ type: media
 title: 秦淮源头过大年，溧水精心策划 170 多场特色文化活动
 titleEn: Xinhua Jiangsu — Lishui plans over 170 cultural activities for New Year
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 新华网江苏频道（稿源：溧水区委宣传部）
 publisherEn: Xinhua News Agency Jiangsu Channel (source: Lishui District CPC Committee Publicity Department)

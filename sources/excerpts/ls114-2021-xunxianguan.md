@@ -4,6 +4,7 @@ type: media
 title: 溧水114论坛帖《溧水寻仙观》（2021 年实地探访记）
 titleEn: Lishui114 Forum Post — A Visit to Xunxian Temple (2021)
 rights: link-only
+reliability: tertiary
 archive: link
 publisher: 溧水114 网（中山文史版块）
 publisherEn: Lishui114 Forum, Lishui

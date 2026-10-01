@@ -4,6 +4,7 @@ type: gov
 title: 南京出版社 2002—2005 年样书送缴清单（含《金陵全书》历代溧水县志影印本）
 titleEn: Nanjing Press Sample-Copy Submission List (2002–2005), Including Facsimile Editions of the Historical Gazetteers of Lishui County in the Jinling Quanshu
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省图书馆（样书送缴栏目）
 publisherEn: Jiangsu Provincial Library

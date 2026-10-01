@@ -4,6 +4,7 @@ type: gov
 title: 东屏街道长乐农业园区河道水环境提升工程建设项目环境影响报告表
 titleEn: Environmental Impact Report for the River Water Environment Improvement Project, Changle Agricultural Park, Dongping Subdistrict
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府东屏街道办事处
 publisherEn: Dongping Subdistrict Office, People's Government of Lishui District, Nanjing

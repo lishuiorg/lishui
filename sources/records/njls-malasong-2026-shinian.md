@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府网站《溧马十年之约，超燃又超甜！》
 titleEn: Lishui District People's Government — Lishui Half Marathon 2026: Ten Years of Sweetness
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 溧水区融媒体中心（发布渠道：溧水区人民政府网站）
 publisherEn: Lishui District Media Centre, Nanjing

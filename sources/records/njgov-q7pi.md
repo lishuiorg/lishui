@@ -4,6 +4,7 @@ type: gov
 title: 南京省级传统村落再添3个 全市省级传统村落已有65个（第七批江苏省传统村落）
 titleEn: Three More Traditional Villages of Jiangsu in Nanjing, Bringing the City Total to 65 (Seventh Batch)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府（转载《南京日报》）
 publisherEn: Nanjing Municipal People's Government (reprinting Nanjing Daily)

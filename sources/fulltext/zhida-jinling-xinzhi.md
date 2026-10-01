@@ -4,6 +4,7 @@ type: gazetteer
 title: 至大金陵新志（元·张铉）
 titleEn: Zhida Jinling Xinzhi (New Gazetteer of Jinling, Zhida Era), by Zhang Xuan (Yuan)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 元张铉撰，十五卷；本次据四库全书本网络转录核读「官守志」宋知府事年表与「古迹志」固城条
 publisherEn: Compiled by Zhang Xuan in the Yuan dynasty, 15 juan; consulted in online transcriptions of the Siku Quanshu edition, "Records of Officials" (chronological list of Song prefects) and "Monuments" (entry on Gucheng)

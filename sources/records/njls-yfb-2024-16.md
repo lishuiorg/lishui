@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区特大暴雨城市防洪避险预案（溧政办发〔2024〕16号）
 titleEn: Lishui District Extreme Rainstorm Urban Flood Defence and Evacuation Plan (Lu Zheng Ban Fa [2024] No. 16)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府办公室
 publisherEn: General Office of the People's Government of Lishui District, Nanjing

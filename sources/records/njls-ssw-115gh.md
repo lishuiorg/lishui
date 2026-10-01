@@ -4,6 +4,7 @@ type: gov
 title: 溧水县人民政府关于印发溧水县「十一五」水利规划的通知（溧政发〔2005〕76号）
 titleEn: Lishui County People's Government — Notice Issuing the Lishui County Water Conservancy Plan for the Eleventh Five-Year Period
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 溧水县人民政府
 publisherEn: People's Government of Lishui County

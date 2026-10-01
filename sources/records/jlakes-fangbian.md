@@ -4,6 +4,7 @@ type: academic
 title: 陈文权等《寡—中营养型水体偶发性蓝藻水华的驱动因素分析——以南京方便水库为例》
 titleEn: Chen Wenquan et al., Drivers of Sporadic Cyanobacterial Blooms in an Oligo-mesotrophic Water Body — the Case of Fangbian Reservoir, Nanjing
 rights: excerpt-only
+reliability: secondary
 archive: link
 publisher: 《湖泊科学》编辑部（中国科学院南京地理与湖泊研究所）
 publisherEn: Journal of Lake Sciences, Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences

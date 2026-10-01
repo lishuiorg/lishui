@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府对区政协十一届四次会议提案的答复（方便水库入库河道整治）
 titleEn: Lishui District People's Government — Reply to a Proposal of the Fourth Session of the Eleventh District CPPCC (Inflow Channel Regulation of Fangbian Reservoir)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府
 publisherEn: People's Government of Lishui District, Nanjing

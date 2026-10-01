@@ -4,6 +4,7 @@ type: gov
 title: 南京市水务局《南京市2022年水库"四个责任人"名单》
 titleEn: Nanjing Municipal Water Resources Bureau — 2022 List of "Four Responsible Persons" for Reservoirs in Nanjing
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市水务局
 publisherEn: Nanjing Municipal Water Resources Bureau

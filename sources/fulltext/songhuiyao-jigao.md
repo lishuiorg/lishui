@@ -4,6 +4,7 @@ type: archive
 title: 宋会要辑稿·食货八（水利下）
 titleEn: Song Huiyao Jigao (Song Administrative Documents Compiled), "Food and Money 8: Water Conservancy, Part Two"
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清代徐松辑自《永乐大典》本，民国间有影印与点校本；本次据网络点校本核读「食货八·水利下」
 publisherEn: Compiled by Xu Song in the Qing dynasty from the Yongle Dadian; consulted in a modern punctuated edition, section "Food and Money 8: Water Conservancy, Part Two"

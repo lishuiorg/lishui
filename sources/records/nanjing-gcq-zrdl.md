@@ -4,6 +4,7 @@ type: gov
 title: 南京市高淳区人民政府「自然状况」
 titleEn: People's Government of Gaochun District, Nanjing — Natural Conditions
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市高淳区人民政府
 publisherEn: People's Government of Gaochun District, Nanjing

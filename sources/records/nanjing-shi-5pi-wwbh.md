@@ -4,6 +4,7 @@ type: heritage-list
 title: 南京市第五批市级文物保护单位名单
 titleEn: Nanjing — Fifth Batch of Municipal Cultural Relic Sites
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市人民政府
 publisherEn: Nanjing Municipal People's Government

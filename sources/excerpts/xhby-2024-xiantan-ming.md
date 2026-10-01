@@ -4,6 +4,7 @@ type: media
 title: 新华报业《仙坛：因有祭坛而得名》
 titleEn: Xinhua Daily — Xiantan: A Place Named for Its Altar
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 新华报业网·交汇点新闻（供稿：南京市溧水区地方志办公室）
 publisherEn: Xinhua Daily Media Group, Jiaohuidian News (contributed by the Lishui District Local Gazetteer Office)

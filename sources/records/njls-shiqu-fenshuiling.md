@@ -4,6 +4,7 @@ type: gov
 title: 溧水区石湫街道办事处《石湫：分水岭上的宝地》
 titleEn: Shiqu Subdistrict, Lishui — A Favoured Land on the Watershed
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府石湫街道办事处
 publisherEn: Shiqu Subdistrict Office, People's Government of Lishui District, Nanjing

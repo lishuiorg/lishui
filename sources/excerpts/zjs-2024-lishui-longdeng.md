@@ -4,6 +4,7 @@ type: media
 title: 在溧水，40 条大龙闹新春
 titleEn: Forty dragon lanterns in Lishui at New Year
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 紫金山新闻（南京日报报业集团）
 publisherEn: Zijinshan News (Nanjing Daily Press Group)

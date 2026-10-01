@@ -4,6 +4,7 @@ type: archive
 title: 宋史（元·脱脱等）
 titleEn: History of Song (Song Shi), compiled by Toqto'a and others (Yuan)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 元脱脱等撰，四百九十六卷；本次据网络点校本核读卷二十五、卷四十七、卷八十八、卷二百七十四
 publisherEn: Compiled by Toqto'a and others in the Yuan dynasty, 496 juan; consulted in online punctuated editions of juan 25, 47, 88 and 274

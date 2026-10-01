@@ -35,6 +35,8 @@ const LAYERS = ['records', 'excerpts', 'fulltext'];
 /* 取值表的中文名，用于台账可读列。取值与 lishui-kit/schema/enums.common.json 同步。 */
 const TYPE_CN = { gov: '政府文件', media: '媒体报道', 'heritage-list': '名录公布', academic: '学术文献', gazetteer: '旧志', epigraphy: '金石碑刻', archive: '档案', fieldwork: '实地调查' };
 const RIGHTS_CN = { 'public-domain': '公有领域', 'gov-open': '政务公开', 'excerpt-only': '仅摘录', 'link-only': '仅链接', 'permission-required': '需授权' };
+/* 可信度与授权是两个独立维度：rights 管能不能引，reliability 管可不可信。取值同步 enums.common.json。 */
+const RELIABILITY_CN = { primary: '一手', secondary: '二手转述', tertiary: '弱来源' };
 const ARCHIVE_CN = { fulltext: '全文', 'link-registered': '登记链接', 'catalogued-only': '仅著录', excerpt: '摘录', link: '链接档案' };
 
 /** 机构层级：省级 / 市级 / 区级 / 邻区外 / 其他。区级来源极少，是因为区政府页面多以「南京市溧水区人民政府」名义发布。 */
@@ -82,7 +84,7 @@ function loadCards() {
       }
       cards.push({
         id: fm.id ?? '', layer, file: `${layer}/${name}`,
-        type: fm.type ?? '', rights: fm.rights ?? '', archive: fm.archive ?? '',
+        type: fm.type ?? '', rights: fm.rights ?? '', reliability: fm.reliability ?? '', archive: fm.archive ?? '',
         title: fm.title ?? '', titleEn: fm.titleEn ?? '',
         publisher: fm.publisher ?? '', publisherEn: fm.publisherEn ?? '',
         url: fm.url ?? '', host, accessed: fm.accessed ?? '',
@@ -157,6 +159,7 @@ const ledger = cards.map((c) => {
     level: levelOf(c.publisher),
     typeCn: TYPE_CN[c.type] ?? c.type,
     rightsCn: RIGHTS_CN[c.rights] ?? c.rights,
+    reliabilityCn: RELIABILITY_CN[c.reliability] ?? c.reliability,
     archiveCn: ARCHIVE_CN[c.archive] ?? c.archive,
     refTotal: total,
     refPerSite: per,
@@ -185,6 +188,7 @@ const summary = {
   byLayer: tally(ledger, 'layer'),
   byType: tally(ledger, 'typeCn'),
   byRights: tally(ledger, 'rightsCn'),
+  byReliability: tally(ledger, 'reliabilityCn'),
   byArchive: tally(ledger, 'archiveCn'),
   byLevel: tally(ledger, 'level'),
   byHost: tally(ledger, 'host').filter(([h]) => h && h !== '(空)'),
@@ -203,7 +207,7 @@ const summary = {
 
 /* ---------- 输出 CSV ---------- */
 const COLUMNS = [
-  ['id', '来源 ID'], ['level', '发布层级'], ['typeCn', '来源类型'], ['rightsCn', '权利状态'], ['archiveCn', '归档形态'],
+  ['id', '来源 ID'], ['level', '发布层级'], ['typeCn', '来源类型'], ['rightsCn', '权利状态'], ['reliabilityCn', '可信度'], ['archiveCn', '归档形态'],
   ['publisher', '发布机构'], ['publisherEn', '发布机构（英）'], ['title', '题名'], ['titleEn', '题名（英）'],
   ['host', '域名'], ['accessed', '访问日期'], ['locator', '定位方式'],
   ['refTotal', '被引总数'],
@@ -421,6 +425,7 @@ if (!quiet) {
   const out = process.stdout;
   out.write(`来源卡片 ${summary.total} 张：records ${summary.byLayer.find((x) => x[0] === 'records')?.[1] ?? 0}、excerpts ${summary.byLayer.find((x) => x[0] === 'excerpts')?.[1] ?? 0}、fulltext ${summary.byLayer.find((x) => x[0] === 'fulltext')?.[1] ?? 0}\n`);
   out.write(`权利状态：${summary.byRights.map(([k, v]) => `${k} ${v}`).join('、')}\n`);
+  out.write(`可信度：${summary.byReliability.map(([k, v]) => `${k} ${v}`).join('、')}\n`);
   out.write(`发布层级：${summary.byLevel.map(([k, v]) => `${k} ${v}`).join('、')}\n`);
   out.write(`来源域名 ${summary.byHost.length} 个；访问日期集中在 ${summary.byAccessed.slice(0, 3).map(([k, v]) => `${k}（${v}）`).join('、')}\n`);
   for (const s of summary.perSite) {

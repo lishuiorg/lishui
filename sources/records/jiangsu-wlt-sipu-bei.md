@@ -4,6 +4,7 @@ type: gov
 title: 江苏省文化和旅游厅关于第四次全国文物普查新发现「中山书院官给田房记」碑的报道
 titleEn: Jiangsu Provincial Department of Culture and Tourism — A Ming Stele Newly Recorded in the Fourth National Survey
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省文化和旅游厅
 publisherEn: Jiangsu Provincial Department of Culture and Tourism

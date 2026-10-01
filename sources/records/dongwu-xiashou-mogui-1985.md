@@ -4,6 +4,7 @@ type: academic
 title: 江苏溧水、丹阳西周墓发掘简报
 titleEn: Excavation Brief on Western Zhou Tombs at Lishui and Danyang, Jiangsu
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 《考古》编辑部（中国社会科学院考古研究所）
 publisherEn: Editorial Office of Kaogu (Institute of Archaeology, CASS)

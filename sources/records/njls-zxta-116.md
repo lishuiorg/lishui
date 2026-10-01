@@ -4,6 +4,7 @@ type: gov
 title: 溧水区人民政府对区政协十一届四次会议第116号提案的答复
 titleEn: Lishui District People's Government — Reply to Proposal No. 116 of the Fourth Session of the Eleventh District CPPCC
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区农业农村局
 publisherEn: Lishui District Agriculture and Rural Affairs Bureau, Nanjing

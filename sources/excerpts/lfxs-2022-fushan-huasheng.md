@@ -4,6 +4,7 @@ type: media
 title: 南京溧水：登高、踏青、品茶……去浮山村留驻春光
 titleEn: A visit to Fushan village, Lishui
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 今日头条号「南京溧水」（稿源：溧水区融媒体中心通讯员毛潇潇）
 publisherEn: Toutiao account "Nanjing Lishui" (source: Lishui District Media Centre)

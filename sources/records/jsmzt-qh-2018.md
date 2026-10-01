@@ -4,6 +4,7 @@ type: gov
 title: 2018年江苏省县以下行政区划变更情况
 titleEn: County-level and Below Administrative Division Changes in Jiangsu, 2018
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省民政厅
 publisherEn: Department of Civil Affairs of Jiangsu Province

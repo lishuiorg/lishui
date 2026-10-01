@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区「十四五」水务发展规划
 titleEn: Lishui District, Nanjing — Water Affairs Development Plan for the 14th Five-Year Period
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府办公室
 publisherEn: General Office of the People's Government of Lishui District, Nanjing

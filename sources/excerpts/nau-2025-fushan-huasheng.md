@@ -4,6 +4,7 @@ type: academic
 title: 经济管理学院暑期社会实践｜经管er的调研日志：小花生的大世界
 titleEn: Nanjing Agricultural University — field research on Fushan peanuts
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 南京农业大学经济管理学院
 publisherEn: College of Economics and Management, Nanjing Agricultural University

@@ -4,6 +4,7 @@ type: gov
 title: 江苏省自然资源厅《关于开展江苏溧水无想山国家级森林公园自然资源确权登记的公告（首次登记）》
 titleEn: Jiangsu Provincial Department of Natural Resources — Announcement on the First Registration of Natural Resource Rights for the Wuxiang Mountain National Forest Park, Lishui, Jiangsu
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省自然资源厅
 publisherEn: Jiangsu Provincial Department of Natural Resources

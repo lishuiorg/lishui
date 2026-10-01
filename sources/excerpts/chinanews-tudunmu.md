@@ -4,6 +4,7 @@ type: media
 title: 中新网：南京公布近三百处不可移动文物（溧水，多为先秦土墩墓）
 titleEn: China News Service — Lishui publishes some 300 immovable cultural relics (mostly Pre-Qin mound tombs)
 rights: excerpt-only
+reliability: primary
 archive: excerpt
 publisher: 中国新闻网
 publisherEn: China News Service

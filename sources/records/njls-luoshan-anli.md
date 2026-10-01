@@ -4,6 +4,7 @@ type: gov
 title: 全省优秀案例！溧水这个项目入选
 titleEn: Luoshan Great Dragon named a provincial best-practice case
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区融媒体中心
 publisherEn: Lishui District Media Centre, Nanjing

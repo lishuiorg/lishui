@@ -4,6 +4,7 @@ type: media
 title: 南京无想山景区「无想山大事记」
 titleEn: Wuxiang Mountain Scenic Area, Nanjing — Chronicle of Events
 rights: link-only
+reliability: tertiary
 archive: link
 publisher: 南京无想山景区
 publisherEn: Wuxiang Mountain Scenic Area, Nanjing

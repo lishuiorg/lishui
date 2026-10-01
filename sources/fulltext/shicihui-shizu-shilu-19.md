@@ -4,6 +4,7 @@ type: archive
 title: 《大清世祖章皇帝实录》卷之十九（诗词汇转录本）
 titleEn: Veritable Records of the Shunzhi Reign, juan 19 (transcription)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 《清实录》历朝实录馆纂（诗词汇转录）
 publisherEn: Veritable Records of the Qing (transcribed at Shicihui)

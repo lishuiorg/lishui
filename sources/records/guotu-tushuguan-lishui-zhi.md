@@ -4,6 +4,7 @@ type: archive
 title: 国家图书馆中华古籍资源库·地方志库所藏溧水县志著录（六种，含光绪本十二册影像）
 titleEn: National Library of China, Chinese Ancient Books Resource Database — Catalogued Copies of the Lishui County Gazetteer (six records, including the twelve-volume Guangxu set with images)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 国家图书馆（国家古籍保护中心）
 publisherEn: National Library of China (National Ancient Books Protection Center)

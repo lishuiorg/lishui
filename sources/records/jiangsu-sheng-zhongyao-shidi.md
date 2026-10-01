@@ -4,6 +4,7 @@ type: gov
 title: 江苏省省级重要湿地名录（石臼湖）
 titleEn: Jiangsu Provincial List of Important Wetlands (Shijiu Lake)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省人民政府
 publisherEn: People's Government of Jiangsu Province

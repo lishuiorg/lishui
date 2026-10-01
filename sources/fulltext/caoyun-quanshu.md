@@ -4,6 +4,7 @@ type: archive
 title: 《漕运全书》（清·佚名辑）
 titleEn: Caoyun Quanshu (Complete Book of Grain Transport), Qing dynasty, anonymous compiler
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 清佚名辑（识典古籍题《漕运全书》）；今据识典古籍网络转录本核读卷之二「漕粮原额·蠲缓改折」、卷之二十四「官丁廪历粮」
 publisherEn: Anonymous Qing compiler (titled Caoyun Quanshu in Shidian Guji); consulted in an online transcription, juan 2 ("Grain Quotas; Remission and Commutation") and juan 24

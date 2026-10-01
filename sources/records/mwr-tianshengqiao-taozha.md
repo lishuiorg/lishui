@@ -4,6 +4,7 @@ type: gov
 title: 南京市溧水区天生桥套闸除险加固工程（中国水利工程优质「大禹」奖工程风采展示）
 titleEn: Tianshengqiao Double-Gate Sluice Rehabilitation Project, Lishui District, Nanjing (China Water Engineering Quality "Dayu" Award project showcase)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 中国水利网（中国水利报社／水利部宣传教育中心网站）
 publisherEn: China Water Resources News (website of the publicity and education centre, Ministry of Water Resources)

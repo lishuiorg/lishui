@@ -4,6 +4,7 @@ type: gazetteer
 title: 白居易《唐故溧水县令太原白府君墓志铭》（《白氏长庆集》卷七十）
 titleEn: Bai Juyi, "Epitaph for the Late Magistrate of Lishui, Mr. Bai of Taiyuan" (Bai shi changqing ji, juan 70)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 唐白居易撰；《白氏长庆集》卷七十，据四库全书本转录
 publisherEn: By Bai Juyi (Tang); Bai shi changqing ji, juan 70, transcription of the Siku Quanshu text

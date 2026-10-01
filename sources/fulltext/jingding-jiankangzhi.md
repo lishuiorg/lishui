@@ -4,6 +4,7 @@ type: gazetteer
 title: 景定建康志（南宋·周应合）
 titleEn: Jingding Jiankang Zhi (Gazetteer of Jiankang, Jingding Era), by Zhou Yinghe (Southern Song)
 rights: public-domain
+reliability: secondary
 archive: link-registered
 publisher: 南宋马光祖修、周应合纂，五十卷，景定二年（1261）成书；本次据四库全书本网络转录核读卷十五、卷四十一
 publisherEn: Compiled under Ma Guangzu with Zhou Yinghe as principal editor, 50 juan, completed in 1261; consulted in an online transcription of the Siku Quanshu edition, juan 15 and juan 41

@@ -4,6 +4,7 @@ type: heritage-list
 title: 关于公布溧水区第三批区级非遗代表性保护项目、代表性传承人名录的通知
 titleEn: Notice publishing the third batch of district-level representative ICH items and bearers
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 南京市溧水区人民政府办公室
 publisherEn: General Office, Lishui District People's Government, Nanjing

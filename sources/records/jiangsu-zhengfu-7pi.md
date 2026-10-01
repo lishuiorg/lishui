@@ -4,6 +4,7 @@ type: heritage-list
 title: 江苏省人民政府《关于公布第七批省级文物保护单位的通知》
 titleEn: Jiangsu Provincial People's Government — Notice on the Seventh Batch of Provincial Cultural Relic Sites
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省人民政府，苏政发〔2011〕181 号，2011 年 12 月 19 日
 publisherEn: Jiangsu Provincial People's Government, Su Zheng Fa [2011] No. 181, 19 December 2011

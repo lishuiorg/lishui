@@ -4,6 +4,7 @@ type: media
 title: 央广网：江苏溧水明觉铁画
 titleEn: China National Radio — Mingjue Iron Painting of Lishui, Jiangsu
 rights: excerpt-only
+reliability: secondary
 archive: excerpt
 publisher: 央广网（中国乡村之声）
 publisherEn: China National Radio (Country Voice)

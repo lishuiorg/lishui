@@ -4,6 +4,7 @@ type: gov
 title: 江苏省人民政府《关于同意南京市溧水区中山水库水源地等12个水源地保护区调整划分方案的批复》（苏政复〔2018〕137号）
 titleEn: Jiangsu Provincial People's Government — Reply Approving the Adjustment of Protection Areas for 12 Drinking Water Sources including the Zhongshan Reservoir Source in Lishui District (Su Zheng Fu [2018] No. 137)
 rights: gov-open
+reliability: primary
 archive: link
 publisher: 江苏省人民政府
 publisherEn: Jiangsu Provincial People's Government

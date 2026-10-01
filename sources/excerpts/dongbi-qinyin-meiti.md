@@ -4,6 +4,7 @@ type: media
 title: 「洞壁琴音」诸家媒体记述合辑（南京本地宝、新浪博客、优旅度假网、中国网络电视台）
 titleEn: Media Accounts of the “Music from the Cavern Wall” Scenic Site (Local Treasure, Sina Blogs, Youlü, CNTV)
 rights: excerpt-only
+reliability: tertiary
 archive: excerpt
 publisher: 南京本地宝；新浪博客「阳光明媚」「老羊ly」「秦淮的女儿」；优旅度假网；中国网络电视台科教台（转中国经济网）
 publisherEn: Nanjing Local Treasure; Sina Blogs; Youlü Holiday; CNTV Science and Education Channel (reprinting China Economic Net)
