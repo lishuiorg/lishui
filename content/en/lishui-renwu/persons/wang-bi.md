@@ -5,7 +5,7 @@ lang: en
 site: lishui-renwu
 title: Wang Bi
 subtitle: A Lishui official recorded in the "Distinguished Officials" biography section of the Kangxi Lishui County Gazetteer
-summary: Wang Bi, courtesy name Cunjing, a native of Huangyan, is recorded as appointed in the eleventh year of the Chenghua era. "He had moral staying-power, and was rich in learning" is the gazetteer's judgement; "he pressed collection to its term, and none of the people were behind" is this volume's record of tax collection in Lishui — what was collected and what the term was are nowhere explained. After Lishui the gazetteer says only that he later held a post at Xinghua under the title it writes as *taishou*, without naming the office. His dates, the year he left office and his title in Lishui are nowhere recorded.
+summary: Wang Bi, courtesy name Cunjing, a native of Huangyan, is recorded as appointed in the eleventh year of the Chenghua era. "He had moral staying-power, and was rich in learning" is the gazetteer's judgement; "he pressed collection to its term, and none of the people were behind" is this volume's record of tax collection in Lishui — what was collected and what the term was are nowhere explained. After Lishui the gazetteer says only that he later held a post at Xinghua under the title it writes as *taishou*, without naming the office. His dates, the year he left office and his title in Lishui are nowhere recorded. The Filial Sons biography of juan 7 names a "magistrate Wang Bi" in the same Chenghua period; this library takes the two to be one man, and that other biography is where his Lishui title and a second account of his later career come from.
 role: 官员
 birth_era: 明
 relation: 任官
@@ -17,6 +17,10 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之六·名宦传「王弼」条（据网络转录，未核点校本）
+  - ref: src:kangxi-lishuixianzhi
+    locator: 卷之七·孝子传「明」段「丁溁」条（据网络转录，未核点校本；本条只取以记其溧水职名「令」与其去任后所在）
+related:
+  - ls:person:ding-ying
 updated: 2026-10-01
 ---
 
@@ -46,6 +50,10 @@ This is the only clause in the biography with any administrative content, and it
 
 This clause records his career after Lishui, and says only that he later held a post at Xinghua under the title the gazetteer writes as *taishou*: no year is given, and this entry does not turn that word into a named office.
 
+## The "magistrate Wang Bi" of the Filial Sons biography
+
+This library has a separate entry for Ding Ying (`ls:person:ding-ying`), resting on the Filial Sons biography of juan 7, which records a student of the Chenghua era mourning in a hut beside his mother's grave and names "the magistrate Wang Bi" three times. The dates agree — this entry gives his appointment in the eleventh Chenghua year, that one gives his studentship in the Chenghua era — and on that basis this library decides that the "magistrate Wang Bi" there is the Wang Bi of this entry, stating plainly that this is a decision made from two volumes read side by side rather than a statement the gazetteer makes. The decision supplies two things. First, this entry gives him no title in Lishui, while the Filial Sons biography attaches the word "magistrate" to his name, which is where this library knows his Lishui title from; this entry still does not write it as county magistrate and records only that the other biography's word is "magistrate". Second, this entry says he later held a post at Xinghua, while the Filial Sons biography says he was then in the Board of Punishments; the two accounts of his later career differ, and this entry sets both wordings side by side without deciding their order or whether they are one post.
+
 ## Relation to Lishui
 
 He was not a Lishui native — the gazetteer says "a native of Huangyan" — and enters this library through official service. Two clauses tie him to the county: his appointment in the eleventh year of the Chenghua era, and the clause on pressing collection. The tag "Taxation and corvée" answers only to that clause, not to any recorded register, quota or method.
@@ -64,4 +72,4 @@ Fifth, "he had moral staying-power, and was rich in learning" is the gazetteer's
 
 Sixth, the year of the Xinghua post, his later career, his final rank and his place of death are all unrecorded.
 
-Seventh, this entry rests on one biography in this volume, an online transcription not checked against a punctuated or printed edition; searches across the other source layers of this library produced nothing that could add to him.
+Seventh, this entry rests on one biography in this volume and takes one entry from the Filial Sons biography of juan 7 only to identify the "magistrate Wang Bi" and to set an alternative account of his later career beside this one; both volumes are online transcriptions not checked against a punctuated or printed edition, and searches across the other source layers of this library produced nothing that could add to him.

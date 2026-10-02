@@ -1,0 +1,46 @@
+---
+id: ls:person:xia-xuan
+type: person
+lang: en
+site: lishui-renwu
+title: Xia Xuan
+subtitle: A Ming figure recorded in the Recommendations examination of juan 2 of the Kangxi Lishui County Gazetteer, presented from Lishui in the Hongwu period and serving as prefect of Jiaxing prefecture in Zhejiang
+summary: Xia Xuan was presented through the category of "clear knowledge of the classics and cultivated conduct" and served as prefect of Jiaxing prefecture in Zhejiang. The section gives him only two items, the route of presentation and the office held, and records no native place, no courtesy name, no year of presentation or appointment, and no act of his in Lishui. His birth and death years are nowhere recorded.
+role: 官员
+birth_era: 明
+relation: 荐辟
+tags: [名人, 明代]
+status: published
+verified: true
+confidence: medium
+depth: standard
+sources:
+  - ref: src:kangxi-lishuixianzhi
+    locator: 卷之二·荐辟考「明·洪武間」段「夏璿」条（据网络转录，未核点校本）
+updated: 2026-10-02
+---
+
+Xia Xuan is one of the men presented from Lishui and served elsewhere listed in the "Ming, Hongwu period" block of the Recommendations examination in juan 2 of the Kangxi *Lishui County Gazetteer*. The section gives him two items — the route of presentation and the office held — and nothing else. This entry writes only those two items and supplies no life for him.
+
+## Route into office and office held
+
+> 夏璿由經明行修，任浙江嘉興府知府。
+> — Kangxi *Lishui County Gazetteer*, juan 2
+
+His route of presentation is the longest of those the section records, rendered here as "by way of clear knowledge of the classics and cultivated conduct". This entry reproduces the five characters as they stand, shortens them to nothing, does not convert them into "jinshi" or any other degree, and offers no account of how this category was selected or administered — the section says nothing of it. "Served as prefect of Jiaxing prefecture in Zhejiang" is the office as the gazetteer words it, and it lay in Zhejiang, not in Lishui; what a prefect did, and when he took up and left the post, is nowhere recorded. This block gives no years at all, so neither the year of presentation nor the year of appointment can be known.
+
+## Relation to Lishui
+
+The gazetteer gives no native place and records no act of his in Lishui. He enters the persons site with the relation "Recommended from Lishui", and the reasoning must be stated: the only tie the section makes between him and Lishui is that he was presented from Lishui and served elsewhere — being named in the Recommendations examination of a Lishui gazetteer is itself the gazetteer's statement that he was recommended out of Lishui and held office away from it. This value is used only for this section, and differs from the others: the section records no birthplace, so "born in Lishui" is not available; his office lay in a Zhejiang prefecture and he held no Lishui post, so "official service" is not available; the section records no activity of his in Lishui, so "active in Lishui" is not available.
+
+## Points of doubt
+
+First, his birth and death years, his native place and his courtesy name are nowhere recorded.
+
+Second, the era value "Ming" here only records that the section places him in its "Ming, Hongwu period" block. That grouping dates his presentation and service, not his birth: it proves neither that he was born in the Hongwu era nor that he was active in any particular Hongwu year, and this block gives no years at all.
+
+Third, his route into office is given only as "by way of clear knowledge of the classics and cultivated conduct", which must not be rewritten as "jinshi" or any other degree; the section records nothing of the selection rules or method behind it. "Prefect of Jiaxing prefecture in Zhejiang" is an office title, and its duties and term are unrecorded.
+
+Fourth, whether he had a house, descendants or remains in Lishui is nowhere recorded, and this library has no material to decide it.
+
+Fifth, this entry rests on one roster line in the Hongwu block; searches across the other source layers of this library produced nothing that could add to him. The section used here is an online transcription, not checked against a punctuated edition or the printed text, so citations must be marked as from the transcription.
