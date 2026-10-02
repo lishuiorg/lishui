@@ -24,8 +24,12 @@ content/
 ├── lishui-history/{events,places,articles}/*.md     # 溧水历史
 ├── lishui-culture/{items,places,articles}/*.md      # 溧水文化
 ├── lishui-towns/{towns,villages,articles}/*.md      # 溧水街镇
+├── lishui-shanshui/{mountains,waters,articles,routes}/*.md   # 溧水山水
+├── lishui-renwu/persons/*.md                        # 溧水人物
 └── en/<siteId>/{同上}/*.md                          # 与中文完全对称
 ```
+
+`sources/` 下另有三份工作文档，接手先读：`collection-plan.md`（权威计划）、`coverage-checklist.md`（当前工作队列）、`progress.md`（进度与交接，含实测数字与下一步）。硬规则在 `rights.md`。
 
 三站都有 `articles/`，历史与文化都有 `places/`，扁平目录必然撞车。按站分目录后，**每站构建只读自己的子树**，构建成本不随分站数增长。
 
