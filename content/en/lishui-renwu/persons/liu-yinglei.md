@@ -18,6 +18,7 @@ sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之六·名宦传「刘应雷」条（据网络转录，未核点校本）
 related:
+  - ls:person:fu-yingzhen
   - ls:person:wang-congshan
 updated: 2026-10-01
 ---

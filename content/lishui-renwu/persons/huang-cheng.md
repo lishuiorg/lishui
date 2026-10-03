@@ -18,6 +18,7 @@ sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之七·孝子传「黄枨」条（据网络转录，未核点校本）
 related:
+  - ls:person:fu-yingzhen
   - ls:person:liu-yinglei
 updated: 2026-10-02
 ---
