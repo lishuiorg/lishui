@@ -26,7 +26,9 @@ sources:
 related:
   - ls:place:fanshi-zongci
   - ls:place:qiushi-zongci
-updated: 2026-09-29
+distinct_from:
+  - ls:person:zhao-shi-wangmaoke
+updated: 2026-10-03
 ---
 
 ## 名录著录
