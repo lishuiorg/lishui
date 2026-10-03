@@ -194,9 +194,11 @@
   "personRole": {
     "官员": "Official",
     "乡贤": "Local worthy",
+    "文教": "Teacher or scholar",
     "匠作": "Craftsman",
     "艺文": "Man of letters",
     "宗教": "Religious figure",
+    "妇女": "Woman of note",
     "近现代人物": "Modern figure"
   },
   "birthEra": {
