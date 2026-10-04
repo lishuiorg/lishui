@@ -9,7 +9,7 @@ summary: 明嘉靖四年（1525）王从善在县城望京街建中山书院，�
 place_type: 书院
 era: 明嘉靖年间
 address: 南京市溧水区永阳街道望京街
-tags: [书院, 名人, 明代]
+tags: [书院, 名人, 明代, 地名文化遗产]
 status: published
 verified: false
 confidence: medium

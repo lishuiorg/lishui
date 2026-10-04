@@ -9,7 +9,7 @@ summary: In 1525 Wang Congshan built Zhongshan Academy on Wangjing Street in the
 place_type: 书院
 era: 明嘉靖年间
 address: Wangjing Street, Yongyang Subdistrict, Lishui District, Nanjing
-tags: [书院, 名人, 明代]
+tags: [书院, 名人, 明代, 地名文化遗产]
 status: published
 verified: false
 confidence: medium

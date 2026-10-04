@@ -11,7 +11,7 @@ era: 清代
 protection_level: 溧水区文物保护单位
 protection_batch: Third batch, 2017
 address: Guotangtou Village, Honglan Subdistrict, Lishui District, Nanjing
-tags: [文物古迹, 清代, 宗祠, 区级文保]
+tags: [文物古迹, 清代, 宗祠, 区级文保, 地名文化遗产]
 status: published
 verified: true
 confidence: medium

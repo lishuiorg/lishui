@@ -11,7 +11,7 @@ era: 清代
 protection_level: 溧水区文物保护单位
 protection_batch: 第三批，2017 年
 address: 南京市溧水区洪蓝街道郭塘头村
-tags: [文物古迹, 清代, 宗祠, 区级文保]
+tags: [文物古迹, 清代, 宗祠, 区级文保, 地名文化遗产]
 status: published
 verified: true
 confidence: medium

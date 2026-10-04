@@ -11,7 +11,7 @@ unit_type: 村
 parent: ls:place:jingqiao-town
 traditional_village: 江苏省传统村落（第六批，2023 年）
 address: 南京市溧水区晶桥镇邰村
-tags: [传统村落, 村落, 江苏省传统村落, 名胜, 明代, 传说]
+tags: [传统村落, 村落, 江苏省传统村落, 名胜, 明代, 传说, 地名文化遗产]
 status: published
 verified: false
 confidence: medium

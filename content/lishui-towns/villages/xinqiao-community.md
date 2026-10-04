@@ -10,7 +10,7 @@ place_type: 行政区划
 unit_type: 社区
 parent: ls:place:jingqiao-town
 address: 南京市溧水区晶桥镇新桥社区
-tags: [行政区划, 社区]
+tags: [行政区划, 社区, 地名文化遗产]
 status: published
 verified: false
 confidence: high
