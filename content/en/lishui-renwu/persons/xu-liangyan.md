@@ -17,9 +17,13 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之六·名宦传「徐良彦」条（据网络转录，未核点校本）
+  - ref: src:kangxi-lishuixianzhi
+    locator: 卷之八·艺文志「赞」门徐良彦《古義士羊角哀左伯桃墓贊》（据网络转录，未核点校本）
 related:
   - ls:place:yongshousita
-updated: 2026-10-01
+  - ls:place:yiqidun
+  - ls:item:yiqidun-gushi
+updated: 2026-10-04
 ---
 
 Xu Liangyan is one of the Ming officials of Lishui listed in juan 6 of the Kangxi *Lishui County Gazetteer*, and his biography is one of the two longest in the volume. It is unusually detailed, yet it withholds dates exactly where they matter most: the year of his reappointment to Lishui, and the year of the pagoda he promoted. This entry works section by section, marks every judgement and causal claim as the gazetteer's, and keeps conflicting dates side by side without choosing.
@@ -77,6 +81,23 @@ Two layers must be separated. "He promoted the righteous people's building of a 
 > — Kangxi *Lishui County Gazetteer*, juan 6
 
 In a *bingwu* year of the Wanli era he served as an assistant examiner in the southern examination and took many later-known men, Qian Qianyi being the first he raised. "Minister of Rites" is the title the gazetteer uses for him; the gazetteer records neither his office at the time nor a year, and this entry converts the cyclical date into nothing.
+
+## His eulogy for the tomb of Yang Jiao'ai and Zuo Botao, in juan 8
+
+Juan 8 of the Kangxi gazetteer, in the "eulogies" division of its Literature section, carries a piece by Xu Liangyan, "Eulogy for the Tomb of the Ancient Righteous Men Yang Jiao'ai and Zuo Botao", subscribed 「知縣」, which agrees with his biography's 「服阕改补溧水县」; it is, so far as this library knows, the one further piece of his own writing that the old gazetteer preserves outside his biography. Its short preface gives the story:
+
+> 羊角哀、左伯桃為死友，聞楚王賢，往見之。道遇雨雪，計不俱全，乃並衣糧與角哀，入樹中死。
+> — Kangxi *Lishui County Gazetteer*, juan 8
+
+*Translated:* Yang Jiao'ai and Zuo Botao were friends unto death; hearing that the King of Chu was worthy, they set out to see him. Meeting rain and snow on the way, and reckoning that both could not survive, Zuo Botao gave his clothes and rations to Yang Jiao'ai and died inside a tree.
+
+The eulogy closes:
+
+> 予立貞珉，匪捍樵牧。
+
+*Translated:* I set up a stone tablet, not to keep off woodcutters and herdsmen.
+
+「貞珉」 is a stone tablet; the author says he set one up at the tomb. Two limits must be marked. First, the eulogy gives no location for the tomb, so this library does not use it to identify Yiqidun with the joint tomb of Yang and Zuo (see this library's two Yiqidun entries). Second, the eulogy contains no account of Yang Jiao'ai later killing himself to help his friend in the underworld — it stops at "gave his clothes and rations and died inside a tree", which differs from the latter half of the modern folk tale. The year in which he "set up the stone tablet" is not recorded, and this entry does not infer it.
 
 ## After Lishui
 

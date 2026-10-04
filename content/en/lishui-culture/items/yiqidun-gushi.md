@@ -22,10 +22,13 @@ sources:
     locator: Report text, the Yiqidun passage (folk legend and the specialists' doubt)
   - ref: src:nanjing-shi-wwbh-minglu
     locator: 名录「义气墩」行（春秋战国，和凤镇中杨村）
+  - ref: src:kangxi-lishuixianzhi
+    locator: 卷之八·艺文志·赞·明徐良彦《古義士羊角哀左伯桃墓贊》
 related:
   - ls:article:lishui-feiyi-minglu
   - ls:place:yiqidun
-updated: 2026-09-30
+  - ls:person:xu-liangyan
+updated: 2026-10-04
 ---
 
 > **Relation to the entry of the same name (2026-09-30)**: this entry records the **folk legend attached to Yiqidun as an intangible cultural heritage item** — its district-level batch, its recommended guardian and the outline of the story. The history site separately carries the entry "Yiqidun Mound" (`ls:place:yiqidun`), which records the **mound itself**, its form, period and level of heritage protection. The two are in one place but are not the same object, so under the criterion that different objects of the same name are not merged — the same reason "Wuxiangshan Cliff Carvings" and "Wuxiang Mountain" each keep an entry — each site keeps its own entry and the two **point at each other** rather than merging. This entry does not repeat the level and period of the mound, which are recorded in the history site's entry.
@@ -52,6 +55,20 @@ The above is a folk legend. This entry keeps its legendary character, sets it ap
 
 The same report also carries the specialists' view: there are several "joint tombs of Zuo Botao and Yang Jiao'ai" in China, and the Lishui mound is very likely a mound tomb in origin, the local people having attached the moving tale to it and so produced a relic. On this view, the claim that Yiqidun is the joint tomb of the two is an attachment, and the mound at the level of documented history still rests on its archaeology and on the mound itself. This entry sets the legend and the specialists' view side by side and does not choose between them.
 
+## The Yang–Zuo grave eulogy in the Kangxi Gazetteer
+
+Juan 8 of the Kangxi Lishui County Gazetteer, the "Yiwen zhi" (literary records), carries a eulogy (贊) by Xu Liangyan of the Ming, "A Eulogy for the Grave of the Ancient Righteous Men Yang Jiao'ai and Zuo Botao", with the subscription "知縣" (magistrate) — that is, written by a Lishui magistrate. Its prose opening runs:
+
+> 羊角哀、左伯桃為死友，聞楚王賢，往見之。道遇雨雪，計不俱全，乃並衣糧與角哀，入樹中死。
+
+The two were sworn friends (死友); hearing that the King of Chu was worthy, they set out to see him, met rain and snow on the way, and, unable both to survive, Zuo Botao gave his clothes and rations to Yang Jiao'ai and died inside a tree. The eulogy closes:
+
+> 予立貞珉，匪捍樵牧。
+
+"貞珉" is a stone tablet: the author says he set one up at the grave, not to keep out woodcutters and herdsmen. The gazetteer thus records the Yang–Zuo grave and a eulogy for it, so the legend does have an old-gazetteer record and is not without a source.
+
+Three limits of the eulogy must be noted. First, its narrative has only the motif of giving up clothes and rations and dying in the tree, not the later motif, in the modern media account, of Yang Jiao'ai taking his own life to aid Zuo Botao in the nether world; it is therefore evidence for the earlier form of the story only. Second, it does not say the two were men of Yan, nor that they reached Lishui. Third, it gives no location for the grave, so it cannot be used to identify Yiqidun with the Yang–Zuo joint tomb. The identification of Yiqidun as that tomb is the modern folk tradition retold in a media report, as recorded above in this entry.
+
 ## Points in doubt
 
 First, only the outline of the story as retold in a media report is available; the teller, the range of transmission and the occasions of telling are not recorded and remain to be added.
@@ -62,6 +79,6 @@ Third, the date and heritage level of the Yiqidun mound are recorded under the Y
 
 Fourth, the reporting-area column for this row in the public notice reads "Qinhuai District", which does not agree with the place of transmission in Zhongyang Village, Hefeng Town, and is inconsistent with the other rows; the wording is reproduced as it stands, not silently altered, and the discrepancy remains to be verified. The two heritage lists, the List of Nanjing Cultural Relic Sites Protected at the Municipal Level and the district's third-batch list of protected sites, both give the location as Zhongyang Village, Hefeng Town, which supports the view that the column is in error; but any correction to the original wording of the notice must await an official document, and this library does not rewrite it.
 
-Fifth, this library searched the full texts of the five Lishui County Gazetteers it holds and found no passage on Yiqidun, Zuo Botao or Yang Jiao'ai; the legend has no gazetteer basis, so no starting date is given.
+Fifth, of the five Lishui County Gazetteers this library holds, only the Kangxi gazetteer carries a relevant passage — the eulogy on the Yang–Zuo grave in juan 8, quoted above — so the Yang–Zuo legend does have an old-gazetteer record and is not without a source. The eulogy, however, gives no location for the grave, so it cannot serve to identify Yiqidun with the Yang–Zuo joint tomb. The story text has no ascertainable date, so no starting date is given.
 
 Sixth, the level of the story text is still missing: the sources available give only an outline, with no record of the teller, the line of transmission or the occasions of telling. The outline given in this entry is a retelling of a media report, not a transcription from a performer's script.
