@@ -151,13 +151,15 @@ sources/          来源层（来源卡：每个事实的出处与使用限度�
 
 内容上一批：`193f69d`（韩熙载读书台、柘塘街道）。均已推送。
 
-### 8.2 暂停时做过的清理
+### 8.2 暂停时做过的清理与修复
 
-暂停时做过一轮空间与残留清理（均不影响仓库与线上站点）：
+暂停时做过一轮清理与一处发布故障修复。**清理均不影响仓库与线上站点。**
 
+- **修复发布流水线（重要）**：分站发布工作流对内容库做了「只拉本站子树」的稀疏检出，而校验引擎判定「跨站引用」靠扫磁盘上的 `content/<siteId>/`——于是指向别站的 `related`／`distinct_from` 全被判成「条目不存在」。**自 2026-10-01 起四个站在发布路径的校验一步连续失败，线上内容一直停在 2026-09-30**（回归工作流 `verify-sites.yml` 是全量检出，全绿，掩盖了它）。已把 `site-deploy.yml` 改为整棵 `content/` 检出（lishui-kit `d093ca4`），并逐站手动 dispatch 验证：四站均已 `success`，10-01 后的内容重新上线。相关教训已写入 `docs/handoff.md` 与 `lishui-kit/README.md`。
 - **删除 4 个站点库的 `node_modules`**（site-lishi／wenhua／jiezhen／shanshui，各约 131 MB，合计约 **524 MB**）。它们是被 `.gitignore` 忽略的依赖目录，不在 git 里；**恢复后要重新构建站点，须先在对应目录跑 `npm install`**。`dist/`（构建产物，四站约 15 MB）保留未删。
 - 删除工作区根目录的临时件：`_tmp_pdf/`（36 MB 环评 PDF）、`_tmp_rivers/`（水利河湖 OCR 原料）、`_tmp_eia*.py`／`_tmp_ft.py`／`_tmp_pdf_dl.py`、`_verify_quotes.mjs`、空目录 `tmp/`、`.trae-html-share-packages/`。其中 EIA 与水利材料均已先转为来源卡（如 `src:jiangsu-sthjt-shijiu-hudi-eia`）。
 - 删除 `tools/` 中的三张 OG 底图（`_og-*.jpg`）与三份一次性脚本（`chardiff.mjs`／`zero-diff.mjs`／`negative.mjs`），只留 `gh.mjs`。**注意**：那三张底图原是为重做各站封面所留的无字底图，删除后若需改字换字须重新生成底图（已同步修改 `docs/handoff.md`）。
+- 顺带修好文档与站点代码中的若干旧误（人物层计数 145/150/234→235、coverage-checklist 仍称人物层未建、collection-plan 的重复组数／例外对数／引用次数、山水站详情卡缺「空间类型」标签、山水站英文名两套、门户 404 站群带漏两站等）。
 
 ### 8.3 如何恢复（开场照抄）
 
