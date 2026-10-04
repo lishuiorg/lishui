@@ -54,7 +54,7 @@ As for the processes of soaking and grinding the rice, steaming, shaping and col
 
 ## Transmission and safeguarding
 
-The public notice lists no representative bearer for this project. Among the eight bearers of newly included projects named in the fourth-batch notice, one is the bearer of the maltose craft, Liu Ming, whose guardian unit is the Jingqiao Town Culture and Sports Station; that is a different item from the present one, and no bearer may be inferred for this project on that ground. The third-batch district-level list of bearers (2017) records none for this project either.
+The public notice lists no representative bearer for this project. Among the eight bearers of newly included projects named in the fourth-batch notice, one is the bearer of Malt Sugar Making, Liu Ming; that is a different item from the present one, and no bearer may be inferred for this project on that ground. Nor may the guardian unit of Malt Sugar Making be rewritten on the authority of that notice: its guardian unit is given in Appendix 1 of Li Zheng Ban Fa [2021] No. 3 as Jingqiao Town Culture and Sports Centre, a different document and a different wording from the recommended guardian unit of the present project. The third-batch district-level list of bearers (2017) records none for this project either.
 
 ## Uncertainties
 
