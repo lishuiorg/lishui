@@ -17,11 +17,13 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之七·贞烈传「三烈妇」条（据网络转录，未核点校本）
+  - ref: src:kangxi-lishuixianzhi
+    locator: 卷之八·艺文志
 related:
   - ls:person:heng-shi-zhaoleize
   - ls:person:liu-shi-zhaokai
   - ls:person:zhao-longze
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 Madam Xia is one of the three women in the "Three Staunch Women" notice in the Yuan section of the Chaste and Staunch biography in juan 7 of the Kangxi *Lishui County Gazetteer*. The notice opens with "the Three Staunch Women" and covers all three in one entry; this entry deals with Madam Xia alone. The agreement or disagreement of Madam Liu's husband Zhao Kai and of Madam Heng's husband is treated in their own entries; here it is stated that the name of Madam Xia's husband Zhao Dong agrees in both notices.
@@ -41,7 +43,11 @@ The subject here is the Madam Xia of the "Three Staunch Women", recorded as the 
 
 ## The biography and encomium for the "Three Staunch"
 
-"The Hanlin academician Chen Zuren wrote their biography and the Duke of Lu, Zhang Zhu, their encomium" is the gazetteer's account of later men writing a biography and encomium for them. This entry records only the existence of the biography and encomium, their authors and their offices; this library has not transcribed them, and neither Chen Zuren nor Zhang Zhu has an entry here, so nothing is supplied about their lives from this.
+"The Hanlin academician Chen Zuren wrote their biography and the Duke of Lu, Zhang Zhu, their encomium" is the gazetteer's account of later men writing a biography and encomium for them. This entry records the existence of the biography and encomium, their authors and their offices; the two pieces are now transcribed in juan 8, Literature (see this card's sources) and may be briefly quoted. Neither Chen Zuren nor Zhang Zhu yet has an entry here, so nothing is supplied about their lives from this.
+
+## Reading the biography and encomium in juan 8: Madam Xia as Dong's wife
+
+The biography by Chen Zuren and the encomium by Zhang Zhu that this notice points to are now transcribed in this card's source `src:kangxi-lishuixianzhi`, juan 8, Literature, and this entry reads them alongside the notice. Zhang Zhu's "Encomium on the Three Staunch" opens "歸德趙雷澤二子棟之婦夏" — Madam Xia, wife of Dong, the son of Zhao Leize; Chen Zuren's "Biography of Righteousness" has Zongze's wife Heng say to "棟婦夏" (Dong's wife Xia) that they should die, and Madam Xia answer "吾意亦然" ("my thought is the same"), whereupon the two "共赴池水" (went together to the pond water). On Madam Xia being Dong's wife the two juan-8 pieces agree with the juan-7 Chaste and Staunch biography, and no variant arises.
 
 ## Compared with the Loyalty and Integrity biography: Madam Xia's husband agrees
 
@@ -61,7 +67,7 @@ Third, the life of her husband Zhao Dong and the year of their marriage are unre
 
 Fourth, the oath of the three women, the place where they drowned, and the year of their deaths are all unrecorded.
 
-Fifth, the biography by Chen Zuren and the encomium by Zhang Zhu are not transcribed here, and neither man has an entry, so nothing about their lives is supplied from this.
+Fifth, the biography by Chen Zuren and the encomium by Zhang Zhu are now transcribed in juan 8, Literature (see this card's sources) and may be briefly quoted; neither man yet has an entry in this library, so nothing about their lives is supplied from this.
 
 Sixth, this Madam Xia and the other Madam Xia of the Song section of the same juan, daughter of the Xia family of Qiqiao, are two people; this library keeps them in separate entries and does not decide any relation between them.
 

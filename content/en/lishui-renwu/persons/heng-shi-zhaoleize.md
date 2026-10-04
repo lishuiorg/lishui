@@ -4,8 +4,8 @@ type: person
 lang: en
 site: lishui-renwu
 title: Madam Heng
-subtitle: One of the Three Staunch Women recorded in the Chaste and Staunch biography of juan 7 of the Kangxi Lishui County Gazetteer, wife of Zhao Leize; when the Yu-Ying forces rose and took the city, the three women swore together and then drowned themselves, and were called the "Three Staunch"; her husband is named Zhao Leize in this biography but Zongze in the Loyalty and Integrity biography of juan 6, the two disagreeing
-summary: Madam Heng is one of the three women in the "Three Staunch Women" notice in the Yuan section of the Chaste and Staunch biography in juan 7 of the Kangxi Lishui County Gazetteer, recorded there as the wife of Zhao Leize. When the Yu-Ying forces rose and took Jianye, the city fell, the three women swore to face one another and then drowned themselves together, and were called the "Three Staunch"; the Hanlin academician Chen Zuren wrote their biography and the Duke of Lu, Zhang Zhu, their encomium. One variant must be set out: her husband is named "Zhao Leize" in the Chaste and Staunch biography, but the Zhao Longze notice of the Loyalty and Integrity biography in juan 6 has "the wife Heng of his younger brother Zongze", the two disagreeing, and this library sets them side by side without deciding. The three women are linked to one another and all link to Zhao Longze.
+subtitle: One of the Three Staunch Women recorded in the Chaste and Staunch biography of juan 7 of the Kangxi Lishui County Gazetteer, wife of Zhao Leize; when the Yu-Ying forces rose and took the city, the three women swore together and then drowned themselves, and were called the "Three Staunch"; her husband is named Zhao Leize in this biography but Zongze in the juan-6 Loyalty and Integrity biography and in both juan-8 pieces, the notices disagreeing
+summary: Madam Heng is one of the three women in the "Three Staunch Women" notice in the Yuan section of the Chaste and Staunch biography in juan 7 of the Kangxi Lishui County Gazetteer, recorded there as the wife of Zhao Leize. When the Yu-Ying forces rose and took Jianye, the city fell, the three women swore to face one another and then drowned themselves together, and were called the "Three Staunch"; the Hanlin academician Chen Zuren wrote their biography and the Duke of Lu, Zhang Zhu, their encomium. One variant must be set out: her husband is named "Zhao Leize" in the Chaste and Staunch biography, but the juan-6 Loyalty and Integrity biography and the two juan-8 pieces pointed to by this notice — Chen Zuren's biography and Zhang Zhu's encomium — all name him Zongze; this library sets the readings side by side without deciding, keeping the id and title formed from the Chaste and Staunch wording. The three women are linked to one another and all link to Zhao Longze.
 role: 妇女
 birth_era: 五代宋元
 relation: 活动
@@ -17,14 +17,16 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之七·贞烈传「三烈妇」条（据网络转录，未核点校本）
+  - ref: src:kangxi-lishuixianzhi
+    locator: 卷之八·艺文志
 related:
   - ls:person:liu-shi-zhaokai
   - ls:person:xia-shi-zhaodong
   - ls:person:zhao-longze
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
-Madam Heng is one of the three women in the "Three Staunch Women" notice in the Yuan section of the Chaste and Staunch biography in juan 7 of the Kangxi *Lishui County Gazetteer*. The notice opens with "the Three Staunch Women" and covers all three in one entry; this entry deals with Madam Heng alone and sets apart one variant concerning her husband, because the two notices of this gazetteer disagree.
+Madam Heng is one of the three women in the "Three Staunch Women" notice in the Yuan section of the Chaste and Staunch biography in juan 7 of the Kangxi *Lishui County Gazetteer*. The notice opens with "the Three Staunch Women" and covers all three in one entry; this entry deals with Madam Heng alone and sets apart one variant concerning her husband, because the notices of this gazetteer disagree.
 
 ## The gazetteer text
 
@@ -41,7 +43,13 @@ The subject here is the Madam Heng of the "Three Staunch Women", recorded as the
 
 ## The biography and encomium for the "Three Staunch"
 
-"The Hanlin academician Chen Zuren wrote their biography and the Duke of Lu, Zhang Zhu, their encomium" is the gazetteer's account of later men writing a biography and encomium for them. This entry records only the existence of the biography and encomium, their authors and their offices; this library has not transcribed them, and neither Chen Zuren nor Zhang Zhu has an entry here, so nothing is supplied about their lives from this.
+"The Hanlin academician Chen Zuren wrote their biography and the Duke of Lu, Zhang Zhu, their encomium" is the gazetteer's account of later men writing a biography and encomium for them. This entry records the existence of the biography and encomium, their authors and their offices; the two pieces are now transcribed in juan 8, Literature (see this card's sources) and may be briefly quoted. Neither Chen Zuren nor Zhang Zhu yet has an entry here, so nothing is supplied about their lives from this.
+
+## Reading the biography and encomium in juan 8: both name Zongze
+
+The biography by Chen Zuren and the encomium by Zhang Zhu that this notice points to are now transcribed in this card's source `src:kangxi-lishuixianzhi`, juan 8, Literature, and this entry reads them alongside the notice. Zhang Zhu's "Encomium on the Three Staunch" (headed "Duke of Lu") opens: "歸德趙雷澤二子棟之婦夏、楷之婦劉，與弟宗澤之婦衡也" — the wives Xia and Liu of the two sons of Zhao Leize of Guide, and Heng, wife of his younger brother Zongze; its verse again gives "今趙三婦，衡夏劉姓". Chen Zuren's "Biography of Righteousness" (headed "Hanlin academician") gives Zhao Jian's four sons as Longze, Leize, Zongze and Huize, and as the city was about to fall has "宗澤妻衡氏謂棟婦夏曰" — Zongze's wife Heng speaking to Dong's wife Xia and urging that they die: "事棘矣！可奈何？……吾與若寧死也" ("the crisis is grave; what can be done? ... you and I would sooner die").
+
+Both pieces name Madam Heng's husband as Zongze, disagreeing in wording with the "Zhao Leize" of the juan-7 Chaste and Staunch biography on which this entry rests. The origin of this entry's id and filename must be stated: this library's id/slug is `heng-shi-zhaoleize` ("Heng-shi, Zhao Leize"), formed from the wording "趙雷澤" in the juan-7 Chaste and Staunch biography, while the two juan-8 pieces and the juan-6 Loyalty and Integrity biography all read "宗澤". This library sets the readings side by side without deciding, and so changes neither the id nor the entry title.
 
 ## One variant: her husband "Zhao Leize" or "Zongze"
 
@@ -57,11 +65,11 @@ First, her birth and death years are not recorded; "when... the forces rose and 
 
 Second, her birth place and native place are not explicitly recorded: the gazetteer gives only that she was the wife of Zhao Leize and no home place, so no native place can be decided.
 
-Third, her husband's name disagrees in the two places — "Zhao Leize" in the Chaste and Staunch biography and "Zhao Zongze" in the Loyalty and Integrity biography — and this library sets them side by side without deciding and without altering the gazetteer's characters.
+Third, her husband's name disagrees across the notices — "Zhao Leize" in the Chaste and Staunch biography, but "Zongze" in the juan-6 Loyalty and Integrity biography and in both juan-8 pieces, Chen Zuren's "Biography of Righteousness" and Zhang Zhu's "Encomium on the Three Staunch" — and this library sets them side by side without deciding, altering no gazetteer character and changing neither this entry's id nor its title.
 
 Fourth, the oath of the three women, the place where they drowned, and the year of their deaths are all unrecorded.
 
-Fifth, the biography by Chen Zuren and the encomium by Zhang Zhu are not transcribed here, and neither man has an entry, so nothing about their lives is supplied from this.
+Fifth, the biography by Chen Zuren and the encomium by Zhang Zhu are now transcribed in juan 8, Literature (see this card's sources) and may be briefly quoted; neither man yet has an entry in this library, so nothing about their lives is supplied from this.
 
 Sixth, whether any others of the Zhao house died with them besides the three women and the named Zhao Longze and his son Quan is unrecorded, and no total for the household is inferred.
 

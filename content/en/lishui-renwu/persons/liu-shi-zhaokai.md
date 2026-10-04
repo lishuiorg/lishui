@@ -5,7 +5,7 @@ lang: en
 site: lishui-renwu
 title: Madam Liu
 subtitle: One of the Three Staunch Women recorded in the Chaste and Staunch biography of juan 7 of the Kangxi Lishui County Gazetteer, wife of Zhao Kai; when the Yu-Ying forces rose and took the city, the three women swore together and then drowned themselves, and were called the "Three Staunch"; her name and her husband's agree in both notices of the gazetteer
-summary: Madam Liu is one of the three women in the "Three Staunch Women" notice in the Yuan section of the Chaste and Staunch biography in juan 7 of the Kangxi Lishui County Gazetteer, recorded there as the wife of Zhao Kai. When the Yu-Ying forces rose and took Jianye, the city fell, the three women swore to face one another and then drowned themselves together, and were called the "Three Staunch"; the Hanlin academician Chen Zuren wrote their biography and the Duke of Lu, Zhang Zhu, their encomium. This Madam Liu, wife of Zhao Kai, appears in the Zhao Longze notice of the Loyalty and Integrity biography in juan 6 as "the wife Liu of Kai the second son", agreeing with this notice, so no variant arises here. The three women are linked to one another and all link to Zhao Longze.
+summary: Madam Liu is one of the three women in the "Three Staunch Women" notice in the Yuan section of the Chaste and Staunch biography in juan 7 of the Kangxi Lishui County Gazetteer, recorded there as the wife of Zhao Kai. When the Yu-Ying forces rose and took Jianye, the city fell, the three women swore to face one another and then drowned themselves together, and were called the "Three Staunch"; the Hanlin academician Chen Zuren wrote their biography and the Duke of Lu, Zhang Zhu, their encomium. This Madam Liu, wife of Zhao Kai, appears in the Zhao Longze notice of the Loyalty and Integrity biography in juan 6 as "the wife Liu of Kai the second son", the husband's and wife's names agreeing; but how Zhao Kai died disagrees, juan 6 having him die in the water together with Madam Liu while the juan-8 pieces have him killed and Madam Liu dying separately in the water, the two accounts set side by side without deciding. The three women are linked to one another and all link to Zhao Longze.
 role: 妇女
 birth_era: 五代宋元
 relation: 活动
@@ -17,14 +17,16 @@ depth: standard
 sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之七·贞烈传「三烈妇」条（据网络转录，未核点校本）
+  - ref: src:kangxi-lishuixianzhi
+    locator: 卷之八·艺文志
 related:
   - ls:person:heng-shi-zhaoleize
   - ls:person:xia-shi-zhaodong
   - ls:person:zhao-longze
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
-Madam Liu is one of the three women in the "Three Staunch Women" notice in the Yuan section of the Chaste and Staunch biography in juan 7 of the Kangxi *Lishui County Gazetteer*. The notice opens with "the Three Staunch Women" and covers all three in one entry; this entry deals with Madam Liu alone. Unlike the case of Madam Heng, whose husband's name disagrees between the two notices, the name of Madam Liu's husband Zhao Kai agrees in both, and this entry states that too.
+Madam Liu is one of the three women in the "Three Staunch Women" notice in the Yuan section of the Chaste and Staunch biography in juan 7 of the Kangxi *Lishui County Gazetteer*. The notice opens with "the Three Staunch Women" and covers all three in one entry; this entry deals with Madam Liu alone. Unlike the case of Madam Heng, whose husband's name disagrees across the notices, the name of Madam Liu's husband Zhao Kai agrees; but how Zhao Kai died disagrees between the two juans, and this entry states that too.
 
 ## The gazetteer text
 
@@ -41,11 +43,17 @@ The subject here is the Madam Liu of the "Three Staunch Women", recorded as the 
 
 ## The biography and encomium for the "Three Staunch"
 
-"The Hanlin academician Chen Zuren wrote their biography and the Duke of Lu, Zhang Zhu, their encomium" is the gazetteer's account of later men writing a biography and encomium for them. This entry records only the existence of the biography and encomium, their authors and their offices; this library has not transcribed them, and neither Chen Zuren nor Zhang Zhu has an entry here, so nothing is supplied about their lives from this.
+"The Hanlin academician Chen Zuren wrote their biography and the Duke of Lu, Zhang Zhu, their encomium" is the gazetteer's account of later men writing a biography and encomium for them. This entry records the existence of the biography and encomium, their authors and their offices; the two pieces are now transcribed in juan 8, Literature (see this card's sources) and may be briefly quoted. Neither Chen Zuren nor Zhang Zhu yet has an entry here, so nothing is supplied about their lives from this.
+
+## Reading the biography and encomium in juan 8: Madam Liu and the manner of Kai's death
+
+The biography by Chen Zuren and the encomium by Zhang Zhu that this notice points to are now transcribed in this card's source `src:kangxi-lishuixianzhi`, juan 8, Literature, and this entry reads them alongside the notice. Zhang Zhu's "Encomium on the Three Staunch" opens with "楷之婦劉" — the wife Liu of Kai; Chen Zuren's "Biography of Righteousness" has "劉聞之，嘆曰：『嗟乎！吾夫子且不自保，能衛我乎？』亦死於水" — Madam Liu, hearing of it, sighed: "Alas! My husband cannot even protect himself; can he protect me?", and she too died in the water. Both pieces make her the wife of Zhao Kai and treat her as dying in water, agreeing with the juan-7 Chaste and Staunch biography.
+
+One disagreement must be stated: how Zhao Kai died differs between the two juans. The juan-6 Loyalty and Integrity biography reads "楷與其婦劉氏同赴水死" — Kai and his wife Liu going together to their death in the water; the juan-8 Chen Zuren "Biography of Righteousness" instead has Kai, after the city fell, seized and pressed to submit, and refusing to speak, so that "竟不言，亦死" — he was killed — with Madam Liu dying separately in the water; Zhang Zhu's verse likewise has "楷亦見殺", that Kai too was put to death. This library sets the two accounts side by side without deciding.
 
 ## Compared with the Loyalty and Integrity biography: Madam Liu's husband agrees
 
-The "Zhao Longze" notice of the Loyalty and Integrity biography in juan 6 (this library already holds the entry `ls:person:zhao-longze`) reads "the wife Xia of Dong, the elder son of his younger brother Leize; the wife Liu of Kai the second son; and the wife Heng of his younger brother Zongze". For Madam Liu the comparison is this: juan 6 has "the wife Liu of Kai the second son", agreeing with this juan's "Madam Liu, wife of Zhao Kai" — both the husband's name Zhao Kai and the wife's surname Liu being consistent. So no variant arises here, unlike the case of Madam Heng where the two disagree. The three women are the ones of Zhao Longze's house who died with him, and this entry is linked to the other two and to Zhao Longze for cross-reference only.
+The "Zhao Longze" notice of the Loyalty and Integrity biography in juan 6 (this library already holds the entry `ls:person:zhao-longze`) reads "the wife Xia of Dong, the elder son of his younger brother Leize; the wife Liu of Kai the second son; and the wife Heng of his younger brother Zongze". For Madam Liu the comparison is this: juan 6 has "the wife Liu of Kai the second son", agreeing with this juan's "Madam Liu, wife of Zhao Kai" — both the husband's name Zhao Kai and the wife's surname Liu being consistent. So the names agree here, unlike the case of Madam Heng where the husband's name disagrees; but how Zhao Kai died differs between the two juans, as set out above. The three women are the ones of Zhao Longze's house who died with him, and this entry is linked to the other two and to Zhao Longze for cross-reference only.
 
 ## Relation to Lishui
 
@@ -57,11 +65,11 @@ First, her birth and death years are not recorded; "when... the forces rose and 
 
 Second, her birth place and native place are not explicitly recorded: the gazetteer gives only that she was the wife of Zhao Kai and no home place, so no native place can be decided.
 
-Third, the life of her husband Zhao Kai and the year of their marriage are unrecorded, and Zhao Kai has no entry in this library.
+Third, the life of her husband Zhao Kai and the year of their marriage are unrecorded, and Zhao Kai has no entry in this library. Moreover how Zhao Kai died disagrees between the two juans: the juan-6 Loyalty and Integrity biography has "楷與其婦劉氏同赴水死" (Kai and his wife Liu going together to their death in the water), while the juan-8 Chen Zuren "Biography of Righteousness" and Zhang Zhu's "Encomium on the Three Staunch" have Kai killed and Madam Liu dying separately in the water; this library sets the two accounts side by side without deciding.
 
 Fourth, the oath of the three women, the place where they drowned, and the year of their deaths are all unrecorded.
 
-Fifth, the biography by Chen Zuren and the encomium by Zhang Zhu are not transcribed here, and neither man has an entry, so nothing about their lives is supplied from this.
+Fifth, the biography by Chen Zuren and the encomium by Zhang Zhu are now transcribed in juan 8, Literature (see this card's sources) and may be briefly quoted; neither man yet has an entry in this library, so nothing about their lives is supplied from this.
 
 Sixth, whether any others of the Zhao house died with them besides the three women and the named Zhao Longze and his son Quan is unrecorded, and no total for the household is inferred.
 
