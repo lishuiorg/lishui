@@ -145,23 +145,33 @@ sources/          来源层（来源卡：每个事实的出处与使用限度�
 
 ```
 分支：main...origin/main（已同步，工作树干净）
-最新提交：774c7f0  Enrich Jingqiao Town, Shiqiu Subdistrict, Ruijia Village and malt sugar
+最新提交：0064e1f  Write the project summary and mark the pause point（纯文档）
+内容最新提交：774c7f0  Enrich Jingqiao Town, Shiqiu Subdistrict, Ruijia Village and malt sugar
 ```
 
-上一批：`193f69d`（韩熙载读书台、柘塘街道）。两批均已推送。
+内容上一批：`193f69d`（韩熙载读书台、柘塘街道）。均已推送。
 
-### 8.2 如何恢复（开场照抄）
+### 8.2 暂停时做过的清理
+
+暂停时做过一轮空间与残留清理（均不影响仓库与线上站点）：
+
+- **删除 4 个站点库的 `node_modules`**（site-lishi／wenhua／jiezhen／shanshui，各约 131 MB，合计约 **524 MB**）。它们是被 `.gitignore` 忽略的依赖目录，不在 git 里；**恢复后要重新构建站点，须先在对应目录跑 `npm install`**。`dist/`（构建产物，四站约 15 MB）保留未删。
+- 删除工作区根目录的临时件：`_tmp_pdf/`（36 MB 环评 PDF）、`_tmp_rivers/`（水利河湖 OCR 原料）、`_tmp_eia*.py`／`_tmp_ft.py`／`_tmp_pdf_dl.py`、`_verify_quotes.mjs`、空目录 `tmp/`、`.trae-html-share-packages/`。其中 EIA 与水利材料均已先转为来源卡（如 `src:jiangsu-sthjt-shijiu-hudi-eia`）。
+- 删除 `tools/` 中的三张 OG 底图（`_og-*.jpg`）与三份一次性脚本（`chardiff.mjs`／`zero-diff.mjs`／`negative.mjs`），只留 `gh.mjs`。**注意**：那三张底图原是为重做各站封面所留的无字底图，删除后若需改字换字须重新生成底图（已同步修改 `docs/handoff.md`）。
+
+### 8.3 如何恢复（开场照抄）
 
 > 先读 `lishui/sources/project-summary.md` 与 `lishui/sources/progress.md`，然后我们继续。
 
-然后按第九节的下一步挑一项开始。**恢复的第一个动作应是 `npm run validate --prefix lishui`**，确认库仍是 0 错 0 警、数字与第五节一致。
+然后按第九节的下一步挑一项开始。**恢复的第一个动作应是 `npm run validate --prefix lishui`**（内容库校验不依赖站点 `node_modules`），确认库仍是 0 错 0 警、数字与第五节一致。若要构建或预览某个站点，先在该站点目录 `npm install`。
 
-### 8.3 恢复时的自检清单
+### 8.4 恢复时的自检清单
 
 - [ ] `git status` 是否干净、与 `origin/main` 同步
 - [ ] `npm run validate --prefix lishui` 是否 0 错 0 警、996 条
 - [ ] 本次要动的条目，其来源卡是否都在 `sources/` 中已录入
 - [ ] 中英文 twin 是否同 `id`、英文 `summary` 无汉字
+- [ ] 要构建站点时，对应目录是否已 `npm install`
 
 ---
 

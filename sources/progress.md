@@ -2,7 +2,7 @@
 
 > 更新时间：2026-10-04。工作区：`c:\Users\chenhua\Desktop\lishui`
 > 用途：写给接手的助手（人或 AI），一次性恢复全部工作上下文。
-> **项目已于 2026-10-04 暂停（最新提交 `774c7f0`）。** 从零讲起的项目总述与暂停交接见
+> **项目已于 2026-10-04 暂停（最新提交 `0064e1f`）。** 从零讲起的项目总述与暂停交接见
 > `lishui/sources/project-summary.md`，恢复时先读那一份，再读本文件。
 > 新会话开场可直接说：**先读 `lishui/sources/project-summary.md` 与 `lishui/sources/progress.md`，然后我们继续。**
 >
