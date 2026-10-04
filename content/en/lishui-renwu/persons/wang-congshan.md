@@ -24,6 +24,8 @@ sources:
   - ref: src:kangxi-lishuixianzhi
     locator: 卷之三·建置志「乡约」门
   - ref: src:kangxi-lishuixianzhi
+    locator: 卷之八·艺文志
+  - ref: src:kangxi-lishuixianzhi
     locator: 卷之六·忠节传「齐泰」条「嘉靖中，知县王从善、谢廷相继为祠祀之」句（据网络转录，未核点校本）
   - ref: src:guangxu-lishuixianzhi
     locator: 卷八·典祀志·表忠祠
@@ -43,7 +45,7 @@ related:
   - ls:event:ming-jiajing-4-qitai-ci-1525
   - ls:person:gao-chong
   - ls:person:zhang-wenxing
-updated: 2026-10-01
+updated: 2026-10-04
 ---
 
 Wang Congshan was a Ming magistrate who served in Lishui. The backbone of his life comes from a single entry in his official biography in juan 6 of the Kangxi *Lishui County Gazetteer*; his acts in Lishui appear scattered across three other parts of the same book, with the Guangxu gazetteer and the *Jiangnan Tongzhi* adding more. This entry keeps the biography as its frame and reports the rest source by source rather than merging them into one account.
@@ -110,11 +112,28 @@ In his leisure he went to the Xingjiao Temple and named its hall "Youde" ("again
 
 He was not a Lishui native, and enters this library through official service. His traces in Lishui are unusually dense for a Ming official connected to the county: a shrine, a granary, the community oath, a gazetteer, city works, a cliff inscription and the naming of a temple hall, all within Lishui and most of them directly recorded in the Kangxi gazetteer. Three surviving objects in Lishui are tied to him in this library's sources: the Biaozhong shrine site, the Fengquan inscription on Mount Wuxiang, and the "Zhongshan Academy official grant of land and house" stele now in Zhuangyuanfang Park.
 
+## His own writings in the gazetteer's literary section
+
+Juan 8 of the Kangxi gazetteer, its section of literature (*yiwenzhi*), collects two pieces by Wang Congshan under the heading "inscriptions" (*ming*), each subscribed 「知縣」 (magistrate): the "Inscription for the Dahe Hall" (《大和堂銘》) and the "Inscription for the Drum-Tower Bell, with preface" (《譙樓鍾銘並序》). These are the only texts known to this library that the gazetteer attributes directly to him by name.
+
+**The "Inscription for the Dahe Hall".** It records that he named a hall "Dahe Hall" (大和堂, "hall of great harmony") and wrote the inscription to set out his view of administration. Two lines carry that view: 「匪曰斯民，過在於令」 — "it is not that these people are [at fault]; the fault lies with the magistrate" — and 「士夫相安，吏民無競」 — "scholars and gentlemen live at peace, officials and people contend not". The first lays the blame for a people not yet good on the magistrate rather than on the people; the second states the aim of peace between those above and below. The inscription also has the line 「遂顏斯堂，文章昭映」 ("and so I named this hall, its elegance brightly shown"), which agrees with his naming of the hall. The gazetteer records the inscription's words only: it **does not give the hall's location or its nature** (whether it was a hall of the county office, of the school, or elsewhere). This library has no such information and does not supply it.
+
+**The "Inscription for the Drum-Tower Bell, with preface".** The preface is in Wang Congshan's own words and is the most direct account of his career that this library has from him:
+
+> 大明嘉靖癸未，予自西台試政，出宰溧水，又明年丙戌，積滯漸通……因取譙樓之鐘而新之。
+> — Kangxi *Lishui County Gazetteer*, juan 8
+
+Three points follow. First, he describes himself as first "on trial in the Western Office" and then "coming out to govern Lishui" (自西台試政……出宰溧水); this is his own account of how he entered the Lishui magistracy, and it complements the biography's "entered by the *jinshi* degree, appointed in the third year of Jiajing". What office the "Western Office" (西台) denotes is not stated in the gazetteer text this library relies on, so no identification is offered here. Second, he dates the matter to "嘉靖癸未", i.e. Jiajing 2 (1523) — one year earlier than the biography's "appointed in the third year of Jiajing" (1524). This is an independent chronological datum, and one that conflicts. Third, "又明年丙戌" is Jiajing 5 (1526), and he says it was that year, with "accumulated arrears gradually cleared and the people's mood somewhat eased", that he had the drum-tower bell recast.
+
+The preface's internal inconsistency must also be stated plainly: **from 癸未 (1523) to 丙戌 (1526) is three years apart, whereas "又明年" taken literally means the year after the next (乙酉, 1525), which does not match the stated 丙戌.** This library therefore treats it only as one recorded chronological discrepancy, set alongside the others, and **uses it neither to fix the year he took up office nor to date the recasting of the bell.**
+
+The limit of the transcription must be remembered as well: the piece is titled "with preface" (並序), but **the transcription stops at the end of the preface, at「復為之銘」, and the inscription proper is not transcribed.** From this piece this library can use the preface only; the verses that followed it are absent from the transcription, and the gap is left as a gap — **they are not supplied, and no other text is substituted for them.**
+
 ## Points of doubt
 
 First, his birth and death years are unknown. The gazetteer records only that he took office in 1524, not his birth, death, or the year he left office.
 
-Second, the end of his term is inconsistent across three sources and cannot be resolved within this entry. The scenic area's website says he served as magistrate of Lishui from 1524 to 1528. The Jiangsu provincial culture-and-tourism report on the Fourth National Cultural Relics Survey says the "Zhongshan Academy official grant of land and house" stele was "erected by Wang Congshan, magistrate of Lishui, in 1554". And the same volume of the Kangxi gazetteer that carries his biography records Gao Chong as appointed in 1528 and Zhang Wenxing as appointed in 1530 — so a successor was in post by 1528, which agrees with "until 1528" and conflicts with a stele in 1554. If he left office in 1528, the 1554 stele comes twenty-six years after his term, and the title "magistrate of Lishui" sits oddly with that. This library has no material that decides which is right, and all three are recorded: the scenic area's dating is not used to fix the end of his term, the stele's date is not used to fix him in office until 1554, and the successor's appointment year is not used to conclude that he had left by 1528 — a successor's arrival only shows that someone took the post that year, and records nothing about when his predecessor handed over.
+Second, the end of his term is inconsistent across three sources, and his own words add a further point of conflict; the mutually inconsistent datings now number four, and cannot be resolved within this entry. The scenic area's website says he served as magistrate of Lishui from 1524 to 1528. The Jiangsu provincial culture-and-tourism report on the Fourth National Cultural Relics Survey says the "Zhongshan Academy official grant of land and house" stele was "erected by Wang Congshan, magistrate of Lishui, in 1554". And the same volume of the Kangxi gazetteer that carries his biography records Gao Chong as appointed in 1528 and Zhang Wenxing as appointed in 1530 — so a successor was in post by 1528, which agrees with "until 1528" and conflicts with a stele in 1554. If he left office in 1528, the 1554 stele comes twenty-six years after his term, and the title "magistrate of Lishui" sits oddly with that. In addition, his own "Inscription for the Drum-Tower Bell, with preface" states 「嘉靖癸未……出宰溧水」, placing his taking up the Lishui magistracy in Jiajing 2 (1523), a year earlier than the biography's "appointed in the third year of Jiajing" — a fourth dating inconsistent with the rest. This library has no material that decides which is right, and all four are recorded: the scenic area's dating is not used to fix the end of his term, the stele's date is not used to fix him in office until 1554, the successor's appointment year is not used to conclude that he had left by 1528 (a successor's arrival only shows that someone took the post that year, and records nothing about when his predecessor handed over), and his own "entered office in 癸未" is not used to fix the year he took up the post.
 
 Third, the shrine is named Biaozhong in one passage of the Kangxi gazetteer and Zhongjie in another. This entry keeps both and does not decide which was the original name.
 

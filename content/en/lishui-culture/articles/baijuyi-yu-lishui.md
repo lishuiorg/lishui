@@ -20,6 +20,8 @@ sources:
     locator: "Miscellaneous Records": the epitaph's abridged text and the origins of the city god
   - ref: src:kangxi-lishuixianzhi
     locator: juan 3, Establishments, "County"; juan 9, Literature, Pan Ye's "Record of Repairing the Confucian School and its Roads"
+  - ref: src:kangxi-lishuixianzhi
+    locator: juan 8, Literature, Bai Juyi's "Epitaph for Lord Bai"
   - ref: src:njls-qqjj
     locator: first paragraph
   - ref: src:fangzhijs-baijuyi
@@ -33,9 +35,12 @@ citations:
   - ref: src:kangxi-lishuixianzhi
     locator: juan 3, Establishments, "County"
     quote: 唐时故址即今城隍庙也。元和间改县为白侯庙，而遂为城隍。
+  - ref: src:kangxi-lishuixianzhi
+    locator: juan 8, Literature, Bai Juyi's "Epitaph for Lord Bai"
+    quote: 繄我叔父，溧水府君。治本於家，政施於民。
 related:
   - ls:article:yuanmei-chudi-lishui
-updated: 2026-09-29
+updated: 2026-10-04
 ---
 
 ## Bai Jikang and Lishui
@@ -45,6 +50,36 @@ Bai Jikang was Bai Juyi's uncle (literally his father's cousin). Bai Juyi wrote 
 The kinship term varies by source: media reports and encyclopaedias usually say "uncle", specialised compilations say "father's cousin (a more distant uncle)", and the gazetteer text of the epitaph says "uncle". This entry keeps both, without choosing.
 
 The district government's "District Overview" page lists "the Tang poet Bai Jikang, the Song poet Zhou Bangyan and the Qing man of letters Yuan Mei" among former magistrates of Lishui.
+
+## The epitaph as carried in juan 8 of the Kangxi gazetteer
+
+juan 8 of the Kangxi *Lishui County Gazetteer* ("Literature") also carries Bai Juyi's "Epitaph for Lord Bai" (headed "Grand Tutor", for the same Bai Jikang). Elsewhere this entry quotes the text from juan 70 of the *Bai shi changqing ji*; the two are two redactions — two vessels — of one and the same epitaph, differing in small ways and each fuller in places. Both are kept here, neither set aside for the other.
+
+The gazetteer text adds four things. First, the lineage. Its opening differs from the *Changqing ji* text:
+
+> 康熙志本：公諱季康，太原人。
+>
+> 《白氏長慶集》本：公諱季康，字某，太原人。
+
+*Translated:* the Kangxi text has "Duke Ji Kang, a man of Taiyuan", while the *Changqing ji* text inserts the placeholder courtesy name, "styled so-and-so". It then names his great-grandfather Shitong, governor of Lizhou; his grandfather Zhishan, an imperial physician; and his father Lin, registrar of Yangzhou. The last agrees with the notable-officials biography ("his father Lin was registrar of Yangzhou"), and the two corroborate each other.
+
+Second, the four magistracies. It lists Xiaqui in Huazhou (constable), Henei in Huaizhou (assistant), Pengcheng in Xuzhou (magistrate), Xunyang in Jiangzhou (magistrate), Hongxian in Suzhou (magistrate) and Lishui in Xuanzhou (magistrate), with Lishui last. Four of these — Pengcheng, Xunyang, Hongxian and Lishui — are "ling" (magistracies), and Lishui is the last of them; the biography's "he had already been a magistrate four times" is thereby given its four posts and their order.
+
+Third, his household and burial. His first wife, née Xue, bore two sons, one constable of Yuqian in Hangzhou and one constable of Suian in Muzhou, and a daughter, Jianxu, who took vows before marriage. His second wife, née Jing of Gaoyang, bore a son and two daughters who both died young; the son was Minzhong, a presented scholar, who had held a judgeship in the Court of Judicial Review and served as secretary in three prefectural offices. The epitaph says he "died in the official residence" and was buried back at Xiaqui; his second wife died in the seventh year of Taihe (833) and was jointly interred with him the following year.
+
+Fourth, the inscription itself. It opens:
+
+> 繄我叔父，溧水府君。治本於家，政施於民。
+
+*Translated:* Alas, my uncle, the Lord of Lishui: he ordered his household as the root and spread his government among the people.
+
+It closes with the lines:
+
+> 訓著趨庭，善彰卜鄰。故其嗣子，休有令聞。
+
+four-character rhymed lines throughout.
+
+One difference of address also separates the two texts from the biography: the biography calls Juyi Jikang's "congzi" (nephew), whereas the inscription has Jikang's son Minzhong, at the burial, "entrust the stone to his cousin Juyi"; the two terms differ, and are set side by side without adjudication.
 
 ## Bai Juyi joins him and sits the examination
 
